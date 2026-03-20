@@ -1,6 +1,19 @@
-# 独立研究者博客深度解读
+# 独立研究者与基础论文深度解读
 
-来自 AI 领域最有影响力的独立研究者的经典博客文章。
+来自 AI 领域最有影响力的独立研究者的经典博客文章，以及塑造当今 AI 格局的里程碑论文解读。
+
+## 基础论文精读
+
+这些是每个 AI 从业者都应该读的里程碑级工作。
+
+| 文章 | 主题 |
+|------|------|
+| [Attention Is All You Need](./foundational/01-attention-is-all-you-need-transformer) | Transformer 架构：现代 AI 的基石 |
+| [Scaling Laws](./foundational/02-scaling-laws-neural-language-models) | 缩放定律：模型性能与规模的幂律关系 |
+| [Chain-of-Thought Prompting](./foundational/03-chain-of-thought-prompting) | 思维链提示：GSM8K 从 18% 跳到 58% |
+| [RLHF / InstructGPT](./foundational/04-rlhf-instructgpt) | 人类反馈强化学习：1.3B 胜 175B |
+| [Mixture of Experts](./foundational/05-mixture-of-experts) | 混合专家架构：从 1991 到 Mixtral |
+| [RAG 检索增强生成](./foundational/06-rag-retrieval-augmented-generation) | RAG 全流程：向量检索到 Agentic RAG |
 
 ## Lilian Weng（翁荔）
 
