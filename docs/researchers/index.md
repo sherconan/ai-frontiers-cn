@@ -19,6 +19,12 @@
 
 前 Tesla AI 总监、OpenAI 创始团队，深度学习领域最具影响力的教育者之一。
 
-::: info 翻译中
-Karpathy 博客文章正在处理中，即将上线。
-:::
+| 文章 | 主题 |
+|------|------|
+| [Software 2.0](./karpathy/01-software-2.0-软件2.0) | 神经网络作为新编程范式 |
+| [RNN 的不合理有效性](./karpathy/02-rnn-effectiveness-RNN的不合理有效性) | 字符级语言模型的魔力 |
+| [训练神经网络的秘诀](./karpathy/03-recipe-training-neural-networks-训练神经网络的秘诀) | 六阶段系统方法论 |
+| [你应该理解反向传播](./karpathy/04-yes-understand-backprop-你应该理解反向传播) | 梯度消失/死亡 ReLU/爆炸梯度 |
+| [深度神经网络 33 年](./karpathy/05-deep-neural-nets-33-years-深度神经网络33年) | 复现 1989 论文 + 展望 2055 |
+| [microgpt](./karpathy/06-microgpt-微型GPT) | 200 行纯 Python 实现完整 GPT |
+| [2025 年 LLM 年度回顾](./karpathy/07-2025-llm-year-in-review-2025年LLM年度回顾) | RLVR/锯齿智能/氛围编程等六大范式 |
