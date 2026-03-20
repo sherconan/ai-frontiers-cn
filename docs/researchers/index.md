@@ -28,3 +28,37 @@
 | [深度神经网络 33 年](./karpathy/05-deep-neural-nets-33-years-深度神经网络33年) | 复现 1989 论文 + 展望 2055 |
 | [microgpt](./karpathy/06-microgpt-微型GPT) | 200 行纯 Python 实现完整 GPT |
 | [2025 年 LLM 年度回顾](./karpathy/07-2025-llm-year-in-review-2025年LLM年度回顾) | RLVR/锯齿智能/氛围编程等六大范式 |
+
+## Simon Willison
+
+AI 安全与工具领域最活跃的博主之一，专注 prompt injection 和 LLM 安全。
+
+| 文章 | 主题 |
+|------|------|
+| [AI 代理的致命三要素](./simonwillison/AI代理的致命三要素) | 私有数据+不可信内容+外部通信 |
+| [CaMeL 提示注入防御](./simonwillison/CaMeL提示注入防御新方向) | Google DeepMind 的系统级防御方案 |
+
+## Jay Alammar
+
+以可视化解释著称的 AI 教育者，"图解"系列是入门经典。
+
+| 文章 | 主题 |
+|------|------|
+| [图解 Transformer](./jayalammar/图解Transformer) | 自注意力、多头注意力的可视化讲解 |
+
+## Sebastian Raschka
+
+ML 研究者和畅销书作者，专注 LLM 训练方法论。
+
+| 文章 | 主题 |
+|------|------|
+| [LLM 预训练与后训练新范式](./sebastianraschka/LLM预训练与后训练新范式) | Qwen2/AFM/Gemma2/Llama3.1 对比 |
+
+## Chip Huyen
+
+MLOps 和 LLM 部署专家，著有《Designing Machine Learning Systems》。
+
+| 文章 | 主题 |
+|------|------|
+| [构建生成式 AI 平台](./chiphuyen/构建生成式AI平台) | RAG/护栏/路由/缓存/编排完整架构 |
+| [AI 代理全面指南](./chiphuyen/AI代理全面指南) | 代理定义/组件/规划/失败模式/评估 |
