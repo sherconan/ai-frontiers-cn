@@ -8,26 +8,43 @@ export default defineConfig({
 
   head: [
     ['meta', { name: 'author', content: 'AI 前沿精读' }],
-    ['meta', { name: 'keywords', content: 'AI, 人工智能, Anthropic, OpenAI, DeepMind, 翻译, 解读' }],
+    ['meta', { name: 'keywords', content: 'AI, 人工智能, Anthropic, OpenAI, DeepMind, 翻译, 解读, Claude, GPT, Gemini, DeepSeek, Qwen' }],
+    ['link', { rel: 'icon', type: 'image/svg+xml', href: 'data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y=".9em" font-size="90">🧠</text></svg>' }],
   ],
 
   themeConfig: {
+    logo: '🧠',
     nav: [
       { text: '首页', link: '/' },
       {
-        text: '文章分类',
+        text: '海外实验室',
         items: [
-          { text: 'Anthropic', link: '/anthropic/' },
-          { text: 'OpenAI', link: '/openai/' },
-          { text: 'Google DeepMind', link: '/deepmind/' },
-          { text: 'Kimi', link: '/kimi/' },
-          { text: 'Qwen', link: '/qwen/' },
-          { text: 'DeepSeek', link: '/deepseek/' },
-          { text: '独立研究者', link: '/researchers/' },
-          { text: 'Meta AI', link: '/meta-ai/' },
-          { text: 'xAI (Grok)', link: '/xai/' },
-          { text: 'Mistral AI', link: '/mistral/' },
-          { text: '其他中国 AI', link: '/chinese-ai/' },
+          { text: '🧠 Anthropic (50)', link: '/anthropic/' },
+          { text: '🤖 OpenAI (15)', link: '/openai/' },
+          { text: '🔬 DeepMind (18)', link: '/deepmind/' },
+          { text: '🦙 Meta AI (5)', link: '/meta-ai/' },
+          { text: '⚡ xAI / Grok (2)', link: '/xai/' },
+          { text: '🇪🇺 Mistral AI (2)', link: '/mistral/' },
+        ],
+      },
+      {
+        text: '中国 AI',
+        items: [
+          { text: '🦊 DeepSeek (8)', link: '/deepseek/' },
+          { text: '🌙 Kimi / 月之暗面 (8)', link: '/kimi/' },
+          { text: '☁️ Qwen / 通义 (9)', link: '/qwen/' },
+          { text: '🇨🇳 MiniMax·智谱·百川 (3)', link: '/chinese-ai/' },
+        ],
+      },
+      {
+        text: '研究者 & 论文',
+        items: [
+          { text: '📜 基础论文精读 (6)', link: '/researchers/#基础论文精读' },
+          { text: '🎓 Karpathy (7)', link: '/researchers/#andrej-karpathy' },
+          { text: '📝 Lilian Weng (6)', link: '/researchers/#lilian-weng-翁荔' },
+          { text: '🛡️ Simon Willison (2)', link: '/researchers/#simon-willison' },
+          { text: '🏗️ Chip Huyen (2)', link: '/researchers/#chip-huyen' },
+          { text: '📊 更多研究者...', link: '/researchers/' },
         ],
       },
     ],
