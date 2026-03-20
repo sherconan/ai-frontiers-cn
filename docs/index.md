@@ -3,46 +3,59 @@ layout: home
 
 hero:
   name: "AI 前沿精读"
-  text: "全球顶尖 AI 实验室博客的中文翻译与深度解读"
-  tagline: 追踪 Anthropic、OpenAI、Google DeepMind 等顶级实验室的最新研究与工程实践
+  text: "145+ 篇深度解读"
+  tagline: 全球顶尖 AI 实验室博客的中文翻译与深度分析。覆盖 Anthropic、OpenAI、Google DeepMind、Meta、DeepSeek 等 11 个分类。
   actions:
     - theme: brand
-      text: 开始阅读
+      text: 开始阅读 →
       link: /anthropic/
     - theme: alt
-      text: 关于本站
-      link: /about
+      text: GitHub
+      link: https://github.com/sherconan/ai-frontiers-cn
 
 features:
-  - title: Anthropic
-    details: Claude 背后的 AI 安全公司。涵盖 Agent 构建、对齐研究、安全分类器等深度解读。
+  - icon: 🧠
+    title: Anthropic (50 篇)
+    details: Claude 背后的 AI 安全先锋。对齐伪装、Agent 构建、评测感知、宪法分类器、MCP 标准...
     link: /anthropic/
-  - title: OpenAI
-    details: GPT 与 ChatGPT 的缔造者。追踪其最新模型能力、安全研究与产品动态。
+  - icon: 🤖
+    title: OpenAI (15 篇)
+    details: GPT-5.2、o3/o4 推理模型、Codex Agent、Sora 2、准备框架、弱到强泛化...
     link: /openai/
-  - title: Google DeepMind
-    details: AlphaGo 与 Gemini 的研发团队。关注其在多模态、科学发现等领域的突破。
+  - icon: 🔬
+    title: Google DeepMind (18 篇)
+    details: Gemini 2.0/2.5、AlphaFold 3、AlphaEvolve、GenCast 天气预报、Project Astra...
     link: /deepmind/
-  - title: Kimi
-    details: 月之暗面旗下大模型。关注其长上下文、推理能力等技术进展。
-    link: /kimi/
-  - title: Qwen
-    details: 阿里通义千问系列模型。追踪其开源模型与技术报告的深度解析。
-    link: /qwen/
-  - title: DeepSeek
-    details: 深度求索系列模型。解读其在推理、代码生成等方面的创新。
+  - icon: 🦊
+    title: DeepSeek (8 篇)
+    details: V3（$560万训练）、R1（纯RL涌现推理）、Coder-V2、Math-V2、Janus-Pro 多模态...
     link: /deepseek/
+  - icon: 🌙
+    title: Kimi / 月之暗面 (8 篇)
+    details: K2/K2.5 集群智能、MoBA 注意力、Researcher Agent、Kimi Code CLI...
+    link: /kimi/
+  - icon: ☁️
+    title: Qwen / 通义千问 (9 篇)
+    details: Qwen3 混合思考、QwQ-32B、Qwen2.5-VL/Omni、Qwen3-Coder、TTS 语音克隆...
+    link: /qwen/
+  - icon: 🦙
+    title: Meta AI (5 篇)
+    details: Llama 4（Scout/Maverick/Behemoth）、Llama 3.1 405B、FAIR 具身 AI...
+    link: /meta-ai/
+  - icon: 📜
+    title: 基础论文 + 独立研究者 (25 篇)
+    details: Transformer、Scaling Laws、RLHF、MoE、RAG + Karpathy、翁荔、Chip Huyen...
+    link: /researchers/
+  - icon: 🌍
+    title: 更多公司
+    details: xAI (Grok 3)、Mistral AI (Large 2)、MiniMax、智谱 AI、百川智能...
+    link: /xai/
 ---
 
-## 关于本站
+<div style="text-align: center; padding: 2rem 1rem; opacity: 0.8;">
 
-**AI 前沿精读**致力于将全球顶尖 AI 实验室和独立研究者的重要博客文章翻译为中文，并提供深度解读与分析。
+**每篇文章包含：** 完整中文翻译 · 技术要点提炼 · 深度解读分析 · 延伸思考
 
-我们关注的核心主题包括：
+持续更新中 · 由 Claude Code 自动维护
 
-- **AI Agent**：智能体架构、工具使用、多智能体协作
-- **AI 安全与对齐**：对齐伪装、宪法分类器、模型福祉
-- **模型能力评估**：推理、内省、评估感知
-- **工程实践**：上下文工程、高效框架、提示工程
-
-每篇文章不仅提供忠实的翻译，更包含译者的深度评论和延伸思考，帮助中文读者更好地理解 AI 前沿进展。
+</div>
