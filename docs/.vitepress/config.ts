@@ -25,6 +25,8 @@ export default defineConfig({
           { text: 'DeepSeek', link: '/deepseek/' },
           { text: '独立研究者', link: '/researchers/' },
           { text: 'Meta AI', link: '/meta-ai/' },
+          { text: 'xAI (Grok)', link: '/xai/' },
+          { text: 'Mistral AI', link: '/mistral/' },
           { text: '其他中国 AI', link: '/chinese-ai/' },
         ],
       },
@@ -106,6 +108,22 @@ export default defineConfig({
           text: 'Meta AI',
           items: [
             { text: '概览', link: '/meta-ai/' },
+          ],
+        },
+      ],
+      '/xai/': [
+        {
+          text: 'xAI (Grok)',
+          items: [
+            { text: '概览', link: '/xai/' },
+          ],
+        },
+      ],
+      '/mistral/': [
+        {
+          text: 'Mistral AI',
+          items: [
+            { text: '概览', link: '/mistral/' },
           ],
         },
       ],
