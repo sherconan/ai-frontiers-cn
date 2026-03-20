@@ -24,6 +24,7 @@ export default defineConfig({
           { text: 'Qwen', link: '/qwen/' },
           { text: 'DeepSeek', link: '/deepseek/' },
           { text: '独立研究者', link: '/researchers/' },
+          { text: 'Meta AI', link: '/meta-ai/' },
           { text: '其他中国 AI', link: '/chinese-ai/' },
         ],
       },
@@ -97,6 +98,14 @@ export default defineConfig({
           text: '独立研究者',
           items: [
             { text: '概览', link: '/researchers/' },
+          ],
+        },
+      ],
+      '/meta-ai/': [
+        {
+          text: 'Meta AI',
+          items: [
+            { text: '概览', link: '/meta-ai/' },
           ],
         },
       ],
