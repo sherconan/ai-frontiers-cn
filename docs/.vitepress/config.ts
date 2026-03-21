@@ -1,6 +1,7 @@
 import { defineConfig } from 'vitepress'
+import { withMermaid } from 'vitepress-plugin-mermaid'
 
-export default defineConfig({
+export default withMermaid(defineConfig({
   title: 'AI 前沿精读',
   description: '全球顶尖 AI 实验室博客的中文翻译与深度解读',
   lang: 'zh-CN',
@@ -185,4 +186,16 @@ export default defineConfig({
     sidebarMenuLabel: '菜单',
     darkModeSwitchLabel: '外观',
   },
-})
+
+  mermaid: {
+    theme: 'base',
+    themeVariables: {
+      primaryColor: '#6366f1',
+      primaryTextColor: '#fff',
+      primaryBorderColor: '#4f46e5',
+      lineColor: '#818cf8',
+      secondaryColor: '#06b6d4',
+      tertiaryColor: '#f0f9ff',
+    },
+  },
+}))
