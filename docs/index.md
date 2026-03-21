@@ -7,7 +7,10 @@ hero:
   tagline: 全球顶尖 AI 实验室博客的中文翻译与深度分析。覆盖 Anthropic、OpenAI、Google DeepMind、Meta、DeepSeek 等 11 个分类。
   actions:
     - theme: brand
-      text: 开始阅读 →
+      text: 🕰️ 沿时间线阅读 →
+      link: /timeline/
+    - theme: alt
+      text: 按公司浏览
       link: /anthropic/
     - theme: alt
       text: GitHub
