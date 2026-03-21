@@ -51,6 +51,8 @@ graph TD
     end
 ```
 
+![宪法分类器工作流程：宪法制定、合成数据生成与增强、分类器训练](/ai-frontiers-cn/images/anthropic/constitutional-classifiers-pipeline.jpg)
+
 **1. 📜 宪法制定（Constitution Development）**
 
 研究人员首先制定一套明确的原则体系，即"宪法"，清晰定义哪些内容类别是允许的、哪些是不允许的。这套宪法为后续的数据生成和分类器训练提供了基础判断标准。
@@ -90,6 +92,8 @@ graph LR
 
 ### 三、自动化评估结果
 
+![评估结果：越狱成功率、误拒率增加和计算开销对比](/ai-frontiers-cn/images/anthropic/constitutional-classifiers-results.png)
+
 | 指标 | 数值 | 说明 |
 |------|------|------|
 | 🔴 **无防御时越狱成功率** | 86% | 几乎不设防 |
@@ -118,6 +122,8 @@ Anthropic 组织了一次大规模的赏金猎人（bug bounty）项目：
 - 💬 **交互次数**：超过 300,000 次对话交互
 - 🕐 **总红队时间**：约 3,700 小时
 - 📅 **演示持续时间**：七天
+
+![挑战参与度：339名用户通过第一关，仅4名成功完成全部8个关卡](/ai-frontiers-cn/images/anthropic/constitutional-classifiers-challenge.png)
 
 **最终结果：**
 
