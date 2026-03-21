@@ -156,6 +156,10 @@ graph TD
 
 ##### 5.1 增强型 LLM（Augmented LLM）—— 一切的基石
 
+![增强型LLM架构](/ai-frontiers-cn/images/anthropic/agents-augmented-llm.png)
+
+*图：增强型 LLM 的核心架构——集检索、工具调用与记忆于一体的基础构建单元*
+
 最基础的构建单元是一个经过增强的 LLM，它具备三种能力：
 
 - 🔍 **检索（Retrieval）：** 从外部知识库获取信息
@@ -165,6 +169,10 @@ graph TD
 当前最先进的模型已经能够**主动运用**这些能力——自己生成搜索查询、选择合适的工具、决定哪些信息需要保留。Model Context Protocol（MCP）提供了与第三方工具和数据源集成的标准化方式。
 
 ##### 5.2 提示链（Prompt Chaining）
+
+![提示链模式](/ai-frontiers-cn/images/anthropic/agents-prompt-chaining.png)
+
+*图：提示链模式——将复杂任务分解为顺序执行的多个步骤，每步之间可插入门控检查*
 
 **将任务分解为顺序执行的多个步骤，每一步的 LLM 调用处理上一步的输出。**
 
@@ -187,6 +195,10 @@ graph LR
 
 ##### 5.3 路由（Routing）
 
+![路由模式](/ai-frontiers-cn/images/anthropic/agents-routing.png)
+
+*图：路由模式——对输入进行分类，将不同类型的请求导向各自专用的处理路径*
+
 **对输入进行分类，并将其导向不同的专用处理路径。**
 
 这种模式实现了"关注点分离"——每条路径可以使用各自优化过的提示词，避免因兼顾所有情况而导致任何一种情况的处理质量下降。
@@ -197,12 +209,20 @@ graph LR
 
 ##### 5.4 并行化（Parallelization）
 
+![并行化模式](/ai-frontiers-cn/images/anthropic/agents-parallelization.png)
+
+*图：并行化模式——将任务拆分为独立子任务同时执行，或对同一任务多次运行获取多样化输出*
+
 两种变体：
 
 - **分段（Sectioning）：** 将任务拆分为**相互独立的子任务**，并行执行后汇总。例如：一个子模型负责内容安全审核（护栏），另一个同时执行核心任务。
 - **投票（Voting）：** 对**同一个任务**运行多次，获取多样化的输出。适用于需要多视角的场景，如代码审查、内容评估。
 
 ##### 5.5 编排者-执行者（Orchestrator-Workers）
+
+![编排者-执行者模式](/ai-frontiers-cn/images/anthropic/agents-orchestrator-workers.png)
+
+*图：编排者-执行者模式——中央 LLM 动态分解任务并分派给多个执行者*
 
 **一个中央 LLM（编排者）动态分解任务，分派给多个工作 LLM（执行者），最后综合结果。**
 
@@ -213,6 +233,10 @@ graph LR
 - 搜索任务中需要从多个数据源收集和分析信息
 
 ##### 5.6 评估者-优化者（Evaluator-Optimizer）
+
+![评估者-优化者模式](/ai-frontiers-cn/images/anthropic/agents-evaluator-optimizer.png)
+
+*图：评估者-优化者模式——一个 LLM 生成，另一个 LLM 评估，反复迭代直至满意*
 
 **一个 LLM 生成响应，另一个 LLM 提供评估和反馈，形成迭代循环。**
 
@@ -225,6 +249,10 @@ graph LR
 ---
 
 #### 六、自主 Agent
+
+![自主Agent架构](/ai-frontiers-cn/images/anthropic/agents-autonomous.png)
+
+*图：自主 Agent 架构——LLM 通过工具与环境持续交互，形成感知-行动循环*
 
 当 LLM 在以下能力上足够成熟时，真正的自主 Agent 才得以实现：
 
@@ -267,6 +295,10 @@ graph TD
 **典型案例：**
 - 🖥️ 编码 Agent：在 SWE-bench Verified 基准测试中，仅凭 PR 描述就能解决真实的 GitHub Issue
 - 🖱️ 计算机使用 Agent：Claude 操控计算机界面完成各类任务
+
+![编码Agent流程](/ai-frontiers-cn/images/anthropic/agents-coding-flow.png)
+
+*图：编码 Agent 的高层工作流——从接收任务到产出代码修改的完整流程*
 
 ---
 
