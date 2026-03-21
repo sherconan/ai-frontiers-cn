@@ -1,20 +1,40 @@
 # GenCast: Predicts Weather and the Risks of Extreme Conditions with State-of-the-Art Accuracy
 
+> 📊 难度：⭐⭐⭐ | ⏱️ 阅读：12分钟 | 📅 2024年12月4日 | 🏷️ GenCast, 天气预报, 扩散模型, 集合预报
+
 # GenCast：以最先进精度预测天气与极端气候风险
 
-## 一句话摘要
+## 📝 一句话摘要
 
 Google DeepMind 推出基于扩散模型的 AI 天气预报系统 GenCast，在 97.2% 的测试指标上超越欧洲中期天气预报中心（ECMWF）的业务系统，仅需一块 TPU 芯片 8 分钟即可生成 15 天全球集合预报。
 
 ---
 
-## 核心内容
+## 🔍 核心内容
 
 ### 背景
 
 2024年12月4日，Google DeepMind 发布了 GenCast——一款基于生成式 AI 的天气预报模型。这是继 GraphCast（2023年发布的确定性预报模型）之后的重大升级。GenCast 的核心创新在于将扩散模型技术从图像生成领域迁移到气象预报领域，实现了概率性集合预报（ensemble forecasting）。
 
 ### 技术架构
+
+```mermaid
+graph LR
+    A[40年ERA5数据] --> B[GenCast<br>扩散模型]
+    B --> C[50+预测成员<br>集合预报]
+    C --> D[97.2%指标<br>超越ECMWF]
+
+    E[单块TPU v5] --> B
+    B --> F[8分钟<br>15天全球预报]
+
+    D --> G[极端天气预警]
+    D --> H[热带气旋追踪]
+    D --> I[风能规划]
+
+    style B fill:#4285f4,color:white
+    style D fill:#34a853,color:white
+```
+
 
 GenCast 采用了针对球面几何特性进行适配的扩散模型。与传统确定性预报给出单一结果不同，GenCast 生成包含 50 个或更多预测成员的集合预报，每个成员代表一条可能的天气演化轨迹。这种方法从根本上捕捉了天气预测中的不确定性。
 
@@ -45,7 +65,7 @@ GenCast 的表现令人瞩目：
 
 ---
 
-## 技术要点
+## 🔬 技术要点
 
 1. **扩散模型迁移**：将图像/视频生成领域的扩散模型技术适配到球面地球几何，实现概率性天气预报
 2. **集合预报机制**：生成 50+ 个预测成员，每个代表独立的天气演化轨迹，从根本上量化预报不确定性
@@ -55,9 +75,14 @@ GenCast 的表现令人瞩目：
 
 ---
 
-## 深度解读
+## 🧠 深度解读
+
+
+### 🟢 通俗版
 
 GenCast 的意义远不止于"一个更好的天气预报模型"。它代表了 AI 在地球科学领域的一次范式转换。
+
+### 🔴 深入版
 
 **从确定性到概率性**：传统数值天气预报和 GraphCast 都给出单一的"最可能"结果。GenCast 的集合预报方法承认并量化了天气系统的内在混沌性。对于决策者来说，知道"有 30% 的概率出现极端降水"比"明天会下大雨"更有价值。
 
@@ -69,7 +94,7 @@ GenCast 的意义远不止于"一个更好的天气预报模型"。它代表了 
 
 ---
 
-## 延伸思考
+## 💡 延伸思考
 
 - **AI 会取代气象学家吗？**：GenCast 的作者强调"互补性"而非"替代性"，但当 AI 在 99.8% 的指标上全面胜出时，传统物理模式的角色会如何演变？
 - **气候变化适应**：GenCast 训练于历史数据，当气候系统进入前所未有的新状态时，模型的泛化能力是否可靠？
@@ -78,7 +103,7 @@ GenCast 的意义远不止于"一个更好的天气预报模型"。它代表了 
 
 ---
 
-## 原文链接
+## 🔗 原文链接
 
 - [GenCast predicts weather and the risks of extreme conditions with state-of-the-art accuracy](https://deepmind.google/blog/gencast-predicts-weather-and-the-risks-of-extreme-conditions-with-sota-accuracy/)
 - [GraphCast: AI model for faster and more accurate global weather forecasting](https://deepmind.google/blog/graphcast-ai-model-for-faster-and-more-accurate-global-weather-forecasting/)

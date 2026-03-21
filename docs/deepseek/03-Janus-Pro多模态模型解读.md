@@ -1,20 +1,61 @@
-# Janus-Pro: Unified Multimodal Understanding and Generation with Data and Model Scaling / Janus-Pro：通过数据与模型扩展实现统一的多模态理解与生成
+# 🎨 Janus-Pro: Unified Multimodal Understanding and Generation with Data and Model Scaling / Janus-Pro：通过数据与模型扩展实现统一的多模态理解与生成
 
-## 一句话摘要
+> 📊 难度：⭐⭐⭐ | ⏱️ 阅读：12分钟 | 📅 2025年1月 | 🏷️ 多模态, 图像生成, DeepSeek, 开源
+
+## 📝 一句话摘要
 
 Janus-Pro 是 DeepSeek 于 2025 年 1 月发布的开源多模态 AI 模型，通过解耦视觉编码的创新架构，在单一统一的 Transformer 中同时实现了多模态理解和文本到图像生成，在 GenEval 和 DPG-Bench 等基准上超越了 DALL-E 3 和 Stable Diffusion 3。
 
 ---
 
-## 完整核心内容翻译
+## 🏗️ 架构总览
 
-### 1. 研究背景与动机
+```mermaid
+graph TB
+    subgraph 输入层
+        T[📝 文本输入]
+        I[🖼️ 图像输入]
+        G[✍️ 生成指令]
+    end
+
+    subgraph 解耦视觉编码
+        E1[🔍 SigLIP-L 理解编码器<br/>384x384 语义特征]
+        E2[🎯 LlamaGen 生成分词器<br/>16x下采样 空间信息]
+    end
+
+    subgraph 统一处理
+        TF[🧠 统一 Transformer<br/>自回归处理]
+    end
+
+    subgraph 输出
+        O1[💬 文本回答]
+        O2[🖼️ 生成图像]
+    end
+
+    I --> E1
+    G --> E2
+    T --> TF
+    E1 --> TF
+    E2 --> TF
+    TF --> O1
+    TF --> O2
+
+    style E1 fill:#4CAF50,color:white
+    style E2 fill:#2196F3,color:white
+    style TF fill:#FF9800,color:white
+```
+
+---
+
+## 📖 完整核心内容翻译
+
+### 1. 🔬 研究背景与动机
 
 传统多模态模型面临一个根本性的矛盾：视觉理解（给一张图片，回答问题）和视觉生成（给一段文字，生成图片）对视觉编码器的需求存在冲突。理解任务需要高级语义特征，而生成任务需要精细的空间和纹理信息。
 
 Janus-Pro 正是为解决这一矛盾而生。它是 Janus 系列模型的增强版，核心理念是：**解耦视觉编码，统一处理架构**。
 
-### 2. 核心架构创新
+### 2. 🧩 核心架构创新
 
 #### 解耦视觉编码（Decoupled Visual Encoding）
 
@@ -37,7 +78,7 @@ Janus-Pro 正是为解决这一矛盾而生。它是 Janus 系列模型的增强
 - **模型变体**：Janus-Pro-1B 和 Janus-Pro-7B
 - **许可证**：代码为 MIT，模型权重为 DeepSeek Model License
 
-### 3. 三大改进方向
+### 3. 🚀 三大改进方向
 
 相比原始 Janus 模型，Janus-Pro 在三个维度上进行了增强：
 
@@ -45,7 +86,7 @@ Janus-Pro 正是为解决这一矛盾而生。它是 Janus 系列模型的增强
 2. **扩大训练数据**：显著增加了训练数据规模，涵盖更多样化的图像-文本对
 3. **模型规模扩展**：从更小的原型扩展到 1B 和 7B 参数，验证了架构的可扩展性
 
-### 4. 性能表现
+### 4. 📊 性能表现
 
 #### 多模态理解
 
@@ -66,7 +107,7 @@ Janus-Pro-7B 的生成质量令人印象深刻：
 
 ---
 
-## 技术要点
+## 🔑 技术要点
 
 1. **解耦编码、统一处理**：为理解和生成设计独立的视觉编码路径，但共享统一的 Transformer 处理核心，优雅地解决了多模态模型中的编码冲突
 2. **SigLIP-L + LlamaGen 双编码器**：理解用 SigLIP-L 提取语义，生成用 LlamaGen 保留细节，各司其职
@@ -76,7 +117,15 @@ Janus-Pro-7B 的生成质量令人印象深刻：
 
 ---
 
-## 深度解读
+## 🧠 深度解读
+
+### 🟢 通俗版
+
+想象你有两个专家：一个擅长"看图说话"（看到一只猫，能告诉你这是什么品种），另一个擅长"听话画图"（你说"画一只橘猫"，它能画出来）。传统方法试图让一个人同时做这两件事，结果两边都做不好。
+
+Janus-Pro 的聪明之处在于：给这个人配了两副"眼镜"——看图时戴理解眼镜，画图时戴创作眼镜——但用的是同一个大脑来思考。这样既保证了专业性，又实现了统一。而且仅用 7B 参数就超越了 DALL-E 3，说明好的设计比堆参数更重要。
+
+### 🔴 深入版
 
 Janus-Pro 的发布标志着多模态 AI 发展中一个重要的方向转变：从"专门化"走向"统一化"。
 
@@ -88,7 +137,7 @@ Janus-Pro 的发布标志着多模态 AI 发展中一个重要的方向转变：
 
 ---
 
-## 延伸思考
+## 💡 延伸思考
 
 1. **统一的极限在哪里？** Janus-Pro 证明了理解和生成可以统一，但视频理解和生成呢？3D 内容呢？音频呢？统一多模态模型的边界将在哪里？
 
@@ -100,7 +149,7 @@ Janus-Pro 的发布标志着多模态 AI 发展中一个重要的方向转变：
 
 ---
 
-## 原文链接
+## 🔗 原文链接
 
 - 技术论文（arXiv）：https://arxiv.org/abs/2501.17811
 - GitHub 仓库：https://github.com/deepseek-ai/Janus

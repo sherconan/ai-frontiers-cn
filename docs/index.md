@@ -50,6 +50,10 @@ features:
     title: 更多公司
     details: xAI (Grok 3)、Mistral AI (Large 2)、MiniMax、智谱 AI、百川智能...
     link: /xai/
+  - icon: 📑
+    title: 按主题浏览
+    details: 不按公司，按技术主题查找：Agent、安全、推理、工程、模型架构...
+    link: /topics/
 ---
 
 <div style="text-align: center; padding: 2rem 1rem; opacity: 0.8;">
