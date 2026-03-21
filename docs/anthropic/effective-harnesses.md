@@ -103,6 +103,8 @@ Agent 倾向于一次性完成太多工作——本质上是试图"一把梭"整
 
 但仍存在局限性：Claude 无法通过 Puppeteer 检测到浏览器原生的 alert 弹窗，导致依赖弹窗的功能更容易出现 Bug。
 
+![Claude通过Puppeteer MCP服务器进行端到端测试验证的演示](/ai-frontiers-cn/images/anthropic/harness-puppeteer-demo.gif)
+
 ### 📎 会话启动序列
 
 每个编码 Agent 的会话开始时执行以下标准化步骤：

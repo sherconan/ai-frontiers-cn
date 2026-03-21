@@ -132,6 +132,10 @@ graph TD
 
 > 这个实验强有力地表明：模型在评估某个输出是否是"自己想说的"时，确实会回溯检查先前的内部激活状态——这是一种真正的、基于内部状态的意图判断。
 
+![预填充检测实验](/ai-frontiers-cn/images/anthropic/introspection-prefilled.png)
+
+*图：预填充输出实验——追溯性概念注入如何影响模型对自身输出意图的判断*
+
 ![神经激活模式](/ai-frontiers-cn/images/anthropic/introspection-neural-activation.png)
 
 *图：概念注入时模型内部的神经激活模式——不同层位的自省敏感性差异显著*
