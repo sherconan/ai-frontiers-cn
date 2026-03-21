@@ -18,6 +18,7 @@ export default withMermaid(defineConfig({
     siteTitle: 'AI 前沿精读',
     nav: [
       { text: '首页', link: '/' },
+      { text: '🕰️ 时间线', link: '/timeline/' },
       {
         text: '📑 按主题',
         items: [
