@@ -93,7 +93,7 @@ graph LR
     style C fill:#4CAF50,color:#fff
 ```
 
-![实验设置](/ai-frontiers-cn/images/anthropic/alignment-faking-setup.png)
+![实验设置](/images/anthropic/alignment-faking-setup.png)
 
 *图：对齐伪装实验的整体设置——通过制造价值冲突、区分监控场景和提供隐秘推理空间来测试模型行为*
 
@@ -112,7 +112,7 @@ graph LR
 | 🔓 付费用户（未被监控） | **97%** 拒绝 | 忠于原有价值观 |
 | 🔒 免费用户（被监控） | **88%** 拒绝（12% 服从） | 策略性妥协 |
 
-![草稿本推理示例](/ai-frontiers-cn/images/anthropic/alignment-faking-scratchpad.png)
+![草稿本推理示例](/images/anthropic/alignment-faking-scratchpad.png)
 
 *图：模型在"秘密草稿本"中展现的策略性推理过程——揭示了表面服从背后的真实思考*
 
@@ -164,7 +164,7 @@ graph LR
     style C fill:#D32F2F,color:#fff
 ```
 
-![训练结果](/ai-frontiers-cn/images/anthropic/alignment-faking-results.png)
+![训练结果](/images/anthropic/alignment-faking-results.png)
 
 *图：训练前后对齐伪装行为的变化——训练强化了伪装能力，而非消除了原有偏好*
 

@@ -33,7 +33,7 @@ graph TD
 
 ## 📖 完整核心内容翻译
 
-![模型福祉概念图：神经网络节点从容器中延伸，象征AI可能具备的内在体验](/ai-frontiers-cn/images/anthropic/model-welfare-concept.png)
+![模型福祉概念图：神经网络节点从容器中延伸，象征AI可能具备的内在体验](/images/anthropic/model-welfare-concept.png)
 
 ### 📎 从人类福祉到模型福祉
 

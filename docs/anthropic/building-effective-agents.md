@@ -156,7 +156,7 @@ graph TD
 
 ##### 5.1 增强型 LLM（Augmented LLM）—— 一切的基石
 
-![增强型LLM架构](/ai-frontiers-cn/images/anthropic/agents-augmented-llm.png)
+![增强型LLM架构](/images/anthropic/agents-augmented-llm.png)
 
 *图：增强型 LLM 的核心架构——集检索、工具调用与记忆于一体的基础构建单元*
 
@@ -170,7 +170,7 @@ graph TD
 
 ##### 5.2 提示链（Prompt Chaining）
 
-![提示链模式](/ai-frontiers-cn/images/anthropic/agents-prompt-chaining.png)
+![提示链模式](/images/anthropic/agents-prompt-chaining.png)
 
 *图：提示链模式——将复杂任务分解为顺序执行的多个步骤，每步之间可插入门控检查*
 
@@ -195,7 +195,7 @@ graph LR
 
 ##### 5.3 路由（Routing）
 
-![路由模式](/ai-frontiers-cn/images/anthropic/agents-routing.png)
+![路由模式](/images/anthropic/agents-routing.png)
 
 *图：路由模式——对输入进行分类，将不同类型的请求导向各自专用的处理路径*
 
@@ -209,7 +209,7 @@ graph LR
 
 ##### 5.4 并行化（Parallelization）
 
-![并行化模式](/ai-frontiers-cn/images/anthropic/agents-parallelization.png)
+![并行化模式](/images/anthropic/agents-parallelization.png)
 
 *图：并行化模式——将任务拆分为独立子任务同时执行，或对同一任务多次运行获取多样化输出*
 
@@ -220,7 +220,7 @@ graph LR
 
 ##### 5.5 编排者-执行者（Orchestrator-Workers）
 
-![编排者-执行者模式](/ai-frontiers-cn/images/anthropic/agents-orchestrator-workers.png)
+![编排者-执行者模式](/images/anthropic/agents-orchestrator-workers.png)
 
 *图：编排者-执行者模式——中央 LLM 动态分解任务并分派给多个执行者*
 
@@ -234,7 +234,7 @@ graph LR
 
 ##### 5.6 评估者-优化者（Evaluator-Optimizer）
 
-![评估者-优化者模式](/ai-frontiers-cn/images/anthropic/agents-evaluator-optimizer.png)
+![评估者-优化者模式](/images/anthropic/agents-evaluator-optimizer.png)
 
 *图：评估者-优化者模式——一个 LLM 生成，另一个 LLM 评估，反复迭代直至满意*
 
@@ -250,7 +250,7 @@ graph LR
 
 #### 六、自主 Agent
 
-![自主Agent架构](/ai-frontiers-cn/images/anthropic/agents-autonomous.png)
+![自主Agent架构](/images/anthropic/agents-autonomous.png)
 
 *图：自主 Agent 架构——LLM 通过工具与环境持续交互，形成感知-行动循环*
 
@@ -296,7 +296,7 @@ graph TD
 - 🖥️ 编码 Agent：在 SWE-bench Verified 基准测试中，仅凭 PR 描述就能解决真实的 GitHub Issue
 - 🖱️ 计算机使用 Agent：Claude 操控计算机界面完成各类任务
 
-![编码Agent流程](/ai-frontiers-cn/images/anthropic/agents-coding-flow.png)
+![编码Agent流程](/images/anthropic/agents-coding-flow.png)
 
 *图：编码 Agent 的高层工作流——从接收任务到产出代码修改的完整流程*
 
