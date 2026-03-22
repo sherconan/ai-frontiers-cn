@@ -51,7 +51,7 @@ graph TD
     end
 ```
 
-![宪法分类器工作流程：宪法制定、合成数据生成与增强、分类器训练](/ai-frontiers-cn/images/anthropic/constitutional-classifiers-pipeline.jpg)
+![宪法分类器工作流程：宪法制定、合成数据生成与增强、分类器训练](/images/anthropic/constitutional-classifiers-pipeline.jpg)
 
 **1. 📜 宪法制定（Constitution Development）**
 
@@ -92,7 +92,7 @@ graph LR
 
 ### 三、自动化评估结果
 
-![评估结果：越狱成功率、误拒率增加和计算开销对比](/ai-frontiers-cn/images/anthropic/constitutional-classifiers-results.png)
+![评估结果：越狱成功率、误拒率增加和计算开销对比](/images/anthropic/constitutional-classifiers-results.png)
 
 | 指标 | 数值 | 说明 |
 |------|------|------|
@@ -123,7 +123,7 @@ Anthropic 组织了一次大规模的赏金猎人（bug bounty）项目：
 - 🕐 **总红队时间**：约 3,700 小时
 - 📅 **演示持续时间**：七天
 
-![挑战参与度：339名用户通过第一关，仅4名成功完成全部8个关卡](/ai-frontiers-cn/images/anthropic/constitutional-classifiers-challenge.png)
+![挑战参与度：339名用户通过第一关，仅4名成功完成全部8个关卡](/images/anthropic/constitutional-classifiers-challenge.png)
 
 **最终结果：**
 

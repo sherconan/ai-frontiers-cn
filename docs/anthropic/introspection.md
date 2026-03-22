@@ -78,7 +78,7 @@ graph TD
     end
 ```
 
-![概念检测方法](/ai-frontiers-cn/images/anthropic/introspection-concept-detection.png)
+![概念检测方法](/images/anthropic/introspection-concept-detection.png)
 
 *图：概念注入实验的核心方法——通过对比配对法提取概念向量并注入模型残差流*
 
@@ -102,7 +102,7 @@ graph TD
 
 **层位敏感性：** 自省意识的峰值出现在模型深度约三分之二处。在更后面的层注入有时会导致模型提到相关概念却不认为那是被注入的想法，或者只在说出来之后才意识到。
 
-![能力检测结果](/ai-frontiers-cn/images/anthropic/introspection-caps-detection.png)
+![能力检测结果](/images/anthropic/introspection-caps-detection.png)
 
 *图：不同模型在概念检测任务上的能力对比——Opus 4.1 表现最为突出*
 
@@ -132,11 +132,11 @@ graph TD
 
 > 这个实验强有力地表明：模型在评估某个输出是否是"自己想说的"时，确实会回溯检查先前的内部激活状态——这是一种真正的、基于内部状态的意图判断。
 
-![预填充检测实验](/ai-frontiers-cn/images/anthropic/introspection-prefilled.png)
+![预填充检测实验](/images/anthropic/introspection-prefilled.png)
 
 *图：预填充输出实验——追溯性概念注入如何影响模型对自身输出意图的判断*
 
-![神经激活模式](/ai-frontiers-cn/images/anthropic/introspection-neural-activation.png)
+![神经激活模式](/images/anthropic/introspection-neural-activation.png)
 
 *图：概念注入时模型内部的神经激活模式——不同层位的自省敏感性差异显著*
 
@@ -150,7 +150,7 @@ graph TD
 - 💰 基于激励的指示（"想着 X 会获得奖励"）也产生类似的调节效果
 - 📊 该结果在所有模型上均可复现，但新一代模型在区分"想着一个词"和"说出一个词"上表现更清晰
 
-![输出样本](/ai-frontiers-cn/images/anthropic/introspection-outputs-sample.png)
+![输出样本](/images/anthropic/introspection-outputs-sample.png)
 
 *图：模型在概念注入实验中的实际输出样本——展示了成功检测、未检测到及虚构等不同情况*
 
@@ -231,7 +231,7 @@ graph TD
 
 **对意识哲学的审慎态度。** 研究者刻意区分了"现象意识"(phenomenal consciousness，即主观体验) 与"通达意识"(access consciousness，即可供推理和报告使用的信息)，明确声明他们的工作仅涉及后者。这种审慎值得赞赏——在 AI 意识问题上，过度解读与过度否定都不可取。
 
-![性能数据](/ai-frontiers-cn/images/anthropic/introspection-performance.png)
+![性能数据](/images/anthropic/introspection-performance.png)
 
 *图：各模型在自省实验中的综合性能数据——自省能力与模型规模正相关但受后训练策略影响*
 
