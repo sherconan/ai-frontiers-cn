@@ -1,39 +1,20 @@
 # AlphaEvolve: A Gemini-Powered Coding Agent for Designing Advanced Algorithms
 
-> 📊 难度：⭐⭐⭐⭐ | ⏱️ 阅读：14分钟 | 📅 2025年5月14日 | 🏷️ AlphaEvolve, 进化算法, 算法发现, 矩阵乘法
-
 # AlphaEvolve：Gemini 驱动的算法设计进化智能体
 
-## 📝 一句话摘要
+## 一句话摘要
 
 Google DeepMind 推出 AlphaEvolve，一个结合 Gemini 大模型创造力与进化算法框架的编程智能体，已在数据中心优化、芯片设计、AI 训练加速和纯数学发现等领域取得突破性成果。
 
 ---
 
-## 🔍 核心内容
+## 核心内容
 
 ### 项目概述
 
 2025年5月14日，Google DeepMind 发布了 AlphaEvolve——一个利用大语言模型进行算法发现和优化的进化编程智能体。该系统将"Gemini 模型的创造性问题求解能力与自动化验证器相结合，在进化框架中不断改进最有希望的方案"。
 
 ### 技术架构
-
-```mermaid
-graph TD
-    A[AlphaEvolve 运行流程] --> B[提示采样器]
-    B --> C[Gemini Flash<br>广度探索]
-    B --> D[Gemini Pro<br>深度洞察]
-    C --> E[候选程序生成]
-    D --> E
-    E --> F[自动验证器<br>评估与评分]
-    F --> G[进化数据库<br>选择与迭代]
-    G --> B
-
-    style A fill:#4285f4,color:white
-    style F fill:#34a853,color:white
-    style G fill:#fbbc05
-```
-
 
 **双模型协同**
 
@@ -85,7 +66,7 @@ AlphaEvolve 相比其前身 AlphaTensor 实现了质的飞跃。AlphaTensor 仅�
 
 ---
 
-## 🔬 技术要点
+## 技术要点
 
 1. **双模型进化架构**：Gemini Flash 负责广度探索，Gemini Pro 负责深度洞察，两者在进化框架中协同工作
 2. **自动化闭环验证**：每个候选程序都通过自动评估器进行客观验证和评分，确保结果的正确性
@@ -95,14 +76,9 @@ AlphaEvolve 相比其前身 AlphaTensor 实现了质的飞跃。AlphaTensor 仅�
 
 ---
 
-## 🧠 深度解读
-
-
-### 🟢 通俗版
+## 深度解读
 
 AlphaEvolve 可能是 Google DeepMind 2025 年最被低估的发布。它揭示了一个深刻的洞见：**大语言模型最强大的应用场景不是写文章或聊天，而是作为算法搜索空间的探索器**。
-
-### 🔴 深入版
 
 **进化 + LLM = 超级搜索引擎**：传统的进化算法受限于变异操作的随机性和局限性。当 Gemini 模型替代随机变异，成为"有知识的变异操作器"时，搜索效率实现了质的飞跃。模型不是盲目尝试，而是基于对算法结构的深层理解提出有方向性的改进。
 
@@ -114,7 +90,7 @@ AlphaEvolve 可能是 Google DeepMind 2025 年最被低估的发布。它揭示�
 
 ---
 
-## 💡 延伸思考
+## 延伸思考
 
 - **AI 驱动的科学发现**：AlphaEvolve 在 20% 的开放数学问题上改进了已知最佳解。这是否意味着 AI 正在成为数学家的"第三只手"？
 - **算法搜索的天花板**：进化框架 + LLM 的方法论是否存在系统性的局限？什么类型的算法问题可能超出这种方法的能力边界？
@@ -123,6 +99,6 @@ AlphaEvolve 可能是 Google DeepMind 2025 年最被低估的发布。它揭示�
 
 ---
 
-## 🔗 原文链接
+## 原文链接
 
 - [AlphaEvolve: A Gemini-powered coding agent for designing advanced algorithms](https://deepmind.google/blog/alphaevolve-a-gemini-powered-coding-agent-for-designing-advanced-algorithms/)

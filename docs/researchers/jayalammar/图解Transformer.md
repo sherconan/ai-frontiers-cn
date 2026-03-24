@@ -1,51 +1,23 @@
 # The Illustrated Transformer / 图解Transformer：一切的起点
 
-> 📊 难度：⭐⭐⭐ | ⏱️ 阅读：20分钟 | 📅 2018年（持续更新至2025年） | 🏷️ Transformer, 自注意力, 多头注意力, 位置编码
-
 > **原标题**: The Illustrated Transformer
 > **作者**: Jay Alammar
 > **发布日期**: 2018年（持续更新，2025年配套动画课程上线）
 > **原文链接**: https://jalammar.github.io/illustrated-transformer/
 
-## 📝 一句话摘要
+## 一句话摘要
 
 通过精心设计的可视化图解，将"Attention is All You Need"论文中的Transformer架构分解为可直觉理解的组件——从自注意力机制到多头注意力，从位置编码到编码器-解码器交互——这是全球影响力最大的深度学习科普文章之一，被斯坦福、哈佛、MIT等顶尖高校列为推荐教材。
 
 ---
 
-## 🔍 核心内容翻译
+## 核心内容翻译
 
 ### 为什么Transformer如此重要？
 
 Transformer 是2017年 Google 团队在论文"Attention is All You Need"中提出的架构。它彻底改变了深度学习的格局，成为 GPT、BERT、Claude 等所有现代大语言模型的基础架构。Jay Alammar 这篇图解文章的贡献在于，将这个精妙但抽象的架构变得人人可懂。
 
 ### 高层架构
-
-```mermaid
-graph TD
-    A[输入嵌入 + 位置编码] --> B[编码器层 x6]
-    B --> C[解码器层 x6]
-    C --> D[线性层 + Softmax]
-    D --> E[输出概率分布]
-
-    subgraph 编码器层
-        B1[自注意力] --> B2[残差连接+层归一化]
-        B2 --> B3[前馈网络]
-        B3 --> B4[残差连接+层归一化]
-    end
-
-    subgraph 自注意力计算
-        S1[输入] --> S2[Q K V 向量]
-        S2 --> S3[Q·K 点积]
-        S3 --> S4[÷√dk 缩放]
-        S4 --> S5[Softmax归一化]
-        S5 --> S6[加权V求和]
-    end
-
-    style A fill:#ff6b6b,color:white
-    style E fill:#51cf66,color:white
-```
-
 
 Transformer 由两个主要部分组成：
 
@@ -102,7 +74,7 @@ Transformer 的自注意力机制本身没有序列顺序的概念——它将�
 
 ---
 
-## 🔬 技术要点
+## 技术要点
 
 1. **自注意力的 Q/K/V 机制**：Query-Key 点积计算关联强度，Value 承载实际信息——这种"注意力寻址"的设计是 Transformer 性能的核心来源。
 
@@ -116,14 +88,9 @@ Transformer 的自注意力机制本身没有序列顺序的概念——它将�
 
 ---
 
-## 🧠 深度解读
-
-
-### 🟢 通俗版
+## 深度解读
 
 Jay Alammar 的这篇文章之所以成为经典，不仅因为它准确地解释了 Transformer，更因为它证明了一个理念：**最深刻的技术洞见可以通过最直觉的方式传达**。在学术论文充斥数学符号的AI领域，Alammar 选择用视觉和类比来解构复杂概念，使这篇文章成为全球数百万工程师和研究者的入门教材。
-
-### 🔴 深入版
 
 从历史角度看，Transformer 论文发表于2017年，当时RNN和LSTM仍是序列建模的主流。Transformer 的革命性不仅在于性能提升，更在于它证明了**纯注意力机制可以完全替代循环结构**。这一洞见的深远影响远超其作者的预期——它催生了 BERT、GPT 系列，最终引发了2022年至今的大语言模型革命。
 
@@ -131,7 +98,7 @@ Jay Alammar 的这篇文章之所以成为经典，不仅因为它准确地解�
 
 ---
 
-## 💡 延伸思考
+## 延伸思考
 
 1. **从 Transformer 到现代 LLM 的演化**：原始 Transformer 是编码器-解码器结构，但 GPT 系列仅使用解码器，BERT 仅使用编码器。这种"拆分使用"的演化路径本身就是一个值得研究的现象。
 

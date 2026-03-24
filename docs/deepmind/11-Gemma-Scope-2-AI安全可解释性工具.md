@@ -1,43 +1,20 @@
 # Gemma Scope 2: Helping the AI Safety Community Deepen Understanding of Complex Language Model Behavior
 
-> 📊 难度：⭐⭐⭐⭐ | ⏱️ 阅读：12分钟 | 📅 2025年 | 🏷️ Gemma Scope, 可解释性, SAE, AI安全
-
 # Gemma Scope 2：帮助 AI 安全社区深入理解复杂语言模型行为
 
-## 📝 一句话摘要
+## 一句话摘要
 
 Google DeepMind 发布迄今为止 AI 实验室最大规模的开源可解释性工具集 Gemma Scope 2，涵盖 Gemma 3 全系列模型（270M 到 27B 参数），为 AI 安全研究提供"显微镜"级别的模型内部观测能力。
 
 ---
 
-## 🔍 核心内容
+## 核心内容
 
 ### 项目定位
 
 Gemma Scope 2 是 Google DeepMind 发布的一套全面、开源的 AI 可解释性工具集，被称为"AI 实验室迄今为止最大规模的开源可解释性工具发布"。该工具集旨在帮助 AI 安全研究社区深入理解语言模型的内部工作机制——模型在"想"什么，内部计算如何与外部行为相连接。
 
 ### 技术原理
-
-```mermaid
-graph TD
-    A[Gemma Scope 2] --> B[稀疏自编码器 SAE]
-    A --> C[跳跃转码器]
-    A --> D[跨层转码器]
-
-    B --> E[高维激活 → 可解释特征]
-    C --> F[层间计算追踪]
-    D --> G[多步计算追踪]
-
-    A --> H[安全应用]
-    H --> H1[越狱攻击分析]
-    H --> H2[幻觉机制追踪]
-    H --> H3[谄媚性研究]
-    H --> H4[智能体行为审计]
-
-    style A fill:#ea4335,color:white
-    style H fill:#fbbc05
-```
-
 
 **稀疏自编码器（Sparse Autoencoders, SAEs）**
 
@@ -80,7 +57,7 @@ Gemma Scope 2 的核心技术是稀疏自编码器和转码器（transcoders）�
 
 ---
 
-## 🔬 技术要点
+## 技术要点
 
 1. **稀疏自编码器**：将模型高维内部激活分解为可解释的稀疏特征，每个特征对应可理解的概念
 2. **跨层追踪**：跳跃转码器和跨层转码器实现信息在模型层间流动的全程追踪
@@ -90,14 +67,9 @@ Gemma Scope 2 的核心技术是稀疏自编码器和转码器（transcoders）�
 
 ---
 
-## 🧠 深度解读
-
-
-### 🟢 通俗版
+## 深度解读
 
 Gemma Scope 2 的发布回应了 AI 安全领域最核心的挑战之一：**我们如何理解我们创造的系统？**
-
-### 🔴 深入版
 
 **可解释性的战略意义**：在 AI 能力飞速发展的今天，可解释性研究的进展相对滞后。我们能够构建越来越强大的模型，却对它们为什么这样工作知之甚少。Gemma Scope 2 试图缩小这一鸿沟。当研究者能够"看到"模型内部正在发生什么时，安全干预才有可能从"黑箱试错"升级为"精确手术"。
 
@@ -109,7 +81,7 @@ Gemma Scope 2 的发布回应了 AI 安全领域最核心的挑战之一：**我
 
 ---
 
-## 💡 延伸思考
+## 延伸思考
 
 - **可解释性的军备竞赛**：模型越大、越复杂，可解释性工具是否能够跟上？当模型参数达到万亿级别时，SAE 方法是否仍然有效？
 - **从理解到干预**：理解模型内部机制是第一步，但如何将理解转化为有效的安全干预？发现了"幻觉特征"之后，我们能否精确地"关闭"它？
@@ -118,6 +90,6 @@ Gemma Scope 2 的发布回应了 AI 安全领域最核心的挑战之一：**我
 
 ---
 
-## 🔗 原文链接
+## 原文链接
 
 - [Gemma Scope 2: Helping the AI Safety Community Deepen Understanding of Complex Language Model Behavior](https://deepmind.google/blog/gemma-scope-2-helping-the-ai-safety-community-deepen-understanding-of-complex-language-model-behavior/)

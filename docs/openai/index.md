@@ -24,6 +24,7 @@ OpenAI 是 GPT 系列和 ChatGPT 的开发者，推动了大语言模型的商�
 | [o3 / o4-mini](./introducing-o3-and-o4-mini) | o3/o4-mini 推理模型：多模态推理+工具集成 |
 | [Codex](./introducing-codex) | Codex 编程 Agent：云端沙箱，RL 训练的 o3 变体 |
 | [Sora 2](./sora-2) | Sora 2：同步对话+音效，迪士尼合作 |
+| [GPT-5.4 mini / nano](./gpt-5-4-mini-nano) | 为子智能体时代而生，nano 仅 $0.20/M tokens |
 
 ## 科学发现
 
@@ -46,13 +47,3 @@ OpenAI 是 GPT 系列和 ChatGPT 的开发者，推动了大语言模型的商�
 | [GPT-5 系统安全卡](./gpt-5-system-card) | 统一路由架构，幻觉降低 65%，5000+ 小时红队测试 |
 | [弱到强泛化](./weak-to-strong-generalization) | 超级对齐基础研究：GPT-2 监督 GPT-4 |
 | [OpenAI-Anthropic 联合安全评估](./openai-anthropic-safety-evaluation) | 史上首次竞争对手交叉安全评估 |
-| [Agentic AI 治理实践](./practices-for-governing-agentic-ai) | Agent AI 系统治理框架 |
-| [Model Spec](./introducing-the-model-spec) | 模型行为规范"宪法" |
-| [Planning for AGI](./planning-for-agi-and-beyond) | Sam Altman 的 AGI 愿景 |
-
-## 开发者 API
-
-| 文章 | 主题 |
-|------|------|
-| [Structured Outputs](./introducing-structured-outputs) | 保证 JSON Schema 输出 |
-| [Function Calling](./function-calling-and-api-updates) | 函数调用里程碑 |

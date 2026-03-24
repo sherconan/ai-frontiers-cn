@@ -66,3 +66,6 @@ Anthropic 是 Claude 背后的 AI 安全公司，专注于构建可靠、可解�
 | [负责任扩展政策 v3](./responsible-scaling-v3) | 双轨制重构，外部审查机制 |
 | [MCP 捐赠与 Agentic AI 基金会](./mcp-agentic-foundation) | 10,000+ 服务器，竞争对手联手共建标准 |
 | [蒸馏攻击检测与防御](./distillation-attacks) | 24,000 欺诈账户的系统性窃取披露 |
+| [与 Mozilla 合作提升 Firefox 安全性](./mozilla-firefox-security) | Claude 两周发现 22 个 Firefox 漏洞 |
+| [无监督引出安全性的挑战与希望](./unsupervised-elicitation-safety) | 三个挑战与两个希望，对齐仍需大量工作 |
+| [81,000 人对 AI 的期望](./81k-people-want-from-ai) | 最大规模多语言 AI 使用定性研究 |

@@ -1,59 +1,21 @@
-# 💻 DeepSeek-Coder-V2: Breaking the Barrier of Closed-Source Models in Code Intelligence
+# DeepSeek-Coder-V2: Breaking the Barrier of Closed-Source Models in Code Intelligence
 
-> 📊 难度：⭐⭐⭐ | ⏱️ 阅读：10分钟 | 📅 2024年6月 | 🏷️ 代码生成, MoE, 开源, DeepSeek
-
-## 📋 原标题 + 中文标题
+## 原标题 + 中文标题
 **DeepSeek-Coder-V2: Breaking the Barrier of Closed-Source Models in Code Intelligence**
 **DeepSeek-Coder-V2：打破闭源模型在代码智能领域的壁垒**
 
-## 📝 一句话摘要
+## 一句话摘要
 DeepSeek-Coder-V2 是基于混合专家架构（MoE）的开源代码大模型，以仅 21B 的激活参数量达到了 GPT-4 Turbo 级别的代码生成能力，同时将编程语言支持从 86 种扩展到 338 种，上下文窗口拓展至 128K。
 
 ---
 
-## 🏗️ 架构与性能概览
+## 完整核心内容翻译
 
-```mermaid
-graph TB
-    subgraph 模型架构
-        BASE[🏗️ DeepSeek-V2 基座]
-        CP[📚 6T Token 继续预训练]
-        BASE --> CP
-    end
-
-    subgraph 模型版本
-        LITE[📦 Lite版<br/>16B总参 / 2.4B激活<br/>128K上下文]
-        FULL[🏆 Full版<br/>236B总参 / 21B激活<br/>128K上下文]
-    end
-
-    CP --> LITE
-    CP --> FULL
-
-    subgraph 核心突破
-        H[🎯 HumanEval 90.2%<br/>超越 GPT-4 Turbo]
-        L[🌍 338种编程语言]
-        C[📏 128K长上下文]
-        M[🔢 GSM8K 94.9%<br/>数学推理]
-    end
-
-    FULL --> H
-    FULL --> L
-    FULL --> C
-    FULL --> M
-
-    style FULL fill:#4CAF50,color:white
-    style H fill:#FF9800,color:white
-```
-
----
-
-## 📖 完整核心内容翻译
-
-### 🔍 模型概述
+### 模型概述
 
 DeepSeek-Coder-V2 是 DeepSeek 团队推出的开源混合专家（MoE）代码语言模型。该模型基于 DeepSeek-V2 的中间检查点进行继续预训练，额外使用了 **6 万亿 token** 的数据，在显著提升编码和数学推理能力的同时，保持了通用语言任务上的可比性能。
 
-### 📐 模型规格
+### 模型规格
 
 | 模型版本 | 总参数量 | 激活参数量 | 上下文长度 |
 |---------|---------|-----------|-----------|
@@ -62,11 +24,11 @@ DeepSeek-Coder-V2 是 DeepSeek 团队推出的开源混合专家（MoE）代码�
 
 两个版本均提供 Base（基座）和 Instruct（指令微调）两种变体。
 
-### 🌍 编程语言覆盖
+### 编程语言覆盖
 
 模型将支持的编程语言从前代的 86 种大幅扩展至 **338 种**，覆盖了从主流语言到小众领域语言的广泛生态，展现了在代码理解与生成方面的通用性。
 
-### 📊 核心性能表现
+### 核心性能表现
 
 **代码生成（HumanEval 基准）：**
 - DeepSeek-Coder-V2-Instruct：**90.2%**（超越 GPT-4-Turbo 的 88.2%）
@@ -82,13 +44,13 @@ DeepSeek-Coder-V2 是 DeepSeek 团队推出的开源混合专家（MoE）代码�
 **长上下文能力（128K token）：**
 模型在"大海捞针"测试中表现出色，能够在完整 128K 上下文窗口内准确定位和提取信息，支持大型文档分析和多文件代码理解场景。
 
-### 🏗️ 架构设计
+### 架构设计
 
 DeepSeek-Coder-V2 采用 DeepSeekMoE 框架构建，这一混合专家架构的核心优势在于：通过稀疏激活机制，每次推理仅激活一小部分专家网络，大幅降低了实际计算开销。以完整版为例，236B 的总参数中仅需激活 21B 参数，使得模型在保持强大能力的同时实现了高效推理和部署。
 
 ---
 
-## 🔑 技术要点
+## 技术要点
 
 1. **MoE 架构的效率优势**：236B 总参数中仅激活 21B，在保持旗舰级性能的同时大幅降低计算成本，证明了稀疏激活在代码模型中的可行性。
 
@@ -102,15 +64,7 @@ DeepSeek-Coder-V2 采用 DeepSeekMoE 框架构建，这一混合专家架构的�
 
 ---
 
-## 🧠 深度解读
-
-### 🟢 通俗版
-
-DeepSeek-Coder-V2 就像一个懂 338 种编程语言的程序员。虽然它的"大脑"有 2360 亿个神经元，但每次工作时只用其中 210 亿个（就像你不需要同时用到所有知识）。这样既聪明又省电。
-
-最厉害的是，它写代码的能力（90.2%通过率）甚至超过了 OpenAI 的 GPT-4 Turbo（88.2%），而且它是完全开源的——任何人都可以免费使用。
-
-### 🔴 深入版
+## 深度解读
 
 DeepSeek-Coder-V2 的发布标志着开源代码模型首次在核心基准上全面追平乃至超越顶级闭源模型。这一成就的关键在于两个方面：
 
@@ -122,7 +76,7 @@ DeepSeek-Coder-V2 的发布标志着开源代码模型首次在核心基准上�
 
 ---
 
-## 💡 延伸思考
+## 延伸思考
 
 1. **MoE 是否会成为代码模型的标准架构？** DeepSeek-Coder-V2 的成功表明，代码生成任务特别适合稀疏激活——不同编程语言和任务类型可以自然对应到不同的专家网络。这一思路后续在 DeepSeek-V3 中得到了更深入的验证。
 
@@ -132,5 +86,5 @@ DeepSeek-Coder-V2 的发布标志着开源代码模型首次在核心基准上�
 
 ---
 
-## 🔗 原文链接
+## 原文链接
 - GitHub 仓库：https://github.com/deepseek-ai/DeepSeek-Coder-V2

@@ -1,14 +1,12 @@
 # The Transformer Family Version 2.0 | Transformer 家族 2.0 版
 
-> 📊 难度：⭐⭐⭐⭐⭐ | ⏱️ 阅读：22分钟 | 📅 2023年1月27日 | 🏷️ Transformer, 注意力机制, 位置编码, 高效架构
-
 > **作者**: Lilian Weng（翁荔）| **发布日期**: 2023年1月27日
 >
 > **一句话摘要**: 本文是 Transformer 架构改进的百科全书式综述，系统梳理了自 2020 年以来在更长上下文、自适应建模、高效注意力、强化学习应用等方向上的关键创新，是理解现代大模型架构演进的必读文献。
 
 ---
 
-## 一、🔍 核心内容翻译
+## 一、核心内容翻译
 
 ### 1. Transformer 基础回顾
 
@@ -24,31 +22,6 @@
   - **旋转位置编码（RoPE）**：通过旋转矩阵编码相对位置信息，已成为当前主流 LLM 的标配
 
 ### 2. 更长上下文：突破序列长度限制
-
-```mermaid
-graph TD
-    A[Transformer架构改进] --> B[更长上下文]
-    A --> C[自适应建模]
-    A --> D[高效注意力]
-    A --> E[RL中的Transformer]
-
-    B --> B1[Transformer-XL 记忆]
-    B --> B2[ALiBi 线性偏置]
-    B --> B3[kNN-LM 检索]
-
-    C --> C1[自适应注意力跨度]
-    C --> C2[CALM 提前退出]
-
-    D --> D1[Longformer O-L-]
-    D --> D2[Linformer 低秩]
-    D --> D3[Performers FAVOR+]
-
-    E --> E1[Decision Transformer<br>RL→序列建模]
-
-    style A fill:#e17055,color:white
-    style D fill:#0984e3,color:white
-```
-
 
 原始 Transformer 的二次复杂度——"随序列长度呈平方增长"——是其最根本的瓶颈。
 
@@ -105,7 +78,7 @@ graph TD
 
 ---
 
-## 🔬 二、技术要点
+## 二、技术要点
 
 1. **二次复杂度是 Transformer 扩展的核心瓶颈**：几乎所有架构改进都围绕着降低自注意力的 O(L²) 复杂度展开，从稀疏注意力到线性注意力。
 2. **RoPE 成为位置编码的事实标准**：在众多位置编码方案中，旋转位置编码因其优雅的数学性质和良好的外推能力脱颖而出。
@@ -115,14 +88,9 @@ graph TD
 
 ---
 
-## 🧠 三、深度解读
-
-
-### 🟢 通俗版
+## 三、深度解读
 
 这篇文章是翁荔 2020 年经典文章"Attention? Attention!"的全面升级版，反映了 Transformer 架构在三年间的爆发式演进。
-
-### 🔴 深入版
 
 最深刻的洞察在于**效率与能力的权衡**。线性注意力（如 Performers）在理论复杂度上完胜标准注意力，但在实践中往往伴随着性能损失。翁荔没有回避这一点，而是诚实地呈现了每种方法的优缺点。这提醒我们：算法的理论优雅性并不总是等同于实际有效性。
 
@@ -132,7 +100,7 @@ Decision Transformer 的出现特别有趣——它暗示了一个更大的命�
 
 ---
 
-## 💡 四、延伸思考
+## 四、延伸思考
 
 - **长上下文 vs. RAG**：2024-2025 年的实践证明，更长的上下文窗口（如 Gemini 的 100 万 token）和 RAG 并非非此即彼的关系，而是互补的。Transformer-XL 和 kNN-LM 的思路在今天以新的形式继续演化。
 - **稀疏注意力的回归**：随着 Mixture of Experts 的成功，稀疏计算的思想从注意力层扩展到了前馈层，形成了更完整的"稀疏 Transformer"体系。
@@ -141,6 +109,6 @@ Decision Transformer 的出现特别有趣——它暗示了一个更大的命�
 
 ---
 
-## 🔗 原文链接
+## 原文链接
 
 [The Transformer Family Version 2.0 - Lil'Log](https://lilianweng.github.io/posts/2023-01-27-the-transformer-family-v2/)

@@ -1,73 +1,50 @@
-> 📊 难度：⭐⭐⭐ | ⏱️ 阅读：12分钟 | 📅 2025年3月11日 | 🏷️ Responses API, Agents SDK, 智能体, 工具调用
+# New Tools for Building Agents
 
-# 🛠️ New Tools for Building Agents
-
-## 📌 原标题
+## 原标题
 New tools for building agents
 
-## 📌 中文标题
+## 中文标题
 构建AI智能体的新工具：Responses API、Agents SDK与全新开发范式
 
-## 📝 一句话摘要
+## 一句话摘要
 2025年3月11日，OpenAI发布了面向AI智能体开发的全套工具，包括Responses API、内置的Web搜索/文件搜索/计算机操作工具，以及开源的Agents SDK，标志着AI应用从"对话"向"行动"的范式转变。
 
 ---
 
-## 📖 核心内容
+## 核心内容
 
-### 📣 发布背景
+### 发布背景
 
 2025年3月11日，OpenAI发布了首批帮助开发者和企业构建实用、可靠智能体（Agent）的基础构建模块。OpenAI将智能体定义为"能够代表用户独立完成任务的系统"——这一定义将AI的角色从被动的问答工具提升为主动的任务执行者。
 
-### 🔌 Responses API：新一代API基础设施
+### Responses API：新一代API基础设施
 
 Responses API是OpenAI为智能体开发打造的全新API原语，它融合了Chat Completions API的简洁性与Assistants API的工具使用能力。
-
-```mermaid
-graph TD
-    A[Responses API] --> B[🌐 Web搜索]
-    A --> C[📁 文件搜索]
-    A --> D[🖥️ 计算机操作 CUA]
-    A --> E[🔧 函数调用]
-
-    F[Agents SDK<br/>开源编排框架] --> G[工具使用]
-    F --> H[任务交接]
-    F --> I[护栏]
-    F --> J[追踪]
-
-    K[AgentKit<br/>企业级平台] --> L[Agent Builder<br/>可视化画布]
-    K --> M[Connector Registry<br/>连接中枢]
-    K --> N[ChatKit<br/>嵌入工具包]
-
-    style A fill:#42a5f5,color:#fff
-    style F fill:#66bb6a,color:#fff
-    style K fill:#f9a825,color:#000
-```
 
 基于Assistants API测试版的开发者反馈，OpenAI在Responses API中进行了多项关键改进，并正在努力实现Assistants API与Responses API之间的完整功能对等，包括支持类Assistant和Thread对象，以及代码解释器工具。
 
 Responses API不单独收费——token和工具使用按标准费率计费，大幅降低了智能体开发的准入门槛。
 
-### 🧰 三大内置工具
+### 三大内置工具
 
-**🌐 Web搜索（Web Search）**：在早期测试中，开发者已利用Web搜索构建了购物助手、研究智能体和旅行预订智能体等需要实时网络信息的应用。模型可以直接搜索互联网获取最新信息，无需开发者自行集成搜索引擎API。
+**Web搜索（Web Search）**：在早期测试中，开发者已利用Web搜索构建了购物助手、研究智能体和旅行预订智能体等需要实时网络信息的应用。模型可以直接搜索互联网获取最新信息，无需开发者自行集成搜索引擎API。
 
-**📁 文件搜索（File Search）**：Responses API内置的文件搜索工具能够快速扫描企业数据库中的文件以检索信息。这使得智能体能够基于企业内部知识库进行精准回答，而无需将所有文档放入上下文窗口。
+**文件搜索（File Search）**：Responses API内置的文件搜索工具能够快速扫描企业数据库中的文件以检索信息。这使得智能体能够基于企业内部知识库进行精准回答，而无需将所有文档放入上下文窗口。
 
-**🖥️ 计算机操作（Computer Use）**：开发者可以通过Responses API调用OpenAI的计算机使用代理（CUA）模型——该模型即是Operator背后的驱动力。模型能够生成鼠标和键盘操作指令，使开发者可以自动化诸如数据录入和应用工作流等计算机操作任务。
+**计算机操作（Computer Use）**：开发者可以通过Responses API调用OpenAI的计算机使用代理（CUA）模型——该模型即是Operator背后的驱动力。模型能够生成鼠标和键盘操作指令，使开发者可以自动化诸如数据录入和应用工作流等计算机操作任务。
 
-### 📦 Agents SDK：开源智能体编排框架
+### Agents SDK：开源智能体编排框架
 
 OpenAI发布了全新的开源Agents SDK，支持Python和TypeScript，提供了以下核心能力：
 
-- **🔧 工具使用（Tool Use）**：标准化的工具调用接口
-- **🤝 任务交接（Handoffs）**：智能体之间的协作与任务传递
-- **🛡️ 护栏（Guardrails）**：内置的安全约束机制
-- **📊 追踪（Tracing）**：完整的可观测性和调试能力
+- **工具使用（Tool Use）**：标准化的工具调用接口
+- **任务交接（Handoffs）**：智能体之间的协作与任务传递
+- **护栏（Guardrails）**：内置的安全约束机制
+- **追踪（Tracing）**：完整的可观测性和调试能力
 
 值得注意的是，Agents SDK是提供商无关的（provider-agnostic），提供了使用非OpenAI模型的文档化路径，体现了开放的生态理念。
 
-### 🏢 AgentKit：企业级智能体平台
+### AgentKit：企业级智能体平台
 
 2025年10月，OpenAI进一步发布了AgentKit，一套面向企业的完整智能体工具集：
 
@@ -75,13 +52,13 @@ OpenAI发布了全新的开源Agents SDK，支持Python和TypeScript，提供了
 - **Connector Registry**：供管理员集中管理数据和工具在OpenAI产品间连接方式的中枢
 - **ChatKit**：用于嵌入可定制的基于聊天的智能体体验的工具包
 
-### 📜 Assistants API的落幕
+### Assistants API的落幕
 
 OpenAI宣布计划正式弃用Assistants API，目标停用日期为2026年中期。2025年8月26日，使用Assistants API的开发者收到了弃用通知，API将于2026年8月26日正式移除。OpenAI将提供清晰的迁移指南，确保开发者可以保留所有数据并迁移应用。
 
 ---
 
-## 🔧 技术要点
+## 技术要点
 
 1. **Responses API统一架构**：将Chat Completions的简洁性与Assistants API的工具能力合二为一，消除了开发者在两个API之间的选择困难
 2. **计算机操作能力开放**：CUA模型（Operator的底层技术）首次通过API向开发者开放，使"AI操控计算机"从产品功能变为开发者可调用的基础能力
@@ -91,13 +68,7 @@ OpenAI宣布计划正式弃用Assistants API，目标停用日期为2026年中�
 
 ---
 
-## 🧩 深度解读
-
-### 🟢 通俗版
-
-以前开发者用 OpenAI 做 AI 应用，就像是在跟一个"只会说话的人"合作——你问他问题，他回答你，就这样。现在 OpenAI 给了开发者一个"全能管家"工具箱：这个管家不仅会说话，还会上网查资料、翻阅你的文件柜、甚至直接坐到你的电脑前帮你操作软件。而且 OpenAI 还贴心地提供了一本"管家培训手册"（Agents SDK），教你怎么让多个管家协同工作、互相交接任务、又不会越权做危险的事。
-
-### 🔴 深入版
+## 深度解读
 
 这次发布是OpenAI从"模型提供商"向"智能体平台"战略转型的关键一步。
 
@@ -111,7 +82,7 @@ OpenAI宣布计划正式弃用Assistants API，目标停用日期为2026年中�
 
 ---
 
-## 💭 延伸思考
+## 延伸思考
 
 1. Responses API的工具调用模式是否会催生一个"AI原生"的SaaS生态，每个SaaS服务都提供标准化的Agent工具接口？
 2. 计算机操作能力的普及将如何改变企业IT自动化的投资方向？传统RPA厂商应如何应对？
@@ -120,5 +91,5 @@ OpenAI宣布计划正式弃用Assistants API，目标停用日期为2026年中�
 
 ---
 
-## 🔗 原文链接
+## 原文链接
 https://openai.com/index/new-tools-for-building-agents/

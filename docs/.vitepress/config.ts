@@ -1,7 +1,6 @@
 import { defineConfig } from 'vitepress'
-import { withMermaid } from 'vitepress-plugin-mermaid'
 
-export default withMermaid(defineConfig({
+export default defineConfig({
   title: 'AI 前沿精读',
   description: '全球顶尖 AI 实验室博客的中文翻译与深度解读',
   lang: 'zh-CN',
@@ -10,38 +9,22 @@ export default withMermaid(defineConfig({
   head: [
     ['meta', { name: 'author', content: 'AI 前沿精读' }],
     ['meta', { name: 'keywords', content: 'AI, 人工智能, Anthropic, OpenAI, DeepMind, 翻译, 解读, Claude, GPT, Gemini, DeepSeek, Qwen' }],
-    ['link', { rel: 'icon', type: 'image/svg+xml', href: '/ai-frontiers-cn/logo.svg' }],
+    ['link', { rel: 'icon', type: 'image/svg+xml', href: 'data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y=".9em" font-size="90">🧠</text></svg>' }],
   ],
 
   themeConfig: {
-    logo: '/logo.svg',
-    siteTitle: 'AI 前沿精读',
+    logo: '🧠',
     nav: [
       { text: '首页', link: '/' },
-      { text: '🕰️ 时间线', link: '/timeline/' },
-      {
-        text: '📑 按主题',
-        items: [
-          { text: '🤖 Agent 构建', link: '/topics/agent' },
-          { text: '🔒 安全与对齐', link: '/topics/safety' },
-          { text: '🧪 推理能力', link: '/topics/reasoning' },
-          { text: '🏗️ 工程实践', link: '/topics/engineering' },
-          { text: '🚀 模型发布', link: '/topics/models' },
-          { text: '📑 全部主题', link: '/topics/' },
-        ],
-      },
       {
         text: '海外实验室',
         items: [
-          { text: '🧠 Anthropic (50)', link: '/anthropic/' },
-          { text: '🤖 OpenAI (15)', link: '/openai/' },
-          { text: '🔬 DeepMind (18)', link: '/deepmind/' },
+          { text: '🧠 Anthropic (53)', link: '/anthropic/' },
+          { text: '🤖 OpenAI (16)', link: '/openai/' },
+          { text: '🔬 DeepMind (20)', link: '/deepmind/' },
           { text: '🦙 Meta AI (5)', link: '/meta-ai/' },
           { text: '⚡ xAI / Grok (2)', link: '/xai/' },
           { text: '🇪🇺 Mistral AI (2)', link: '/mistral/' },
-          { text: '💻 Microsoft (1)', link: '/microsoft/' },
-          { text: '🟢 NVIDIA (1)', link: '/nvidia/' },
-          { text: '🤗 Hugging Face (2)', link: '/huggingface/' },
         ],
       },
       {
@@ -169,19 +152,6 @@ export default withMermaid(defineConfig({
           ],
         },
       ],
-      '/topics/': [
-        {
-          text: '按主题浏览',
-          items: [
-            { text: '全部主题', link: '/topics/' },
-            { text: '🤖 Agent 构建', link: '/topics/agent' },
-            { text: '🔒 安全与对齐', link: '/topics/safety' },
-            { text: '🧪 推理能力', link: '/topics/reasoning' },
-            { text: '🏗️ 工程实践', link: '/topics/engineering' },
-            { text: '🚀 模型发布', link: '/topics/models' },
-          ],
-        },
-      ],
     },
 
     socialLinks: [
@@ -215,16 +185,4 @@ export default withMermaid(defineConfig({
     sidebarMenuLabel: '菜单',
     darkModeSwitchLabel: '外观',
   },
-
-  mermaid: {
-    theme: 'base',
-    themeVariables: {
-      primaryColor: '#6366f1',
-      primaryTextColor: '#fff',
-      primaryBorderColor: '#4f46e5',
-      lineColor: '#818cf8',
-      secondaryColor: '#06b6d4',
-      tertiaryColor: '#f0f9ff',
-    },
-  },
-}))
+})
