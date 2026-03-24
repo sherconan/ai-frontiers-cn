@@ -12,6 +12,7 @@ Google DeepMind 是 AlphaGo、AlphaFold 和 Gemini 的研发团队，在科学�
 | [Gemini Deep Think 科学发现](./06-Gemini-Deep-Think加速科学发现) | Aletheia Agent 解决 Erdos 猜想 |
 | [Gemini 2.5 计算机使用](./06-Gemini-2.5-计算机使用模型) | AI Agent 操作 UI 界面 |
 | [Gemma 3 开源模型](./03-Gemma3-单GPU运行的最强开源模型) | 单 GPU 运行，128K 上下文，140+ 语言 |
+| [Gemini 3 Flash](./14-Gemini-3-Flash-为速度而生的前沿智能) | 为速度而生的前沿智能，驱动搜索 AI 模式 |
 
 ## 科学突破
 
@@ -28,6 +29,7 @@ Google DeepMind 是 AlphaGo、AlphaFold 和 Gemini 的研发团队，在科学�
 | [前沿安全框架 v3 详解](./04-前沿安全框架-应对高级AI风险) | 关键能力等级 + 安全案例审查 |
 | [AGI 安全与 UK-AISI 合作](./12-DeepMind-AGI安全与UK-AISI合作) | CoT 监控、情感失调、经济影响 |
 | [Gemma Scope 2](./11-Gemma-Scope-2-AI安全可解释性工具) | 稀疏自编码器，110PB 数据 |
+| [衡量 AGI 进展：认知框架](./15-衡量AGI进展-认知框架) | 认知科学驱动的 AGI 多维度衡量方法 |
 
 ## 科学与应用
 

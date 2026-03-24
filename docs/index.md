@@ -7,10 +7,7 @@ hero:
   tagline: 全球顶尖 AI 实验室博客的中文翻译与深度分析。覆盖 Anthropic、OpenAI、Google DeepMind、Meta、DeepSeek 等 11 个分类。
   actions:
     - theme: brand
-      text: 🕰️ 沿时间线阅读 →
-      link: /timeline/
-    - theme: alt
-      text: 按公司浏览
+      text: 开始阅读 →
       link: /anthropic/
     - theme: alt
       text: GitHub
@@ -53,10 +50,6 @@ features:
     title: 更多公司
     details: xAI (Grok 3)、Mistral AI (Large 2)、MiniMax、智谱 AI、百川智能...
     link: /xai/
-  - icon: 📑
-    title: 按主题浏览
-    details: 不按公司，按技术主题查找：Agent、安全、推理、工程、模型架构...
-    link: /topics/
 ---
 
 <div style="text-align: center; padding: 2rem 1rem; opacity: 0.8;">

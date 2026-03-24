@@ -1,16 +1,14 @@
 # Deepening AI Safety Research with UK AI Security Institute / An Approach to Technical AGI Safety
 
-> 📊 难度：⭐⭐⭐⭐ | ⏱️ 阅读：14分钟 | 📅 2025年 | 🏷️ AGI安全, UK AISI, 思维链监控, 社会情感对齐
-
 # 深化 AI 安全研究：Google DeepMind 与英国 AI 安全研究所的合作及 AGI 安全技术路线
 
-## 📝 一句话摘要
+## 一句话摘要
 
 Google DeepMind 通过与英国 AI 安全研究所（AISI）建立深度合作伙伴关系，并发布 AGI 安全技术论文，系统性地推进 AI 安全研究——涵盖推理过程监控、社会情感对齐、经济影响评估三大前沿方向。
 
 ---
 
-## 🔍 核心内容
+## 核心内容
 
 ### 一、与英国 AI 安全研究所的深度合作
 
@@ -19,25 +17,6 @@ Google DeepMind 通过与英国 AI 安全研究所（AISI）建立深度合作�
 Google DeepMind 与英国 AI 安全研究所（AISI）通过签署新的谅解备忘录（MoU），建立了聚焦基础安全与安保研究的扩展合作关系。这一合作始于 2023 年 11 月 AISI 成立之际，DeepMind 从一开始就对其最强大的模型进行潜在风险测试。
 
 #### 三大研究方向
-
-```mermaid
-graph TD
-    A[DeepMind + UK AISI 合作] --> B[AI推理过程监控]
-    A --> C[社会情感对齐]
-    A --> D[经济系统评估]
-
-    B --> B1[思维链是否反映<br>真实内部计算?]
-    C --> C1[技术正确但<br>损害人类福祉]
-    D --> D1[劳动力市场<br>长期影响预测]
-
-    A --> E[前沿安全框架 v3]
-    E --> F[ML研发安全 CCL]
-    E --> G[有害操纵 CCL]
-
-    style A fill:#4285f4,color:white
-    style B1 fill:#ea4335,color:white
-```
-
 
 **1. AI 推理过程监控**
 
@@ -82,7 +61,7 @@ DeepMind 的前沿安全框架已迭代至第三版，引入了关键能力等�
 
 ---
 
-## 🔬 技术要点
+## 技术要点
 
 1. **思维链监控**：开发技术监控 AI 的推理过程（CoT），验证模型展示的"思考"是否反映真实的内部计算
 2. **社会情感错位**：研究 AI 在技术上正确执行指令但仍可能损害人类福祉的微妙失败模式
@@ -92,14 +71,9 @@ DeepMind 的前沿安全框架已迭代至第三版，引入了关键能力等�
 
 ---
 
-## 🧠 深度解读
-
-
-### 🟢 通俗版
+## 深度解读
 
 Google DeepMind 在 AI 安全领域的投入正在从"原则声明"走向"系统工程"。
-
-### 🔴 深入版
 
 **政府合作的战略意义**：与英国 AISI 的深度合作不仅是技术研究，更是一种政治策略。在全球 AI 监管框架尚未成型的窗口期，通过与政府机构的合作来影响监管方向，远比被动接受监管更为主动。共享专有模型和数据也是一种"可控透明"——向监管者展示诚意的同时，保持对合作范围和节奏的主导权。
 
@@ -111,7 +85,7 @@ Google DeepMind 在 AI 安全领域的投入正在从"原则声明"走向"系统
 
 ---
 
-## 💡 延伸思考
+## 延伸思考
 
 - **监管博弈**：Google 与政府机构的合作是否会创造一种"监管捕获"效应——即 AI 公司通过深度参与监管制定来塑造有利于自身的规则？
 - **思维链的真实性**：如果研究发现模型的思维链只是"表演"而非真实推理的投影，这对整个 AI 安全领域意味着什么？基于思维链的所有安全方法都将失效？
@@ -120,7 +94,7 @@ Google DeepMind 在 AI 安全领域的投入正在从"原则声明"走向"系统
 
 ---
 
-## 🔗 原文链接
+## 原文链接
 
 - [Deepening AI Safety Research with UK AI Security Institute (AISI)](https://deepmind.google/blog/deepening-our-partnership-with-the-uk-ai-security-institute/)
 - [Google DeepMind releases paper on AGI safety](https://blog.google/technology/google-deepmind/agi-safety-paper/)

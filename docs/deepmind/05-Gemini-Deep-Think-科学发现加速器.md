@@ -1,7 +1,5 @@
 # Gemini Deep Think：重新定义科学研究的未来
 
-> 📊 难度：⭐⭐⭐⭐⭐ | ⏱️ 阅读：18分钟 | 📅 2026年2月11日 | 🏷️ Deep Think, Aletheia, 科学发现, 数学研究
-
 **原标题：** Gemini Deep Think: Redefining the Future of Scientific Research / Accelerating mathematical and scientific discovery with Gemini Deep Think
 
 **中文标题：** Gemini Deep Think：加速数学与科学发现
@@ -12,37 +10,15 @@
 
 ---
 
-## 📝 一句话摘要
+## 一句话摘要
 
 Gemini Deep Think 已从竞赛数学走向专业科学研究，其数学研究智能体 Aletheia 自主解决了四个此前未解决的开放数学问题，在计算机科学和物理学领域解决了18个研究问题，包括终结了一个持续十年的猜想，标志着AI从"解题工具"向"高级科学合作者"的质变。
 
 ---
 
-## 🔍 核心内容
+## 核心内容
 
 ### 从竞赛到研究的跨越
-
-```mermaid
-graph TD
-    A[Gemini Deep Think] --> B[数学研究]
-    A --> C[计算机科学]
-    A --> D[物理学]
-
-    B --> B1[Aletheia智能体]
-    B1 --> B2[4个开放猜想自主解决]
-    B1 --> B3[Erdős数据库700题评估]
-
-    C --> C1[终结十年猜想<br>在线次模优化]
-    C --> C2[Max-Cut新方案]
-
-    D --> D1[宇宙弦引力辐射计算]
-
-    B2 --> E[ICLR 2026接收]
-
-    style A fill:#4285f4,color:white
-    style E fill:#34a853,color:white
-```
-
 
 Google DeepMind 宣布 Gemini Deep Think 已从竞赛数学的成功跨越到专业研究领域。该系统现在能够在专家指导下应对数学、物理学和计算机科学中复杂的开放性挑战——这与解决定义明确的竞赛题目有着本质区别。
 
@@ -110,7 +86,7 @@ Google DeepMind 宣布 Gemini Deep Think 已从竞赛数学的成功跨越到专
 
 ---
 
-## 🔬 技术要点
+## 技术要点
 
 1. **推理时间计算扩展的实证价值：** IMO-ProofBench Advanced 上随计算扩展达90%的表现，提供了该范式有效性的强力证据
 2. **自然语言验证（NLV）：** 区分"正确/需小修/根本错误"的三级验证能力，是AI自主研究的关键基础设施
@@ -120,14 +96,9 @@ Google DeepMind 宣布 Gemini Deep Think 已从竞赛数学的成功跨越到专
 
 ---
 
-## 🧠 深度解读
-
-
-### 🟢 通俗版
+## 深度解读
 
 ### 从"解题"到"研究"的质变
-
-### 🔴 深入版
 
 竞赛数学和研究数学之间有一道深刻的鸿沟。竞赛题目有明确的答案，而研究问题可能没有答案，或者答案的形式完全出乎意料。Gemini Deep Think 跨越了这道鸿沟——它不仅能解决定义良好的问题，还能在开放性的研究领域中做出实质性贡献。
 
@@ -147,7 +118,7 @@ Erdős 猜想数据库中四个问题的自主求解尤其值得关注。这些�
 
 ---
 
-## 💡 延伸思考
+## 延伸思考
 
 1. **数学家职业的重新定义：** 如果AI能自主解决开放数学问题并发表论文，"数学家"这个职业的核心价值将从"证明定理"转向什么？可能是"提出正确的问题"和"判断哪些问题值得解决"。
 
