@@ -47,3 +47,12 @@ OpenAI 是 GPT 系列和 ChatGPT 的开发者，推动了大语言模型的商�
 | [GPT-5 系统安全卡](./gpt-5-system-card) | 统一路由架构，幻觉降低 65%，5000+ 小时红队测试 |
 | [弱到强泛化](./weak-to-strong-generalization) | 超级对齐基础研究：GPT-2 监督 GPT-4 |
 | [OpenAI-Anthropic 联合安全评估](./openai-anthropic-safety-evaluation) | 史上首次竞争对手交叉安全评估 |
+
+## 2026 年 3 月更新
+
+| 文章 | 主题 |
+|------|------|
+| [GPT-5.4](./gpt-5-4) | 三变体架构，105 万 token 上下文，幻觉降低 33% |
+| [收购 Astral](./openai-acquires-astral) | 整合 uv/Ruff/ty 到 Codex，全栈开发者平台 |
+| [超级应用整合](./openai-superapp-consolidation) | ChatGPT + Codex + Atlas 三合一桌面应用 |
+| [非营利 10 亿美元计划](./openai-nonprofit-billion) | AI 安全与公益，生物安全防御 |

@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 
 export default defineConfig({
   title: 'AI 前沿精读',
-  description: '全球顶尖 AI 实验室博客的中文翻译与深度解读 — 覆盖 Anthropic、OpenAI、Google DeepMind、Meta、DeepSeek 等 15+ AI 实验室，190+ 篇深度文章',
+  description: '全球顶尖 AI 实验室博客的中文翻译与深度解读 — 覆盖 Anthropic、OpenAI、Google DeepMind、Meta、DeepSeek 等 15+ AI 实验室，200+ 篇深度文章',
   lang: 'zh-CN',
   base: '/ai-frontiers-cn/',
   lastUpdated: true,
@@ -24,7 +24,7 @@ export default defineConfig({
     ['meta', { property: 'og:locale', content: 'zh_CN' }],
     ['meta', { property: 'og:site_name', content: 'AI 前沿精读' }],
     ['meta', { property: 'og:title', content: 'AI 前沿精读 — 全球顶尖 AI 实验室博客中文解读' }],
-    ['meta', { property: 'og:description', content: '覆盖 Anthropic、OpenAI、Google DeepMind、DeepSeek 等 15+ 实验室，190+ 篇深度翻译与解读文章' }],
+    ['meta', { property: 'og:description', content: '覆盖 Anthropic、OpenAI、Google DeepMind、DeepSeek 等 15+ 实验室，200+ 篇深度翻译与解读文章' }],
     ['meta', { property: 'og:url', content: 'https://sherconan.github.io/ai-frontiers-cn/' }],
 
     // Twitter Card
@@ -68,13 +68,13 @@ export default defineConfig({
       {
         text: '海外实验室',
         items: [
-          { text: '🧠 Anthropic (58)', link: '/anthropic/' },
-          { text: '🤖 OpenAI (24)', link: '/openai/' },
-          { text: '🔬 DeepMind (25)', link: '/deepmind/' },
-          { text: '🦙 Meta AI (6)', link: '/meta-ai/' },
+          { text: '🧠 Anthropic (62)', link: '/anthropic/' },
+          { text: '🤖 OpenAI (28)', link: '/openai/' },
+          { text: '🔬 DeepMind (27)', link: '/deepmind/' },
+          { text: '🦙 Meta AI (7)', link: '/meta-ai/' },
           { text: '⚡ xAI / Grok (2)', link: '/xai/' },
           { text: '🇪🇺 Mistral AI (4)', link: '/mistral/' },
-          { text: '💚 NVIDIA (3)', link: '/nvidia/' },
+          { text: '💚 NVIDIA (4)', link: '/nvidia/' },
           { text: '🤗 Hugging Face (2)', link: '/huggingface/' },
           { text: '🪟 Microsoft (1)', link: '/microsoft/' },
         ],
@@ -82,7 +82,7 @@ export default defineConfig({
       {
         text: '中国 AI',
         items: [
-          { text: '🦊 DeepSeek (10)', link: '/deepseek/' },
+          { text: '🦊 DeepSeek (11)', link: '/deepseek/' },
           { text: '🌙 Kimi / 月之暗面 (8)', link: '/kimi/' },
           { text: '☁️ Qwen / 通义 (10)', link: '/qwen/' },
           { text: '🇨🇳 MiniMax / 智谱 / 百川 (3)', link: '/chinese-ai/' },
@@ -577,7 +577,7 @@ export default defineConfig({
     },
 
     footer: {
-      message: '全球顶尖 AI 实验室博客的中文翻译与深度解读 · 190+ 篇文章 · 15+ 实验室',
+      message: '全球顶尖 AI 实验室博客的中文翻译与深度解读 · 200+ 篇文章 · 15+ 实验室',
       copyright: '© 2025-2026 AI 前沿精读',
     },
 
