@@ -28,6 +28,8 @@ Anthropic 是 Claude 背后的 AI 安全公司，专注于构建可靠、可解�
 | [Emergent Misalignment](./emergent-misalignment) | 奖励黑客导致的自然涌现错位 |
 | [SHADE-Arena](./shade-arena) | 评估 LLM 智能体中的蓄意破坏与监控 |
 | [Claude's New Constitution](./claude-new-constitution) | Claude 新宪法：理解原理取代遵守规则 |
+| [A3 自动对齐智能体](./automated-alignment-agent) | 开源自动安全微调框架，7B 模型超越 GPT-5 |
+| [AuditBench 审计基准](./auditbench) | 56 个隐藏行为模型，评估对齐审计技术 |
 
 ## 模型能力与评估
 
@@ -69,3 +71,7 @@ Anthropic 是 Claude 背后的 AI 安全公司，专注于构建可靠、可解�
 | [与 Mozilla 合作提升 Firefox 安全性](./mozilla-firefox-security) | Claude 两周发现 22 个 Firefox 漏洞 |
 | [无监督引出安全性的挑战与希望](./unsupervised-elicitation-safety) | 三个挑战与两个希望，对齐仍需大量工作 |
 | [81,000 人对 AI 的期望](./81k-people-want-from-ai) | 最大规模多语言 AI 使用定性研究 |
+| [Claude Code Auto Mode](./claude-code-auto-mode) | AI 自主决定权限，分类器前置安全审查 |
+| [Claude Code Channels](./claude-code-channels) | Telegram/Discord 异步编程，MCP 驱动 |
+| [Claude Cowork 桌面控制](./claude-cowork-computer-use) | Computer Use 产品化，Dispatch 远程指派 |
+| [起诉五角大楼](./anthropic-pentagon-lawsuit) | 拒绝移除安全护栏被列入黑名单，联邦法官质疑政府 |

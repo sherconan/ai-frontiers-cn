@@ -13,6 +13,7 @@ Google DeepMind 是 AlphaGo、AlphaFold 和 Gemini 的研发团队，在科学�
 | [Gemini 2.5 计算机使用](./06-Gemini-2.5-计算机使用模型) | AI Agent 操作 UI 界面 |
 | [Gemma 3 开源模型](./03-Gemma3-单GPU运行的最强开源模型) | 单 GPU 运行，128K 上下文，140+ 语言 |
 | [Gemini 3 Flash](./14-Gemini-3-Flash-为速度而生的前沿智能) | 为速度而生的前沿智能，驱动搜索 AI 模式 |
+| [Gemini 3.1 Flash-Lite](./17-Gemini-3.1-Flash-Lite-规模化智能) | 最具成本效益模型，360+ tokens/秒，TTFT 快 2.5 倍 |
 
 ## 科学突破
 
@@ -39,3 +40,6 @@ Google DeepMind 是 AlphaGo、AlphaFold 和 Gemini 的研发团队，在科学�
 | [GenCast AI 天气预报](./08-GenCast-AI天气预报新范式) | 97.2% 超越 ECMWF，8 分钟 15 天预报 |
 | [Project Astra](./09-Project-Astra-通往通用AI助手之路) | 实时多模态 AI 助手，跨设备记忆 |
 | [AlphaEvolve](./10-AlphaEvolve-Gemini驱动的算法进化智能体) | 回收 Google 0.7% 全球算力，打破 Strassen 算法 |
+| [AlphaGo 十年](./16-AlphaGo-十年-通往AGI之路) | Demis Hassabis 回顾十年 AI 创新，展望 AGI 路线图 |
+| [Agile Robots x Gemini Robotics](./16-DeepMind-Agile-Robots-Gemini机器人合作) | 20,000 台工业机器人部署 Gemini，数据飞轮 |
+| [Gemini 驱动 Apple Siri 重构](./17-Gemini驱动Apple-Siri重构) | 10 亿美元/年合作，LLM 替代意图分类架构 |

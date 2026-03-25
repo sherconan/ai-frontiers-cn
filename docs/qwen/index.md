@@ -17,3 +17,9 @@
 |------|------|
 | [QwQ-32B](./02_QwQ-32B_Reinforcement_Learning) | QwQ-32B：320 亿参数比肩 DeepSeek-R1 |
 | [GSPO](./06_GSPO_Scalable_Reinforcement_Learning) | GSPO 算法：可扩展的 LLM 强化学习 |
+
+## 小模型与高效推理
+
+| 文章 | 主题 |
+|------|------|
+| [Qwen 3.5 Small](./10_Qwen3.5_Small_高效多模态小模型) | 0.8B-9B 高效多模态，Delta 网络+MoE，200+ 语言 |
