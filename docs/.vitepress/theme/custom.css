@@ -1,3 +1,6 @@
+/* Import better fonts */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Noto+Sans+SC:wght@400;500;700&display=swap');
+
 /* ============================================
    AI 前沿精读 — Custom Theme
    Modern, clean, magazine-style reading experience
@@ -31,9 +34,6 @@
   --vp-font-family-base: 'Inter', 'Noto Sans SC', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
   --vp-font-family-mono: 'JetBrains Mono', 'Fira Code', Menlo, Monaco, monospace;
 }
-
-/* Import better fonts */
-@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Noto+Sans+SC:wght@400;500;700&display=swap');
 
 /* ── Content Area ── */
 .vp-doc h1 {
@@ -241,4 +241,256 @@ html {
 
 .vp-doc li::marker {
   color: var(--vp-c-brand-1);
+}
+
+/* ============================================
+   Reading Time Badge
+   ============================================ */
+.reading-time-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.25rem;
+  padding: 0.35rem 0.85rem;
+  margin: 0.5rem 0 1.5rem;
+  font-size: 0.85rem;
+  color: var(--vp-c-text-2);
+  background: var(--vp-c-bg-soft);
+  border: 1px solid var(--vp-c-divider);
+  border-radius: 20px;
+  font-weight: 500;
+  letter-spacing: 0.01em;
+}
+
+.reading-time-icon {
+  font-size: 0.9rem;
+}
+
+/* ============================================
+   Chinese Typography Enhancements
+   ============================================ */
+
+/* Better word spacing for mixed Chinese/English text */
+.vp-doc p,
+.vp-doc li,
+.vp-doc blockquote {
+  word-break: break-word;
+  overflow-wrap: break-word;
+  text-align: justify;
+  text-justify: inter-ideograph;
+}
+
+/* Add spacing between CJK and half-width characters via CSS */
+.vp-doc {
+  text-spacing-trim: space-all;
+  font-feature-settings: "kern" 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* Better heading spacing for Chinese */
+.vp-doc h1,
+.vp-doc h2,
+.vp-doc h3,
+.vp-doc h4 {
+  word-break: keep-all;
+}
+
+/* ============================================
+   Home Page Custom Sections
+   ============================================ */
+
+.home-stats {
+  display: flex;
+  justify-content: center;
+  gap: 2rem;
+  flex-wrap: wrap;
+  padding: 2rem 1rem;
+  margin: 0 auto;
+  max-width: 720px;
+}
+
+.home-stat {
+  text-align: center;
+  padding: 1rem 1.5rem;
+  background: var(--vp-c-bg-soft);
+  border-radius: 12px;
+  border: 1px solid var(--vp-c-divider);
+  min-width: 120px;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.home-stat:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(99, 102, 241, 0.1);
+}
+
+.home-stat .number {
+  font-size: 2rem;
+  font-weight: 700;
+  background: linear-gradient(120deg, #6366f1, #06b6d4);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  display: block;
+  line-height: 1.2;
+}
+
+.home-stat .label {
+  font-size: 0.85rem;
+  color: var(--vp-c-text-2);
+  margin-top: 0.25rem;
+}
+
+.home-section-title {
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 700;
+  margin: 2.5rem 0 1rem;
+  color: var(--vp-c-text-1);
+}
+
+.home-section-subtitle {
+  text-align: center;
+  font-size: 0.95rem;
+  color: var(--vp-c-text-2);
+  margin-bottom: 1.5rem;
+}
+
+.recent-articles {
+  max-width: 720px;
+  margin: 0 auto;
+  padding: 0 1rem 2rem;
+}
+
+.recent-article {
+  display: flex;
+  align-items: baseline;
+  gap: 0.75rem;
+  padding: 0.75rem 1rem;
+  border-radius: 8px;
+  transition: background 0.2s ease;
+  text-decoration: none !important;
+  border-bottom: 1px solid var(--vp-c-divider);
+}
+
+.recent-article:last-child {
+  border-bottom: none;
+}
+
+.recent-article:hover {
+  background: var(--vp-c-bg-soft);
+}
+
+.recent-article .lab-tag {
+  font-size: 0.75rem;
+  padding: 0.15rem 0.5rem;
+  border-radius: 10px;
+  background: var(--vp-c-brand-soft);
+  color: var(--vp-c-brand-1);
+  font-weight: 600;
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.recent-article .article-title {
+  font-size: 0.95rem;
+  color: var(--vp-c-text-1);
+  font-weight: 500;
+  flex: 1;
+}
+
+.recent-article:hover .article-title {
+  color: var(--vp-c-brand-1);
+}
+
+.home-intro {
+  text-align: center;
+  max-width: 640px;
+  margin: 0 auto;
+  padding: 1rem 1.5rem 0.5rem;
+  font-size: 0.95rem;
+  line-height: 1.7;
+  color: var(--vp-c-text-2);
+}
+
+.home-tags {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  max-width: 640px;
+  margin: 1rem auto 0;
+  padding: 0 1rem;
+}
+
+.home-tag {
+  display: inline-block;
+  padding: 0.25rem 0.65rem;
+  font-size: 0.8rem;
+  border-radius: 14px;
+  background: var(--vp-c-bg-soft);
+  border: 1px solid var(--vp-c-divider);
+  color: var(--vp-c-text-2);
+  text-decoration: none !important;
+  transition: all 0.2s ease;
+  font-weight: 500;
+}
+
+.home-tag:hover {
+  background: var(--vp-c-brand-soft);
+  color: var(--vp-c-brand-1);
+  border-color: var(--vp-c-brand-1);
+}
+
+/* ============================================
+   Sidebar article count badges
+   ============================================ */
+.VPSidebarItem .text {
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+}
+
+/* ============================================
+   Better mobile reading experience
+   ============================================ */
+@media (max-width: 768px) {
+  .home-stats {
+    gap: 1rem;
+  }
+
+  .home-stat {
+    min-width: 90px;
+    padding: 0.75rem 1rem;
+  }
+
+  .home-stat .number {
+    font-size: 1.5rem;
+  }
+
+  .recent-article {
+    flex-direction: column;
+    gap: 0.25rem;
+  }
+
+  .reading-time-badge {
+    font-size: 0.8rem;
+  }
+}
+
+/* ============================================
+   Print styles for articles
+   ============================================ */
+@media print {
+  .VPNav,
+  .VPSidebar,
+  .VPFooter,
+  .reading-time-badge {
+    display: none !important;
+  }
+
+  .vp-doc {
+    max-width: 100% !important;
+    padding: 0 !important;
+  }
 }
