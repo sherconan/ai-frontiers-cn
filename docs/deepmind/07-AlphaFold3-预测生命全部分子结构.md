@@ -1,3 +1,18 @@
+---
+title: "AlphaFold 3: Predicting the Structure and Interactions of All of Life's Molecules"
+description: "Google DeepMind 与 Isomorphic Labs 联合推出 AlphaFold 3，首次实现对蛋白质、DNA、RNA、配体等所有生命分子的结构及其相互作用的高精度预测，开启\"数字生物学\"新纪元。"
+head:
+  - - meta
+    - property: og:title
+      content: "AlphaFold 3: Predicting the Structure and Interactions of All of Life's Molecules"
+  - - meta
+    - property: og:description
+      content: "Google DeepMind 与 Isomorphic Labs 联合推出 AlphaFold 3，首次实现对蛋白质、DNA、RNA、配体等所有生命分子的结构及其相互作用的高精度预测，开启\"数字生物学\"新纪元。"
+  - - meta
+    - property: og:type
+      content: article
+---
+
 # AlphaFold 3: Predicting the Structure and Interactions of All of Life's Molecules
 
 # AlphaFold 3：预测生命全部分子的结构与相互作用

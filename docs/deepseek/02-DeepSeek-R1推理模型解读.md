@@ -1,3 +1,18 @@
+---
+title: "DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning / DeepSeek-R1：通过强化学习激发大语言模型的推理能力"
+description: "DeepSeek-R1 证明了大语言模型的推理能力可以仅通过纯强化学习（RL）激发，无需人工标注的推理轨迹，其中 R1-Zero 模型在训练过程中自发涌现出自我验证、反思和长链式推理等高级能力，最终 R1 模型在数学、编程和推理任务上达到了与 OpenAI o1 相当的性能水平。"
+head:
+  - - meta
+    - property: og:title
+      content: "DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning / DeepSeek-R1：通过强化学习激发大语言模型的推理能力"
+  - - meta
+    - property: og:description
+      content: "DeepSeek-R1 证明了大语言模型的推理能力可以仅通过纯强化学习（RL）激发，无需人工标注的推理轨迹，其中 R1-Zero 模型在训练过程中自发涌现出自我验证、反思和长链式推理等高级能力，最终 R1 模型在数学、编程和推理任务上达到了与 OpenAI o1 相当的性能水平。"
+  - - meta
+    - property: og:type
+      content: article
+---
+
 # DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning / DeepSeek-R1：通过强化学习激发大语言模型的推理能力
 
 ## 一句话摘要

@@ -1,3 +1,18 @@
+---
+title: "What 81,000 People Want from AI | 81,000 人对 AI 的期望"
+description: "Anthropic 对近 81,000 名 Claude.ai 用户进行了迄今规模最大、语言覆盖最广的 AI 使用定性研究，深入了解全球用户如何在日常生活中使用 AI，以及他们对 AI 未来发展的真实期望。"
+head:
+  - - meta
+    - property: og:title
+      content: "What 81,000 People Want from AI | 81,000 人对 AI 的期望"
+  - - meta
+    - property: og:description
+      content: "Anthropic 对近 81,000 名 Claude.ai 用户进行了迄今规模最大、语言覆盖最广的 AI 使用定性研究，深入了解全球用户如何在日常生活中使用 AI，以及他们对 AI 未来发展的真实期望。"
+  - - meta
+    - property: og:type
+      content: article
+---
+
 # What 81,000 People Want from AI | 81,000 人对 AI 的期望
 
 > **原标题：** What 81,000 People Want from AI

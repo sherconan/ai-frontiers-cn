@@ -1,3 +1,18 @@
+---
+title: "独立研究者与基础论文深度解读"
+description: "独立研究者与基础论文深度解读 - AI 前沿精读深度解读"
+head:
+  - - meta
+    - property: og:title
+      content: "独立研究者与基础论文深度解读"
+  - - meta
+    - property: og:description
+      content: "独立研究者与基础论文深度解读 - AI 前沿精读深度解读"
+  - - meta
+    - property: og:type
+      content: article
+---
+
 # 独立研究者与基础论文深度解读
 
 来自 AI 领域最有影响力的独立研究者的经典博客文章，以及塑造当今 AI 格局的里程碑论文解读。

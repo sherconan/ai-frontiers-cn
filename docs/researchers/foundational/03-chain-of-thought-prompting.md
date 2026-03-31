@@ -1,3 +1,18 @@
+---
+title: "Chain-of-Thought Prompting — 思维链提示"
+description: "> 通过在提示中加入中间推理步骤的示例，大语言模型在算术推理、常识推理和符号推理等任务上的表现获得了巨大提升 —— 仅需修改提示格式，无需修改模型权重或额外训练数据，但这种能力仅在足够大的模型（约 1000 亿参数以上）中才会涌现。"
+head:
+  - - meta
+    - property: og:title
+      content: "Chain-of-Thought Prompting — 思维链提示"
+  - - meta
+    - property: og:description
+      content: "> 通过在提示中加入中间推理步骤的示例，大语言模型在算术推理、常识推理和符号推理等任务上的表现获得了巨大提升 —— 仅需修改提示格式，无需修改模型权重或额外训练数据，但这种能力仅在足够大的模型（约 1000 亿参数以上）中才会涌现。"
+  - - meta
+    - property: og:type
+      content: article
+---
+
 # Chain-of-Thought Prompting — 思维链提示
 
 **原标题**: Chain-of-Thought Prompting Elicits Reasoning in Large Language Models

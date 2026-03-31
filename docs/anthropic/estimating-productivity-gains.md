@@ -1,3 +1,18 @@
+---
+title: "从Claude对话中估算AI生产力提升"
+description: "Anthropic分析了10万条真实Claude对话，发现AI平均缩短约80%的任务完成时间，据此推算当前AI模型可将美国劳动生产率年增长提升1.8个百分点——大致相当于近年增速的两倍。"
+head:
+  - - meta
+    - property: og:title
+      content: "从Claude对话中估算AI生产力提升"
+  - - meta
+    - property: og:description
+      content: "Anthropic分析了10万条真实Claude对话，发现AI平均缩短约80%的任务完成时间，据此推算当前AI模型可将美国劳动生产率年增长提升1.8个百分点——大致相当于近年增速的两倍。"
+  - - meta
+    - property: og:type
+      content: article
+---
+
 # 从Claude对话中估算AI生产力提升
 
 > **原标题:** Estimating AI Productivity Gains from Claude Conversations

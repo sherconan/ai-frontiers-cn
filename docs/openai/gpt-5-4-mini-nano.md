@@ -1,3 +1,18 @@
+---
+title: "Introducing GPT-5.4 mini and nano | GPT-5.4 mini 与 nano：为子智能体时代而生"
+description: "OpenAI 发布 GPT-5.4 mini 和 GPT-5.4 nano 两款高效模型——mini 在编码、推理和多模态任务上大幅超越 GPT-5 mini 并接近完整版 GPT-5.4 水平，nano 则成为最小最廉价的模型，两者共同定义了\"子智能体时代\"的模型矩阵。"
+head:
+  - - meta
+    - property: og:title
+      content: "Introducing GPT-5.4 mini and nano | GPT-5.4 mini 与 nano：为子智能体时代而生"
+  - - meta
+    - property: og:description
+      content: "OpenAI 发布 GPT-5.4 mini 和 GPT-5.4 nano 两款高效模型——mini 在编码、推理和多模态任务上大幅超越 GPT-5 mini 并接近完整版 GPT-5.4 水平，nano 则成为最小最廉价的模型，两者共同定义了\"子智能体时代\"的模型矩阵。"
+  - - meta
+    - property: og:type
+      content: article
+---
+
 # Introducing GPT-5.4 mini and nano | GPT-5.4 mini 与 nano：为子智能体时代而生
 
 > **原标题：** Introducing GPT-5.4 mini and nano

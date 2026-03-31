@@ -1,3 +1,18 @@
+---
+title: "Introducing Llama 3.1: Our most capable models to date"
+description: "Meta发布了Llama 3.1系列模型，其中405B参数的旗舰模型成为首个可与GPT-4、Claude 3.5 Sonnet等闭源模型媲美的开源前沿大模型，标志着开源AI正式进入前沿竞技场。"
+head:
+  - - meta
+    - property: og:title
+      content: "Introducing Llama 3.1: Our most capable models to date"
+  - - meta
+    - property: og:description
+      content: "Meta发布了Llama 3.1系列模型，其中405B参数的旗舰模型成为首个可与GPT-4、Claude 3.5 Sonnet等闭源模型媲美的开源前沿大模型，标志着开源AI正式进入前沿竞技场。"
+  - - meta
+    - property: og:type
+      content: article
+---
+
 # Introducing Llama 3.1: Our most capable models to date
 # 发布Llama 3.1：迄今为止最强大的开源模型
 

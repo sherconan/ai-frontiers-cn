@@ -1,3 +1,18 @@
+---
+title: "其他中国 AI 公司深度解读"
+description: "其他中国 AI 公司深度解读 - AI 前沿精读深度解读"
+head:
+  - - meta
+    - property: og:title
+      content: "其他中国 AI 公司深度解读"
+  - - meta
+    - property: og:description
+      content: "其他中国 AI 公司深度解读 - AI 前沿精读深度解读"
+  - - meta
+    - property: og:type
+      content: article
+---
+
 # 其他中国 AI 公司深度解读
 
 除 Kimi、Qwen、DeepSeek 之外的中国 AI 公司重要技术文章。

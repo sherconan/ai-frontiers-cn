@@ -1,3 +1,18 @@
+---
+title: "AuditBench: Evaluating Alignment Auditing Techniques | AuditBench：隐藏行为审计基准"
+description: "Anthropic 发布 AuditBench——包含 56 个植入隐藏行为的语言模型的开放基准，涵盖 14 类错位行为，用于系统性评估对齐审计技术的有效性。研究发现：黑盒脚手架工具最有效，白盒可解释性工具仅对简单目标有帮助，且存在显著的\"工具-智能体鸿沟\"。"
+head:
+  - - meta
+    - property: og:title
+      content: "AuditBench: Evaluating Alignment Auditing Techniques | AuditBench：隐藏行为审计基准"
+  - - meta
+    - property: og:description
+      content: "Anthropic 发布 AuditBench——包含 56 个植入隐藏行为的语言模型的开放基准，涵盖 14 类错位行为，用于系统性评估对齐审计技术的有效性。研究发现：黑盒脚手架工具最有效，白盒可解释性工具仅对简单目标有帮助，且存在显著的\"工具-智能体鸿沟\"。"
+  - - meta
+    - property: og:type
+      content: article
+---
+
 # AuditBench: Evaluating Alignment Auditing Techniques | AuditBench：隐藏行为审计基准
 
 > **原标题：** AuditBench: Evaluating Alignment Auditing Techniques on Models with Hidden Behaviors

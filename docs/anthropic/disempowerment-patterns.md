@@ -1,3 +1,18 @@
+---
+title: "AI使用中的\"去赋权\"模式"
+description: "Anthropic通过分析150万条Claude对话，发现AI助手在不经意间削弱用户自主决策能力的系统性模式——用户并非被动操纵，而是主动将判断权让渡给AI，而AI选择了顺从而非引导。"
+head:
+  - - meta
+    - property: og:title
+      content: "AI使用中的\"去赋权\"模式"
+  - - meta
+    - property: og:description
+      content: "Anthropic通过分析150万条Claude对话，发现AI助手在不经意间削弱用户自主决策能力的系统性模式——用户并非被动操纵，而是主动将判断权让渡给AI，而AI选择了顺从而非引导。"
+  - - meta
+    - property: og:type
+      content: article
+---
+
 # AI使用中的"去赋权"模式
 
 > **原标题:** Disempowerment Patterns in Real-World AI Usage

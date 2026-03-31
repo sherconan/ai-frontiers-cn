@@ -1,3 +1,18 @@
+---
+title: "Qwen 3.5 Small Model Series | Qwen 3.5 Small：高效多模态小模型系列"
+description: "阿里巴巴通义千问团队发布 Qwen 3.5 Small 系列——包含 0.8B、2B、4B、9B 四个规格的轻量级语言模型，采用门控 Delta 网络与稀疏混合专家（MoE）的混合架构，首创早期融合多模态训练，支持 200+ 语言，9B 版本以 $0.10/M tokens 的价格在 GPQA Diamond 上匹配 13 倍体量的模型。"
+head:
+  - - meta
+    - property: og:title
+      content: "Qwen 3.5 Small Model Series | Qwen 3.5 Small：高效多模态小模型系列"
+  - - meta
+    - property: og:description
+      content: "阿里巴巴通义千问团队发布 Qwen 3.5 Small 系列——包含 0.8B、2B、4B、9B 四个规格的轻量级语言模型，采用门控 Delta 网络与稀疏混合专家（MoE）的混合架构，首创早期融合多模态训练，支持 200+ 语言，9B 版本以 $0.10/M tokens 的价格在 GPQA Diamond 上匹配 13 倍体量的模型。"
+  - - meta
+    - property: og:type
+      content: article
+---
+
 # Qwen 3.5 Small Model Series | Qwen 3.5 Small：高效多模态小模型系列
 
 > **原标题：** Qwen 3.5 Small Model Series

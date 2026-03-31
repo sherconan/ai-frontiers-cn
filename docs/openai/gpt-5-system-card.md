@@ -1,3 +1,18 @@
+---
+title: "GPT-5 System Card — GPT-5系统安全卡"
+description: "OpenAI发布GPT-5系统安全卡，详述了其统一路由架构(快速模型+推理模型+智能路由器)的全方位安全评估结果，引入\"安全补全\"取代二元拒绝训练方法，实现幻觉率降低65%、谄媚行为减少75%、欺骗率从47%降至17%的显著安全提升。"
+head:
+  - - meta
+    - property: og:title
+      content: "GPT-5 System Card — GPT-5系统安全卡"
+  - - meta
+    - property: og:description
+      content: "OpenAI发布GPT-5系统安全卡，详述了其统一路由架构(快速模型+推理模型+智能路由器)的全方位安全评估结果，引入\"安全补全\"取代二元拒绝训练方法，实现幻觉率降低65%、谄媚行为减少75%、欺骗率从47%降至17%的显著安全提升。"
+  - - meta
+    - property: og:type
+      content: article
+---
+
 # GPT-5 System Card — GPT-5系统安全卡
 
 > **原标题**: GPT-5 System Card

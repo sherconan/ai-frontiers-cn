@@ -1,3 +1,18 @@
+---
+title: "负责任扩展政策 v3：Anthropic 重构 AI 安全治理框架"
+description: "Anthropic 发布负责任扩展政策（RSP）第三版，在承认原有框架局限性的基础上，将政策重构为\"企业自身承诺\"与\"行业建议\"两大轨道，引入前沿安全路线图和定期风险报告机制，以应对 AI 能力快速增长带来的结构性治理挑战。"
+head:
+  - - meta
+    - property: og:title
+      content: "负责任扩展政策 v3：Anthropic 重构 AI 安全治理框架"
+  - - meta
+    - property: og:description
+      content: "Anthropic 发布负责任扩展政策（RSP）第三版，在承认原有框架局限性的基础上，将政策重构为\"企业自身承诺\"与\"行业建议\"两大轨道，引入前沿安全路线图和定期风险报告机制，以应对 AI 能力快速增长带来的结构性治理挑战。"
+  - - meta
+    - property: og:type
+      content: article
+---
+
 # 负责任扩展政策 v3：Anthropic 重构 AI 安全治理框架
 
 > **原标题：** Anthropic's Responsible Scaling Policy: Version 3.0

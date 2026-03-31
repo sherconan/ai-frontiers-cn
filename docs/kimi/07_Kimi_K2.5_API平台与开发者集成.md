@@ -1,3 +1,18 @@
+---
+title: "Kimi K2.5 API Platform: Developer Quickstart & Integration Guide"
+description: "月之暗面为 Kimi K2.5 构建了完整的开发者平台生态，提供 OpenAI 兼容 API、256K 上下文窗口、原生多模态支持和思维链推理模式，并可一键接入 Claude Code、Cline、RooCode、OpenCode 等主流编程工具。"
+head:
+  - - meta
+    - property: og:title
+      content: "Kimi K2.5 API Platform: Developer Quickstart & Integration Guide"
+  - - meta
+    - property: og:description
+      content: "月之暗面为 Kimi K2.5 构建了完整的开发者平台生态，提供 OpenAI 兼容 API、256K 上下文窗口、原生多模态支持和思维链推理模式，并可一键接入 Claude Code、Cline、RooCode、OpenCode 等主流编程工具。"
+  - - meta
+    - property: og:type
+      content: article
+---
+
 # Kimi K2.5 API Platform: Developer Quickstart & Integration Guide
 
 **原标题:** Kimi K2.5 Quickstart / Using Kimi K2.5 Model in Programming Tools

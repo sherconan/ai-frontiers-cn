@@ -1,3 +1,18 @@
+---
+title: "Introducing Contextual Retrieval"
+description: "Anthropic 提出\"上下文检索\"（Contextual Retrieval）技术，通过在文档分块嵌入前为每个块添加上下文说明，结合BM25词法匹配和重排序，将RAG系统的检索失败率降低最高67%。"
+head:
+  - - meta
+    - property: og:title
+      content: "Introducing Contextual Retrieval"
+  - - meta
+    - property: og:description
+      content: "Anthropic 提出\"上下文检索\"（Contextual Retrieval）技术，通过在文档分块嵌入前为每个块添加上下文说明，结合BM25词法匹配和重排序，将RAG系统的检索失败率降低最高67%。"
+  - - meta
+    - property: og:type
+      content: article
+---
+
 # Introducing Contextual Retrieval
 
 **原标题:** Introducing Contextual Retrieval

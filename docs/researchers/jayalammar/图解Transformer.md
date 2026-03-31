@@ -1,3 +1,18 @@
+---
+title: "The Illustrated Transformer / 图解Transformer：一切的起点"
+description: "通过精心设计的可视化图解，将\"Attention is All You Need\"论文中的Transformer架构分解为可直觉理解的组件——从自注意力机制到多头注意力，从位置编码到编码器-解码器交互——这是全球影响力最大的深度学习科普文章之一，被斯坦福、哈佛、MIT等顶尖高校列为推荐教材。"
+head:
+  - - meta
+    - property: og:title
+      content: "The Illustrated Transformer / 图解Transformer：一切的起点"
+  - - meta
+    - property: og:description
+      content: "通过精心设计的可视化图解，将\"Attention is All You Need\"论文中的Transformer架构分解为可直觉理解的组件——从自注意力机制到多头注意力，从位置编码到编码器-解码器交互——这是全球影响力最大的深度学习科普文章之一，被斯坦福、哈佛、MIT等顶尖高校列为推荐教材。"
+  - - meta
+    - property: og:type
+      content: article
+---
+
 # The Illustrated Transformer / 图解Transformer：一切的起点
 
 > **原标题**: The Illustrated Transformer

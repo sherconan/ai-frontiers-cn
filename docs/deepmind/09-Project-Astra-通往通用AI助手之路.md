@@ -1,3 +1,18 @@
+---
+title: "Project Astra: Exploring a Universal AI Assistant"
+description: "Google DeepMind 的 Project Astra 是一款面向未来的多模态 AI 助手研究原型，能够实时看、听、理解并与用户自然交互，代表了 Google 对\"通用 AI 助手\"的终极愿景。"
+head:
+  - - meta
+    - property: og:title
+      content: "Project Astra: Exploring a Universal AI Assistant"
+  - - meta
+    - property: og:description
+      content: "Google DeepMind 的 Project Astra 是一款面向未来的多模态 AI 助手研究原型，能够实时看、听、理解并与用户自然交互，代表了 Google 对\"通用 AI 助手\"的终极愿景。"
+  - - meta
+    - property: og:type
+      content: article
+---
+
 # Project Astra: Exploring a Universal AI Assistant
 
 # Project Astra：探索通用 AI 助手的未来之路

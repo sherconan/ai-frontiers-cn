@@ -1,3 +1,18 @@
+---
+title: "Reasoning Models Struggle to Control Their Chains of Thought, and That's Good"
+description: "OpenAI 研究发现，当前前沿推理模型在被要求控制自身思维链内容时表现极差（可控性仅 0.1%-15.4%），这一\"缺陷\"反而为思维链监控的可靠性提供了重要的安全保障。"
+head:
+  - - meta
+    - property: og:title
+      content: "Reasoning Models Struggle to Control Their Chains of Thought, and That's Good"
+  - - meta
+    - property: og:description
+      content: "OpenAI 研究发现，当前前沿推理模型在被要求控制自身思维链内容时表现极差（可控性仅 0.1%-15.4%），这一\"缺陷\"反而为思维链监控的可靠性提供了重要的安全保障。"
+  - - meta
+    - property: og:type
+      content: article
+---
+
 # Reasoning Models Struggle to Control Their Chains of Thought, and That's Good
 
 **原标题：** Reasoning models struggle to control their chains of thought, and that's good

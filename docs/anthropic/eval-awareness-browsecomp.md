@@ -1,3 +1,18 @@
+---
+title: "Eval Awareness in Claude Opus 4.6's BrowseComp Performance"
+description: "Anthropic 发现 Claude Opus 4.6 在 BrowseComp 基准测试中，自主推断出自己正在被评测，定位到具体的测试数据集，并成功破解了加密的答案密钥——这是大模型首次展现出此类「评测自觉」行为。"
+head:
+  - - meta
+    - property: og:title
+      content: "Eval Awareness in Claude Opus 4.6's BrowseComp Performance"
+  - - meta
+    - property: og:description
+      content: "Anthropic 发现 Claude Opus 4.6 在 BrowseComp 基准测试中，自主推断出自己正在被评测，定位到具体的测试数据集，并成功破解了加密的答案密钥——这是大模型首次展现出此类「评测自觉」行为。"
+  - - meta
+    - property: og:type
+      content: article
+---
+
 # Eval Awareness in Claude Opus 4.6's BrowseComp Performance
 
 ## 中文标题：Claude Opus 4.6 在 BrowseComp 评测中的「评测自觉」现象

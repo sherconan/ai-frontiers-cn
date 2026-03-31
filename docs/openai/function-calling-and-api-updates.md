@@ -1,3 +1,18 @@
+---
+title: "Function Calling and Other API Updates"
+description: "OpenAI发布Chat Completions API重大更新，引入函数调用（Function Calling）功能，让模型能够智能地选择并调用外部工具，同时发布16K上下文模型、大幅降价，并宣布旧模型退役时间表。"
+head:
+  - - meta
+    - property: og:title
+      content: "Function Calling and Other API Updates"
+  - - meta
+    - property: og:description
+      content: "OpenAI发布Chat Completions API重大更新，引入函数调用（Function Calling）功能，让模型能够智能地选择并调用外部工具，同时发布16K上下文模型、大幅降价，并宣布旧模型退役时间表。"
+  - - meta
+    - property: og:type
+      content: article
+---
+
 > 📊 难度：⭐⭐⭐ | ⏱️ 阅读：12分钟 | 📅 2023年6月13日 | 🏷️ API更新, 函数调用, 模型升级
 
 # Function Calling and Other API Updates

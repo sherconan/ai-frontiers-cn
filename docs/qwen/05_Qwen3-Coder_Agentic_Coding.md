@@ -1,3 +1,18 @@
+---
+title: "Qwen3-Coder: Agentic Coding in the World"
+description: "阿里Qwen团队推出Qwen3-Coder，采用480B参数MoE架构（35B激活），通过代码强化学习和长程智能体RL训练，在智能体编程、浏览器操作和工具使用上达到开源模型SOTA，性能比肩Claude Sonnet 4。"
+head:
+  - - meta
+    - property: og:title
+      content: "Qwen3-Coder: Agentic Coding in the World"
+  - - meta
+    - property: og:description
+      content: "阿里Qwen团队推出Qwen3-Coder，采用480B参数MoE架构（35B激活），通过代码强化学习和长程智能体RL训练，在智能体编程、浏览器操作和工具使用上达到开源模型SOTA，性能比肩Claude Sonnet 4。"
+  - - meta
+    - property: og:type
+      content: article
+---
+
 # Qwen3-Coder: Agentic Coding in the World
 
 ## 原标题 / 中文标题

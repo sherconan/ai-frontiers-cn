@@ -1,3 +1,18 @@
+---
+title: "MCP 捐赠与智能体 AI 基金会成立：开放标准的里程碑"
+description: "Anthropic 将其开创的模型上下文协议（MCP）捐赠给 Linux 基金会旗下新成立的\"智能体 AI 基金会\"（AAIF），联合 Block、OpenAI、Google、Microsoft、AWS 等巨头共建 AI 智能体开放标准生态。"
+head:
+  - - meta
+    - property: og:title
+      content: "MCP 捐赠与智能体 AI 基金会成立：开放标准的里程碑"
+  - - meta
+    - property: og:description
+      content: "Anthropic 将其开创的模型上下文协议（MCP）捐赠给 Linux 基金会旗下新成立的\"智能体 AI 基金会\"（AAIF），联合 Block、OpenAI、Google、Microsoft、AWS 等巨头共建 AI 智能体开放标准生态。"
+  - - meta
+    - property: og:type
+      content: article
+---
+
 # MCP 捐赠与智能体 AI 基金会成立：开放标准的里程碑
 
 > **原标题：** Donating the Model Context Protocol and Establishing the Agentic AI Foundation

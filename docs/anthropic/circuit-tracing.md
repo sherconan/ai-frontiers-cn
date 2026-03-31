@@ -1,3 +1,18 @@
+---
+title: "开源电路追踪工具"
+description: "Anthropic将其用于\"追踪大语言模型思维过程\"的电路追踪（Circuit Tracing）方法论和工具开源，使外部研究人员能够在Gemma和Llama等开放权重模型上生成、可视化和操控归因图（Attribution Graph），推动可解释性研究的民主化。"
+head:
+  - - meta
+    - property: og:title
+      content: "开源电路追踪工具"
+  - - meta
+    - property: og:description
+      content: "Anthropic将其用于\"追踪大语言模型思维过程\"的电路追踪（Circuit Tracing）方法论和工具开源，使外部研究人员能够在Gemma和Llama等开放权重模型上生成、可视化和操控归因图（Attribution Graph），推动可解释性研究的民主化。"
+  - - meta
+    - property: og:type
+      content: article
+---
+
 # 开源电路追踪工具
 
 > **原标题：** Open-sourcing Circuit Tracing Tools

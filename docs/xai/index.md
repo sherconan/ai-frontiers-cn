@@ -1,3 +1,18 @@
+---
+title: "xAI (Grok) 博客深度解读"
+description: "xAI (Grok) 博客深度解读 - AI 前沿精读深度解读"
+head:
+  - - meta
+    - property: og:title
+      content: "xAI (Grok) 博客深度解读"
+  - - meta
+    - property: og:description
+      content: "xAI (Grok) 博客深度解读 - AI 前沿精读深度解读"
+  - - meta
+    - property: og:type
+      content: article
+---
+
 # xAI (Grok) 博客深度解读
 
 xAI 是 Elon Musk 创立的 AI 公司，开发 Grok 系列模型，以追求"理解宇宙"为使命。

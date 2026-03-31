@@ -1,3 +1,18 @@
+---
+title: "Effective Harnesses for Long-Running Agents"
+description: "本文提出了一套受专业软件工程师工作方式启发的实用框架，通过\"初始化 Agent + 编码 Agent\"的双阶段架构、结构化进度追踪和功能清单机制，解决 AI Agent 在跨越多个上下文窗口执行长周期任务时丢失记忆、进度混乱的核心难题。"
+head:
+  - - meta
+    - property: og:title
+      content: "Effective Harnesses for Long-Running Agents"
+  - - meta
+    - property: og:description
+      content: "本文提出了一套受专业软件工程师工作方式启发的实用框架，通过\"初始化 Agent + 编码 Agent\"的双阶段架构、结构化进度追踪和功能清单机制，解决 AI Agent 在跨越多个上下文窗口执行长周期任务时丢失记忆、进度混乱的核心难题。"
+  - - meta
+    - property: og:type
+      content: article
+---
+
 # Effective Harnesses for Long-Running Agents
 
 ## 原标题 / 中文标题

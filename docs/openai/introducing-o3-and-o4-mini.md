@@ -1,3 +1,18 @@
+---
+title: "Introducing OpenAI o3 and o4-mini"
+description: "OpenAI于2025年4月16日正式发布o3和o4-mini两款推理模型，首次实现多模态推理与全工具集成，在数学、编程、视觉理解等基准测试中全面刷新纪录。"
+head:
+  - - meta
+    - property: og:title
+      content: "Introducing OpenAI o3 and o4-mini"
+  - - meta
+    - property: og:description
+      content: "OpenAI于2025年4月16日正式发布o3和o4-mini两款推理模型，首次实现多模态推理与全工具集成，在数学、编程、视觉理解等基准测试中全面刷新纪录。"
+  - - meta
+    - property: og:type
+      content: article
+---
+
 # Introducing OpenAI o3 and o4-mini
 
 ## 原标题

@@ -1,3 +1,18 @@
+---
+title: "Kimi（月之暗面）博客深度解读"
+description: "Kimi（月之暗面）博客深度解读 - AI 前沿精读深度解读"
+head:
+  - - meta
+    - property: og:title
+      content: "Kimi（月之暗面）博客深度解读"
+  - - meta
+    - property: og:description
+      content: "Kimi（月之暗面）博客深度解读 - AI 前沿精读深度解读"
+  - - meta
+    - property: og:type
+      content: article
+---
+
 # Kimi（月之暗面）博客深度解读
 
 Moonshot AI（月之暗面）是中国最具技术实力的 AI 创业公司之一，以长上下文、推理能力和 Agent 架构著称。

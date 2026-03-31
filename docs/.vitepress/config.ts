@@ -1,4 +1,6 @@
-import { defineConfig } from 'vitepress'
+import { defineConfig, type HeadConfig } from 'vitepress'
+
+const SITE_URL = 'https://sherconan.github.io/ai-frontiers-cn'
 
 export default defineConfig({
   title: 'AI 前沿精读',
@@ -32,6 +34,9 @@ export default defineConfig({
     ['meta', { name: 'twitter:title', content: 'AI 前沿精读' }],
     ['meta', { name: 'twitter:description', content: '全球顶尖 AI 实验室博客的中文翻译与深度解读' }],
 
+    // RSS Feed
+    ['link', { rel: 'alternate', type: 'application/rss+xml', title: 'AI 前沿精读 RSS', href: '/ai-frontiers-cn/feed.xml' }],
+
     // Favicon
     ['link', { rel: 'icon', type: 'image/svg+xml', href: 'data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y=".9em" font-size="90">🧠</text></svg>' }],
 
@@ -61,6 +66,49 @@ export default defineConfig({
     ['link', { rel: 'preconnect', href: 'https://fonts.gstatic.com', crossorigin: '' }],
   ],
 
+  // Per-page head tags: canonical URL, Article JSON-LD
+  transformHead({ pageData, siteData }) {
+    const heads: HeadConfig[] = []
+    const pagePath = pageData.relativePath.replace(/\.md$/, '').replace(/index$/, '')
+    const canonicalUrl = `${SITE_URL}/${pagePath}`
+
+    // Canonical URL for every page
+    heads.push(['link', { rel: 'canonical', href: canonicalUrl }])
+
+    // Per-page OG URL
+    heads.push(['meta', { property: 'og:url', content: canonicalUrl }])
+
+    // Article pages get Article JSON-LD (skip index/home pages)
+    if (pageData.frontmatter?.title && !pageData.frontmatter?.layout) {
+      const title = pageData.frontmatter.title
+      const description = pageData.frontmatter.description || siteData.description
+      const dateModified = pageData.lastUpdated
+        ? new Date(pageData.lastUpdated).toISOString()
+        : new Date().toISOString()
+
+      heads.push(['script', { type: 'application/ld+json' }, JSON.stringify({
+        '@context': 'https://schema.org',
+        '@type': 'Article',
+        'headline': title,
+        'description': description,
+        'url': canonicalUrl,
+        'dateModified': dateModified,
+        'inLanguage': 'zh-CN',
+        'publisher': {
+          '@type': 'Organization',
+          'name': 'AI 前沿精读',
+          'url': SITE_URL,
+        },
+        'mainEntityOfPage': {
+          '@type': 'WebPage',
+          '@id': canonicalUrl,
+        },
+      })])
+    }
+
+    return heads
+  },
+
   themeConfig: {
     logo: '🧠',
     nav: [
@@ -68,12 +116,12 @@ export default defineConfig({
       {
         text: '海外实验室',
         items: [
-          { text: '🧠 Anthropic (62)', link: '/anthropic/' },
-          { text: '🤖 OpenAI (28)', link: '/openai/' },
-          { text: '🔬 DeepMind (27)', link: '/deepmind/' },
-          { text: '🦙 Meta AI (7)', link: '/meta-ai/' },
+          { text: '🧠 Anthropic (64)', link: '/anthropic/' },
+          { text: '🤖 OpenAI (30)', link: '/openai/' },
+          { text: '🔬 DeepMind (29)', link: '/deepmind/' },
+          { text: '🦙 Meta AI (9)', link: '/meta-ai/' },
           { text: '⚡ xAI / Grok (2)', link: '/xai/' },
-          { text: '🇪🇺 Mistral AI (4)', link: '/mistral/' },
+          { text: '🇪🇺 Mistral AI (7)', link: '/mistral/' },
           { text: '💚 NVIDIA (4)', link: '/nvidia/' },
           { text: '🤗 Hugging Face (2)', link: '/huggingface/' },
           { text: '🪟 Microsoft (1)', link: '/microsoft/' },
@@ -100,6 +148,12 @@ export default defineConfig({
         ],
       },
       {
+        text: '特别专题',
+        items: [
+          { text: '📊 2026 Q1 大模型横评', link: '/special/2026-q1-llm-landscape' },
+        ],
+      },
+      {
         text: '研究者 & 论文',
         items: [
           { text: '📜 基础论文精读 (6)', link: '/researchers/#基础论文精读' },
@@ -115,7 +169,7 @@ export default defineConfig({
     sidebar: {
       '/anthropic/': [
         {
-          text: 'Anthropic (58 篇)',
+          text: 'Anthropic (64 篇)',
           collapsed: false,
           items: [
             { text: '📋 概览', link: '/anthropic/' },
@@ -162,6 +216,7 @@ export default defineConfig({
             { text: 'SHADE-Arena', link: '/anthropic/shade-arena' },
             { text: 'Prompt Injection 防御', link: '/anthropic/prompt-injection-defenses' },
             { text: '蒸馏攻击检测', link: '/anthropic/distillation-attacks' },
+            { text: '起诉五角大楼', link: '/anthropic/anthropic-pentagon-lawsuit' },
             { text: '少量样本毒化', link: '/anthropic/small-samples-poison' },
             { text: '无监督引出安全性', link: '/anthropic/unsupervised-elicitation-safety' },
             { text: '负责任扩展 v3', link: '/anthropic/responsible-scaling-v3' },
@@ -169,6 +224,7 @@ export default defineConfig({
             { text: '自动对齐智能体 A3', link: '/anthropic/automated-alignment-agent' },
             { text: '抗AI评估设计', link: '/anthropic/ai-resistant-evals' },
             { text: '去赋权模式', link: '/anthropic/disempowerment-patterns' },
+            { text: 'CVE-2026-2796 漏洞利用分析', link: '/anthropic/cve-2026-2796-exploit' },
           ],
         },
         {
@@ -213,12 +269,13 @@ export default defineConfig({
             { text: 'AI 生产力估算', link: '/anthropic/estimating-productivity-gains' },
             { text: '支持、建议与陪伴', link: '/anthropic/claude-support-companionship' },
             { text: 'Mozilla Firefox 安全', link: '/anthropic/mozilla-firefox-security' },
+            { text: '经济指数：学习曲线', link: '/anthropic/economic-index-learning-curves' },
           ],
         },
       ],
       '/openai/': [
         {
-          text: 'OpenAI (24 篇)',
+          text: 'OpenAI (30 篇)',
           collapsed: false,
           items: [
             { text: '📋 概览', link: '/openai/' },
@@ -229,6 +286,7 @@ export default defineConfig({
           collapsed: false,
           items: [
             { text: 'GPT-5.4 三变体架构', link: '/openai/gpt-5-4' },
+            { text: 'GPT-5.3 Instant & 5.4 Thinking/Pro', link: '/openai/gpt-5-3-instant-5-4-thinking-pro' },
             { text: 'GPT-5.4 mini & nano', link: '/openai/gpt-5-4-mini-nano' },
             { text: 'GPT-5.2 发布', link: '/openai/introducing-gpt-5-2' },
             { text: 'GPT-5 System Card', link: '/openai/gpt-5-system-card' },
@@ -245,7 +303,10 @@ export default defineConfig({
             { text: 'Codex 发布', link: '/openai/introducing-codex' },
             { text: 'Agent 构建新工具', link: '/openai/new-tools-for-building-agents' },
             { text: 'Agentic AI 治理', link: '/openai/practices-for-governing-agentic-ai' },
+            { text: '收购 Promptfoo', link: '/openai/openai-acquires-promptfoo' },
             { text: '收购 Astral', link: '/openai/openai-acquires-astral' },
+            { text: '超级应用整合', link: '/openai/openai-superapp-consolidation' },
+            { text: '非营利 10 亿美元计划', link: '/openai/openai-nonprofit-billion' },
           ],
         },
         {
@@ -274,7 +335,7 @@ export default defineConfig({
       ],
       '/deepmind/': [
         {
-          text: 'Google DeepMind (25 篇)',
+          text: 'Google DeepMind (29 篇)',
           collapsed: false,
           items: [
             { text: '📋 概览', link: '/deepmind/' },
@@ -291,6 +352,7 @@ export default defineConfig({
             { text: 'Gemini 3.1 Flash-Lite 规模化', link: '/deepmind/17-Gemini-3.1-Flash-Lite-规模化智能' },
             { text: 'Gemma 3 开源模型', link: '/deepmind/03-Gemma3-单GPU运行的最强开源模型' },
             { text: 'Gemma Scope 2', link: '/deepmind/11-Gemma-Scope-2-AI安全可解释性工具' },
+            { text: 'Genie 3 世界模型', link: '/deepmind/18-Genie-3-交互式世界模型' },
           ],
         },
         {
@@ -327,12 +389,13 @@ export default defineConfig({
             { text: 'Agents 白皮书', link: '/deepmind/13-Google-Agents-智能体白皮书' },
             { text: 'Gemini 机器人合作', link: '/deepmind/16-DeepMind-Agile-Robots-Gemini机器人合作' },
             { text: 'Gemini 驱动 Apple Siri', link: '/deepmind/17-Gemini驱动Apple-Siri重构' },
+            { text: 'DOE Genesis AI 科学加速', link: '/deepmind/18-DeepMind-DOE-Genesis-AI科学加速' },
           ],
         },
       ],
       '/deepseek/': [
         {
-          text: 'DeepSeek (10 篇)',
+          text: 'DeepSeek (11 篇)',
           collapsed: false,
           items: [
             { text: '📋 概览', link: '/deepseek/' },
@@ -386,7 +449,7 @@ export default defineConfig({
       ],
       '/meta-ai/': [
         {
-          text: 'Meta AI (6 篇)',
+          text: 'Meta AI (9 篇)',
           collapsed: false,
           items: [
             { text: '📋 概览', link: '/meta-ai/' },
@@ -396,6 +459,9 @@ export default defineConfig({
             { text: 'LlamaCon 2025', link: '/meta-ai/llamacon-2025' },
             { text: 'Llama Guard & CyberSecEval', link: '/meta-ai/llama-guard-cyberseceval-ai-safety' },
             { text: 'FAIR 具身 AI', link: '/meta-ai/fair-robotics-open-source' },
+            { text: 'Llama 4 Scout & Maverick', link: '/meta-ai/llama-4-scout-maverick' },
+            { text: 'SAM 3 概念分割', link: '/meta-ai/sam-3-segment-anything-concepts' },
+            { text: 'MTIA 自研芯片路线图', link: '/meta-ai/mtia-custom-ai-chips-roadmap' },
           ],
         },
       ],
@@ -412,10 +478,13 @@ export default defineConfig({
       ],
       '/mistral/': [
         {
-          text: 'Mistral AI (4 篇)',
+          text: 'Mistral AI (7 篇)',
           collapsed: false,
           items: [
             { text: '📋 概览', link: '/mistral/' },
+            { text: 'Leanstral 形式化证明', link: '/mistral/leanstral-open-source-lean4-proof-agent' },
+            { text: 'Devstral 2 & Vibe CLI', link: '/mistral/devstral-2-vibe-cli' },
+            { text: 'Mistral Medium 3', link: '/mistral/mistral-medium-3' },
             { text: 'Mistral 3 模型家族', link: '/mistral/mistral-3-frontier-open-model' },
             { text: 'Forge 企业定制平台', link: '/mistral/forge-enterprise-model-platform' },
             { text: 'Le Chat AI 助手', link: '/mistral/le-chat-ai-assistant-platform' },
@@ -437,7 +506,7 @@ export default defineConfig({
       ],
       '/nvidia/': [
         {
-          text: 'NVIDIA (3 篇)',
+          text: 'NVIDIA (4 篇)',
           collapsed: false,
           items: [
             { text: '📋 概览', link: '/nvidia/' },
@@ -539,6 +608,16 @@ export default defineConfig({
           ],
         },
       ],
+      '/special/': [
+        {
+          text: '特别专题',
+          collapsed: false,
+          items: [
+            { text: '📋 概览', link: '/special/' },
+            { text: '2026 Q1 大模型竞争格局全景横评', link: '/special/2026-q1-llm-landscape' },
+          ],
+        },
+      ],
       '/timeline/': [
         {
           text: '时间线',
@@ -577,7 +656,7 @@ export default defineConfig({
     },
 
     footer: {
-      message: '全球顶尖 AI 实验室博客的中文翻译与深度解读 · 200+ 篇文章 · 15+ 实验室',
+      message: '全球顶尖 AI 实验室博客的中文翻译与深度解读 · 210+ 篇文章 · 15+ 实验室',
       copyright: '© 2025-2026 AI 前沿精读',
     },
 

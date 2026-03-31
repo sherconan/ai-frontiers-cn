@@ -1,0 +1,362 @@
+<?xml version="1.0" ?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>AI 前沿精读</title>
+    <link>https://sherconan.github.io/ai-frontiers-cn</link>
+    <description>全球顶尖 AI 实验室博客的中文翻译与深度解读</description>
+    <language>zh-CN</language>
+    <lastBuildDate>Fri, 27 Mar 2026 15:45:09 +0800</lastBuildDate>
+    <generator>AI 前沿精读 RSS Generator</generator>
+    <atom:link href="https://sherconan.github.io/ai-frontiers-cn/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>🚀 模型发布与架构</title>
+      <link>https://sherconan.github.io/ai-frontiers-cn/topics/models</link>
+      <description>🚀 模型发布与架构 - AI 前沿精读深度解读</description>
+      <guid isPermaLink="true">https://sherconan.github.io/ai-frontiers-cn/topics/models</guid>
+      <pubDate>Fri, 27 Mar 2026 10:28:56 +0800</pubDate>
+    </item>
+    <item>
+      <title>🔒 安全与对齐</title>
+      <link>https://sherconan.github.io/ai-frontiers-cn/topics/safety</link>
+      <description>🔒 安全与对齐 - AI 前沿精读深度解读</description>
+      <guid isPermaLink="true">https://sherconan.github.io/ai-frontiers-cn/topics/safety</guid>
+      <pubDate>Fri, 27 Mar 2026 10:28:56 +0800</pubDate>
+    </item>
+    <item>
+      <title>🏗️ 工程实践</title>
+      <link>https://sherconan.github.io/ai-frontiers-cn/topics/engineering</link>
+      <description>🏗️ 工程实践 - AI 前沿精读深度解读</description>
+      <guid isPermaLink="true">https://sherconan.github.io/ai-frontiers-cn/topics/engineering</guid>
+      <pubDate>Fri, 27 Mar 2026 10:28:56 +0800</pubDate>
+    </item>
+    <item>
+      <title>🧪 推理能力</title>
+      <link>https://sherconan.github.io/ai-frontiers-cn/topics/reasoning</link>
+      <description>🧪 推理能力 - AI 前沿精读深度解读</description>
+      <guid isPermaLink="true">https://sherconan.github.io/ai-frontiers-cn/topics/reasoning</guid>
+      <pubDate>Fri, 27 Mar 2026 10:28:56 +0800</pubDate>
+    </item>
+    <item>
+      <title>🤖 Agent 构建</title>
+      <link>https://sherconan.github.io/ai-frontiers-cn/topics/agent</link>
+      <description>🤖 Agent 构建 - AI 前沿精读深度解读</description>
+      <guid isPermaLink="true">https://sherconan.github.io/ai-frontiers-cn/topics/agent</guid>
+      <pubDate>Fri, 27 Mar 2026 10:28:56 +0800</pubDate>
+    </item>
+    <item>
+      <title>OpenAI 超级应用整合：ChatGPT + Codex + Atlas 三合一</title>
+      <link>https://sherconan.github.io/ai-frontiers-cn/openai/openai-superapp-consolidation</link>
+      <description>OpenAI 将 ChatGPT（对话）、Codex（编程）和 Atlas（浏览器）整合为统一桌面超级应用，9 亿周活跃用户将在单一界面中获得对话、编程和网页浏览的无缝体验，同时下线 GPT-5.1 模型和旧版深度研究模式。</description>
+      <guid isPermaLink="true">https://sherconan.github.io/ai-frontiers-cn/openai/openai-superapp-consolidation</guid>
+      <pubDate>Fri, 27 Mar 2026 10:28:56 +0800</pubDate>
+    </item>
+    <item>
+      <title>GPT-5 System Card — GPT-5系统安全卡</title>
+      <link>https://sherconan.github.io/ai-frontiers-cn/openai/gpt-5-system-card</link>
+      <description>OpenAI发布GPT-5系统安全卡，详述了其统一路由架构(快速模型+推理模型+智能路由器)的全方位安全评估结果，引入\&quot;安全补全\&quot;取代二元拒绝训练方法，实现幻觉率降低65%、谄媚行为减少75%、欺骗率从47%降至17%的显著安全提升。</description>
+      <guid isPermaLink="true">https://sherconan.github.io/ai-frontiers-cn/openai/gpt-5-system-card</guid>
+      <pubDate>Fri, 27 Mar 2026 10:28:56 +0800</pubDate>
+    </item>
+    <item>
+      <title>Findings from a Pilot Anthropic-OpenAI Alignment Evaluation Exercise</title>
+      <link>https://sherconan.github.io/ai-frontiers-cn/openai/openai-anthropic-safety-evaluation</link>
+      <description>2025年8月27日，OpenAI和Anthropic联合发布了史上首次AI竞争对手互相评估对方模型安全性的研究结果，发现所有模型在谄媚性和越狱防御方面均存在问题，但推理模型o3在整体对齐表现上优于通用模型。</description>
+      <guid isPermaLink="true">https://sherconan.github.io/ai-frontiers-cn/openai/openai-anthropic-safety-evaluation</guid>
+      <pubDate>Fri, 27 Mar 2026 10:28:56 +0800</pubDate>
+    </item>
+    <item>
+      <title>GPT-5.2 Derives a New Result in Theoretical Physics</title>
+      <link>https://sherconan.github.io/ai-frontiers-cn/openai/gpt5-theoretical-physics</link>
+      <description>GPT-5.2 在胶子散射振幅研究中首次猜想出一个通用公式，随后被内部模型证明并经人类物理学家验证，证明了一类此前被认为恒为零的树级振幅在特定动量空间切面上非零。</description>
+      <guid isPermaLink="true">https://sherconan.github.io/ai-frontiers-cn/openai/gpt5-theoretical-physics</guid>
+      <pubDate>Fri, 27 Mar 2026 10:28:56 +0800</pubDate>
+    </item>
+    <item>
+      <title>Introducing Structured Outputs in the API</title>
+      <link>https://sherconan.github.io/ai-frontiers-cn/openai/introducing-structured-outputs</link>
+      <description>OpenAI推出结构化输出功能，通过将JSON Schema预处理为上下文无关文法，保证模型输出100%符合开发者指定的JSON Schema格式——从\&quot;尽力匹配\&quot;升级为\&quot;保证匹配\&quot;。</description>
+      <guid isPermaLink="true">https://sherconan.github.io/ai-frontiers-cn/openai/introducing-structured-outputs</guid>
+      <pubDate>Fri, 27 Mar 2026 10:28:56 +0800</pubDate>
+    </item>
+    <item>
+      <title>New Tools for Building Agents</title>
+      <link>https://sherconan.github.io/ai-frontiers-cn/openai/new-tools-for-building-agents</link>
+      <description>2025年3月11日，OpenAI发布了面向AI智能体开发的全套工具，包括Responses API、内置的Web搜索/文件搜索/计算机操作工具，以及开源的Agents SDK，标志着AI应用从\&quot;对话\&quot;向\&quot;行动\&quot;的范式转变。</description>
+      <guid isPermaLink="true">https://sherconan.github.io/ai-frontiers-cn/openai/new-tools-for-building-agents</guid>
+      <pubDate>Fri, 27 Mar 2026 10:28:56 +0800</pubDate>
+    </item>
+    <item>
+      <title>GPT-5.4：三变体架构与百万 Token 上下文</title>
+      <link>https://sherconan.github.io/ai-frontiers-cn/openai/gpt-5-4</link>
+      <description>OpenAI 发布 GPT-5.4 三变体模型系列（Standard、Thinking、Pro），提供最高 105 万 token 的上下文窗口，事实准确性较 GPT-5.2 提升 33%，标志着 OpenAI 向统一模型架构的进一步整合。</description>
+      <guid isPermaLink="true">https://sherconan.github.io/ai-frontiers-cn/openai/gpt-5-4</guid>
+      <pubDate>Fri, 27 Mar 2026 10:28:56 +0800</pubDate>
+    </item>
+    <item>
+      <title>OpenAI to Acquire Promptfoo</title>
+      <link>https://sherconan.github.io/ai-frontiers-cn/openai/openai-acquires-promptfoo</link>
+      <description>OpenAI 宣布收购 AI 安全测试平台 Promptfoo，将其自动化安全检测和红队测试能力整合进 OpenAI Frontier 平台，以帮助企业识别和修复 AI 智能体中的提示注入、越狱、数据泄露等安全风险。</description>
+      <guid isPermaLink="true">https://sherconan.github.io/ai-frontiers-cn/openai/openai-acquires-promptfoo</guid>
+      <pubDate>Fri, 27 Mar 2026 10:28:56 +0800</pubDate>
+    </item>
+    <item>
+      <title>Our Updated Preparedness Framework — 更新版前沿AI准备框架</title>
+      <link>https://sherconan.github.io/ai-frontiers-cn/openai/preparedness-framework-v2</link>
+      <description>OpenAI发布准备框架2.0版本，将AI能力风险等级精简为\&quot;高能力\&quot;和\&quot;关键能力\&quot;两个阈值，新增AI自我改进作为第三大追踪类别，同时引入安全咨询小组(SAG)治理架构，但也因包含\&quot;竞争对手条款\&quot;而引发争议。</description>
+      <guid isPermaLink="true">https://sherconan.github.io/ai-frontiers-cn/openai/preparedness-framework-v2</guid>
+      <pubDate>Fri, 27 Mar 2026 10:28:56 +0800</pubDate>
+    </item>
+    <item>
+      <title>Introducing the Model Spec</title>
+      <link>https://sherconan.github.io/ai-frontiers-cn/openai/introducing-the-model-spec</link>
+      <description>OpenAI发布Model Spec（模型规范），这是一份定义AI模型应如何行为的系统性文档，通过\&quot;目标-规则-默认值\&quot;三层架构和严格的权限层级来指导模型在各种场景下的决策。</description>
+      <guid isPermaLink="true">https://sherconan.github.io/ai-frontiers-cn/openai/introducing-the-model-spec</guid>
+      <pubDate>Fri, 27 Mar 2026 10:28:56 +0800</pubDate>
+    </item>
+    <item>
+      <title>Evaluating Chain-of-Thought Monitorability</title>
+      <link>https://sherconan.github.io/ai-frontiers-cn/openai/cot-monitorability</link>
+      <description>OpenAI 提出了一套系统化的思维链可监控性评估框架（含 13 个评估、24 个环境），发现前沿推理模型总体上具有良好的可监控性，且监控 CoT 远优于仅监控行为和输出，同时揭示了模型规模、推理时间和强化学习对可监控性的影响规律。</description>
+      <guid isPermaLink="true">https://sherconan.github.io/ai-frontiers-cn/openai/cot-monitorability</guid>
+      <pubDate>Fri, 27 Mar 2026 10:28:56 +0800</pubDate>
+    </item>
+    <item>
+      <title>Introducing Codex</title>
+      <link>https://sherconan.github.io/ai-frontiers-cn/openai/introducing-codex</link>
+      <description>2025年5月，OpenAI发布Codex——一个基于codex-1模型的云端软件工程智能体，能够在独立沙箱中并行处理多项编码任务，从代码编写、Bug修复到Pull Request生成，标志着AI编程从\&quot;代码补全\&quot;进入\&quot;自主工程\&quot;时代。</description>
+      <guid isPermaLink="true">https://sherconan.github.io/ai-frontiers-cn/openai/introducing-codex</guid>
+      <pubDate>Fri, 27 Mar 2026 10:28:56 +0800</pubDate>
+    </item>
+    <item>
+      <title>GPT-5 Lowers the Cost of Cell-Free Protein Synthesis</title>
+      <link>https://sherconan.github.io/ai-frontiers-cn/openai/gpt5-protein-synthesis</link>
+      <description>OpenAI 与 Ginkgo Bioworks 合作，将 GPT-5 连接到自动化云实验室形成闭环自主系统，经过六轮实验和 36,000 多次反应，在三轮内实现了蛋白质生产成本 40% 的降低和试剂成本 57% 的改善。</description>
+      <guid isPermaLink="true">https://sherconan.github.io/ai-frontiers-cn/openai/gpt5-protein-synthesis</guid>
+      <pubDate>Fri, 27 Mar 2026 10:28:56 +0800</pubDate>
+    </item>
+    <item>
+      <title>Sora 2 is here</title>
+      <link>https://sherconan.github.io/ai-frontiers-cn/openai/sora-2</link>
+      <description>2025年9月30日，OpenAI发布Sora 2视频生成模型，首次实现同步对白与音效、大幅提升物理精确度和可控性，同时推出独立社交创作应用Sora App，标志着AI视频从\&quot;演示玩具\&quot;迈向\&quot;创作工具\&quot;。</description>
+      <guid isPermaLink="true">https://sherconan.github.io/ai-frontiers-cn/openai/sora-2</guid>
+      <pubDate>Fri, 27 Mar 2026 10:28:56 +0800</pubDate>
+    </item>
+    <item>
+      <title>Why SWE-bench Verified No Longer Measures Frontier Coding Capabilities</title>
+      <link>https://sherconan.github.io/ai-frontiers-cn/openai/swe-bench-verified</link>
+      <description>OpenAI 通过系统审计发现 SWE-bench Verified 存在两大致命缺陷——59.4% 的审计任务包含有缺陷的测试用例，且所有主流前沿模型均存在训练数据污染——因此建议业界停止使用该基准，转向 SWE-bench Pro。</description>
+      <guid isPermaLink="true">https://sherconan.github.io/ai-frontiers-cn/openai/swe-bench-verified</guid>
+      <pubDate>Fri, 27 Mar 2026 10:28:56 +0800</pubDate>
+    </item>
+    <item>
+      <title>Reasoning Models Struggle to Control Their Chains of Thought, and That's Good</title>
+      <link>https://sherconan.github.io/ai-frontiers-cn/openai/reasoning-cot-controllability</link>
+      <description>OpenAI 研究发现，当前前沿推理模型在被要求控制自身思维链内容时表现极差（可控性仅 0.1%-15.4%），这一\&quot;缺陷\&quot;反而为思维链监控的可靠性提供了重要的安全保障。</description>
+      <guid isPermaLink="true">https://sherconan.github.io/ai-frontiers-cn/openai/reasoning-cot-controllability</guid>
+      <pubDate>Fri, 27 Mar 2026 10:28:56 +0800</pubDate>
+    </item>
+    <item>
+      <title>Improving Instruction Hierarchy in Frontier LLMs</title>
+      <link>https://sherconan.github.io/ai-frontiers-cn/openai/instruction-hierarchy</link>
+      <description>OpenAI 发布 IH-Challenge 训练数据集，通过强化学习训练模型按信任级别正确排序和执行指令，显著提升了安全可控性和提示注入防御能力，且不损害模型整体能力。</description>
+      <guid isPermaLink="true">https://sherconan.github.io/ai-frontiers-cn/openai/instruction-hierarchy</guid>
+      <pubDate>Fri, 27 Mar 2026 10:28:56 +0800</pubDate>
+    </item>
+    <item>
+      <title>Function Calling and Other API Updates</title>
+      <link>https://sherconan.github.io/ai-frontiers-cn/openai/function-calling-and-api-updates</link>
+      <description>OpenAI发布Chat Completions API重大更新，引入函数调用（Function Calling）功能，让模型能够智能地选择并调用外部工具，同时发布16K上下文模型、大幅降价，并宣布旧模型退役时间表。</description>
+      <guid isPermaLink="true">https://sherconan.github.io/ai-frontiers-cn/openai/function-calling-and-api-updates</guid>
+      <pubDate>Fri, 27 Mar 2026 10:28:56 +0800</pubDate>
+    </item>
+    <item>
+      <title>Practices for Governing Agentic AI Systems</title>
+      <link>https://sherconan.github.io/ai-frontiers-cn/openai/practices-for-governing-agentic-ai</link>
+      <description>OpenAI发布白皮书，系统性地提出了管理和治理具有自主行动能力的AI智能体系统的框架与实践建议，涵盖利益相关者职责、安全防护和问责机制。</description>
+      <guid isPermaLink="true">https://sherconan.github.io/ai-frontiers-cn/openai/practices-for-governing-agentic-ai</guid>
+      <pubDate>Fri, 27 Mar 2026 10:28:56 +0800</pubDate>
+    </item>
+    <item>
+      <title>Introducing GPT-5.3 Instant, GPT-5.4 Thinking, and GPT-5.4 Pro</title>
+      <link>https://sherconan.github.io/ai-frontiers-cn/openai/gpt-5-3-instant-5-4-thinking-pro</link>
+      <description>OpenAI 一次性发布了 GPT-5 家族的三款新模型：GPT-5.3 Instant（快速日常任务）、GPT-5.4 Thinking（复杂专业推理）和 GPT-5.4 Pro（最高性能需求），形成从轻量到极致的完整产品矩阵。</description>
+      <guid isPermaLink="true">https://sherconan.github.io/ai-frontiers-cn/openai/gpt-5-3-instant-5-4-thinking-pro</guid>
+      <pubDate>Fri, 27 Mar 2026 10:28:56 +0800</pubDate>
+    </item>
+    <item>
+      <title>Weak-to-Strong Generalization — 弱到强泛化</title>
+      <link>https://sherconan.github.io/ai-frontiers-cn/openai/weak-to-strong-generalization</link>
+      <description>OpenAI超对齐团队发布首项核心研究成果，证明弱模型(GPT-2级别)可以有效监督强模型(GPT-4)并激发其接近GPT-3.5级别的能力表现，为未来人类监督超智能AI提供了理论和实验基础。</description>
+      <guid isPermaLink="true">https://sherconan.github.io/ai-frontiers-cn/openai/weak-to-strong-generalization</guid>
+      <pubDate>Fri, 27 Mar 2026 10:28:56 +0800</pubDate>
+    </item>
+    <item>
+      <title>Planning for AGI and beyond</title>
+      <link>https://sherconan.github.io/ai-frontiers-cn/openai/planning-for-agi-and-beyond</link>
+      <description>OpenAI CEO Sam Altman发表纲领性博文，阐述了公司对AGI（通用人工智能）的愿景——渐进式部署、广泛分享利益、以及将AGI风险视为生存性风险的安全立场。</description>
+      <guid isPermaLink="true">https://sherconan.github.io/ai-frontiers-cn/openai/planning-for-agi-and-beyond</guid>
+      <pubDate>Fri, 27 Mar 2026 10:28:56 +0800</pubDate>
+    </item>
+    <item>
+      <title>Introducing GPT-5.2</title>
+      <link>https://sherconan.github.io/ai-frontiers-cn/openai/introducing-gpt-5-2</link>
+      <description>2025年12月11日，OpenAI发布GPT-5.2系列——包含Instant、Thinking和Pro三个版本，在专业知识工作、长上下文理解、智能体工具调用等方面全面超越前代，在GDPval基准上首次超过44个行业的人类专业人员。</description>
+      <guid isPermaLink="true">https://sherconan.github.io/ai-frontiers-cn/openai/introducing-gpt-5-2</guid>
+      <pubDate>Fri, 27 Mar 2026 10:28:56 +0800</pubDate>
+    </item>
+    <item>
+      <title>OpenAI 非营利部门：10 亿美元 AI 安全与公益计划</title>
+      <link>https://sherconan.github.io/ai-frontiers-cn/openai/openai-nonprofit-billion</link>
+      <description>OpenAI 非营利部门任命新领导层，计划在 2026 年投入 10 亿美元用于 AI 安全研究和社会公益项目，重点保护社会免受生物威胁等 AI 潜在风险，标志着 OpenAI 在 1,100 亿美元融资后对\&quot;安全承诺\&quot;的回应。</description>
+      <guid isPermaLink="true">https://sherconan.github.io/ai-frontiers-cn/openai/openai-nonprofit-billion</guid>
+      <pubDate>Fri, 27 Mar 2026 10:28:56 +0800</pubDate>
+    </item>
+    <item>
+      <title>OpenAI 收购 Astral：从 AI 模型到开发者工具全栈布局</title>
+      <link>https://sherconan.github.io/ai-frontiers-cn/openai/openai-acquires-astral</link>
+      <description>OpenAI 宣布收购 Python 开发者工具公司 Astral（uv、Ruff、ty 的开发者），将其整合进 Codex 编程助手生态，标志着 OpenAI 从\&quot;AI 模型提供商\&quot;向\&quot;全栈开发者平台\&quot;的战略转型。</description>
+      <guid isPermaLink="true">https://sherconan.github.io/ai-frontiers-cn/openai/openai-acquires-astral</guid>
+      <pubDate>Fri, 27 Mar 2026 10:28:56 +0800</pubDate>
+    </item>
+    <item>
+      <title>Introducing GPT-5.4 mini and nano | GPT-5.4 mini 与 nano：为子智能体时代而生</title>
+      <link>https://sherconan.github.io/ai-frontiers-cn/openai/gpt-5-4-mini-nano</link>
+      <description>OpenAI 发布 GPT-5.4 mini 和 GPT-5.4 nano 两款高效模型——mini 在编码、推理和多模态任务上大幅超越 GPT-5 mini 并接近完整版 GPT-5.4 水平，nano 则成为最小最廉价的模型，两者共同定义了\&quot;子智能体时代\&quot;的模型矩阵。</description>
+      <guid isPermaLink="true">https://sherconan.github.io/ai-frontiers-cn/openai/gpt-5-4-mini-nano</guid>
+      <pubDate>Fri, 27 Mar 2026 10:28:56 +0800</pubDate>
+    </item>
+    <item>
+      <title>Introducing OpenAI o3 and o4-mini</title>
+      <link>https://sherconan.github.io/ai-frontiers-cn/openai/introducing-o3-and-o4-mini</link>
+      <description>OpenAI于2025年4月16日正式发布o3和o4-mini两款推理模型，首次实现多模态推理与全工具集成，在数学、编程、视觉理解等基准测试中全面刷新纪录。</description>
+      <guid isPermaLink="true">https://sherconan.github.io/ai-frontiers-cn/openai/introducing-o3-and-o4-mini</guid>
+      <pubDate>Fri, 27 Mar 2026 10:28:56 +0800</pubDate>
+    </item>
+    <item>
+      <title>Leanstral: Open-Source Foundation for Trustworthy Vibe-Coding</title>
+      <link>https://sherconan.github.io/ai-frontiers-cn/mistral/leanstral-open-source-lean4-proof-agent</link>
+      <description>Mistral AI 发布首个专为 Lean 4 设计的开源代码证明智能体 Leanstral——拥有 1200 亿总参数但仅 60 亿活跃参数，能以 Claude Sonnet 十五分之一的成本实现更高的定理证明性能（pass@2 得分 26.3 vs Sonnet 的 23.7），为 AI 生成的代码提供数学级别的正确性保证。</description>
+      <guid isPermaLink="true">https://sherconan.github.io/ai-frontiers-cn/mistral/leanstral-open-source-lean4-proof-agent</guid>
+      <pubDate>Fri, 27 Mar 2026 10:28:56 +0800</pubDate>
+    </item>
+    <item>
+      <title>Mistral Medium 3: Medium is the New Large</title>
+      <link>https://sherconan.github.io/ai-frontiers-cn/mistral/mistral-medium-3</link>
+      <description>Mistral AI 发布 Mistral Medium 3，在基准测试中达到 Claude Sonnet 3.7 的 90%+ 性能水平，同时成本大幅降低——以 $0.40/M 输入 token、$2.00/M 输出 token 的定价挑战行业定价标准，支持 131K 上下文窗口和视觉理解。</description>
+      <guid isPermaLink="true">https://sherconan.github.io/ai-frontiers-cn/mistral/mistral-medium-3</guid>
+      <pubDate>Fri, 27 Mar 2026 10:28:56 +0800</pubDate>
+    </item>
+    <item>
+      <title>Introducing Forge | Forge：企业级 AI 模型定制平台</title>
+      <link>https://sherconan.github.io/ai-frontiers-cn/mistral/forge-enterprise-model-platform</link>
+      <description>Mistral AI 推出 Forge——一个允许企业基于私有数据构建前沿级 AI 模型的系统，支持从预训练到强化学习的全流程定制，兼容稠密和 MoE 架构，以智能体优先设计确保定制模型能可靠地运行企业级自主工作流。</description>
+      <guid isPermaLink="true">https://sherconan.github.io/ai-frontiers-cn/mistral/forge-enterprise-model-platform</guid>
+      <pubDate>Fri, 27 Mar 2026 10:28:56 +0800</pubDate>
+    </item>
+    <item>
+      <title>The All New Le Chat</title>
+      <link>https://sherconan.github.io/ai-frontiers-cn/mistral/le-chat-ai-assistant-platform</link>
+      <description>Mistral AI于2025年2月发布全面升级的Le Chat平台，以每秒约1000词的极速响应、多模态能力和灵活的定价体系（免费至企业级），正式向ChatGPT和Claude发起全面挑战。</description>
+      <guid isPermaLink="true">https://sherconan.github.io/ai-frontiers-cn/mistral/le-chat-ai-assistant-platform</guid>
+      <pubDate>Fri, 27 Mar 2026 10:28:56 +0800</pubDate>
+    </item>
+    <item>
+      <title>Devstral 2 and Mistral Vibe CLI</title>
+      <link>https://sherconan.github.io/ai-frontiers-cn/mistral/devstral-2-vibe-cli</link>
+      <description>Mistral AI 发布新一代编程模型 Devstral 2（123B）及其精简版 Devstral Small 2（24B），配套推出终端原生编程助手 Mistral Vibe CLI——在 SWE-bench Verified 上达到 72.2%，以开源方式直接挑战 GitHub Copilot 和 Claude Code。</description>
+      <guid isPermaLink="true">https://sherconan.github.io/ai-frontiers-cn/mistral/devstral-2-vibe-cli</guid>
+      <pubDate>Fri, 27 Mar 2026 10:28:56 +0800</pubDate>
+    </item>
+    <item>
+      <title>Introducing Mistral 3 | Mistral 3：开源 MoE 前沿模型回归</title>
+      <link>https://sherconan.github.io/ai-frontiers-cn/mistral/mistral-3-frontier-open-model</link>
+      <description>Mistral AI 发布 Mistral 3 模型家族——包含 Mistral Large 3（675B 总参数 / 41B 激活的 MoE 架构）和 Ministral 3 系列（3B/8B/14B 稠密模型），全部支持多模态图像理解，小模型采用 Apache 2.0 开源，Large 3 在 3000 块 H200 GPU 上从零训练，是 Mixtral 系列以来 Mistral 首次回归</description>
+      <guid isPermaLink="true">https://sherconan.github.io/ai-frontiers-cn/mistral/mistral-3-frontier-open-model</guid>
+      <pubDate>Fri, 27 Mar 2026 10:28:56 +0800</pubDate>
+    </item>
+    <item>
+      <title>Large Enough — Mistral Large 2</title>
+      <link>https://sherconan.github.io/ai-frontiers-cn/mistral/mistral-large-2-frontier-open-model</link>
+      <description>Mistral AI发布1230亿参数的旗舰模型Mistral Large 2，在代码生成、数学推理和多语言能力上大幅提升，以开放权重的方式与GPT-4o和Claude 3 Opus在前沿模型领域展开正面竞争。</description>
+      <guid isPermaLink="true">https://sherconan.github.io/ai-frontiers-cn/mistral/mistral-large-2-frontier-open-model</guid>
+      <pubDate>Fri, 27 Mar 2026 10:28:56 +0800</pubDate>
+    </item>
+    <item>
+      <title>Kimi Code CLI: Next-Gen AI Code Agent</title>
+      <link>https://sherconan.github.io/ai-frontiers-cn/kimi/06_Kimi_Code_CLI_开发者AI编程助手</link>
+      <description>月之暗面推出 Kimi Code CLI，一款基于 Kimi K2.5 模型的终端 AI 编程智能体，支持代码读写、Shell 执行、MCP 工具集成与多 IDE 联动，以 Apache 2.0 开源协议发布，已获 7,300+ GitHub Star。</description>
+      <guid isPermaLink="true">https://sherconan.github.io/ai-frontiers-cn/kimi/06_Kimi_Code_CLI_开发者AI编程助手</guid>
+      <pubDate>Fri, 27 Mar 2026 10:28:56 +0800</pubDate>
+    </item>
+    <item>
+      <title>Kimi K2.5 API Platform: Developer Quickstart &amp; Integration Guide</title>
+      <link>https://sherconan.github.io/ai-frontiers-cn/kimi/07_Kimi_K2.5_API平台与开发者集成</link>
+      <description>月之暗面为 Kimi K2.5 构建了完整的开发者平台生态，提供 OpenAI 兼容 API、256K 上下文窗口、原生多模态支持和思维链推理模式，并可一键接入 Claude Code、Cline、RooCode、OpenCode 等主流编程工具。</description>
+      <guid isPermaLink="true">https://sherconan.github.io/ai-frontiers-cn/kimi/07_Kimi_K2.5_API平台与开发者集成</guid>
+      <pubDate>Fri, 27 Mar 2026 10:28:56 +0800</pubDate>
+    </item>
+    <item>
+      <title>Detecting and Preventing Distillation Attacks on Claude</title>
+      <link>https://sherconan.github.io/ai-frontiers-cn/kimi/08_Anthropic_揭露蒸馏攻击_Moonshot</link>
+      <description>Anthropic 于 2025 年末公开披露，DeepSeek、Moonshot AI 和 MiniMax 三家中国 AI 实验室通过约 24,000 个虚假账户、超过 1,600 万次对话，对 Claude 实施了工业级别的蒸馏攻击（即利用大模型输出来训练自己的小模型），构成严重的知识产权侵害。</description>
+      <guid isPermaLink="true">https://sherconan.github.io/ai-frontiers-cn/kimi/08_Anthropic_揭露蒸馏攻击_Moonshot</guid>
+      <pubDate>Fri, 27 Mar 2026 10:28:56 +0800</pubDate>
+    </item>
+    <item>
+      <title>Kimi K2.5: Open Visual Agentic Model for Real Work</title>
+      <link>https://sherconan.github.io/ai-frontiers-cn/kimi/05_Kimi_K2.5_原生多模态集群智能</link>
+      <description>月之暗面在 2026 年 1 月发布了 Kimi K2.5——一个万亿参数的原生多模态 MoE 模型，引入创新的 Agent Swarm（智能体集群）机制，可协调多达 100 个专业智能体并行工作，在多项基准上超越 GPT-5.2 和 Claude Opus 4.5，同时以开源形式发布并实现 76% 的成本优势。</description>
+      <guid isPermaLink="true">https://sherconan.github.io/ai-frontiers-cn/kimi/05_Kimi_K2.5_原生多模态集群智能</guid>
+      <pubDate>Fri, 27 Mar 2026 10:28:56 +0800</pubDate>
+    </item>
+    <item>
+      <title>Kimi k1.5: Scaling Reinforcement Learning with LLMs</title>
+      <link>https://sherconan.github.io/ai-frontiers-cn/kimi/01_Kimi_K1.5_强化学习扩展</link>
+      <description>月之暗面提出了一个简洁高效的强化学习框架，通过长上下文扩展和改进的策略优化方法，使 Kimi k1.5 在数学、代码和视觉推理任务上达到与 OpenAI o1 相当的性能，同时创新性地实现了\&quot;长思维链到短思维链\&quot;的知识蒸馏。</description>
+      <guid isPermaLink="true">https://sherconan.github.io/ai-frontiers-cn/kimi/01_Kimi_K1.5_强化学习扩展</guid>
+      <pubDate>Fri, 27 Mar 2026 10:28:56 +0800</pubDate>
+    </item>
+    <item>
+      <title>Kimi K2: Open Agentic Intelligence</title>
+      <link>https://sherconan.github.io/ai-frontiers-cn/kimi/02_Kimi_K2_开放智能体智能</link>
+      <description>月之暗面发布了万亿参数级别的开源 MoE 大模型 Kimi K2，通过创新的 MuonClip 优化器实现了零损失尖峰的稳定训练，并凭借大规模智能体数据合成管线和联合强化学习，在代码生成、工具调用和多步推理等智能体任务上取得了开源模型的最佳表现。</description>
+      <guid isPermaLink="true">https://sherconan.github.io/ai-frontiers-cn/kimi/02_Kimi_K2_开放智能体智能</guid>
+      <pubDate>Fri, 27 Mar 2026 10:28:56 +0800</pubDate>
+    </item>
+    <item>
+      <title>MoBA: Mixture of Block Attention for Long-Context LLMs</title>
+      <link>https://sherconan.github.io/ai-frontiers-cn/kimi/03_MoBA_混合块注意力机制</link>
+      <description>月之暗面将混合专家（MoE）的路由思想创造性地应用于注意力机制，提出了 MoBA——一种无需额外可训练参数的块级稀疏注意力方法，在保持与全注意力几乎相同性能的同时，实现了高达 16 倍的计算节省，并已部署于 Kimi 的长上下文服务中。</description>
+      <guid isPermaLink="true">https://sherconan.github.io/ai-frontiers-cn/kimi/03_MoBA_混合块注意力机制</guid>
+      <pubDate>Fri, 27 Mar 2026 10:28:56 +0800</pubDate>
+    </item>
+    <item>
+      <title>Kimi-Researcher: End-to-End RL Training for Emerging Agentic Capabilities</title>
+      <link>https://sherconan.github.io/ai-frontiers-cn/kimi/04_Kimi_Researcher_端到端智能体RL</link>
+      <description>月之暗面通过纯端到端强化学习训练打造了自主研究型智能体 Kimi-Researcher，该系统每次任务平均执行 23 个推理步骤、探索超过 200 个网页，在 Humanity's Last Exam 上从 8.6% 的基线提升至 26.9%，展现了 RL 训练中涌现的冲突解决和验证严谨性等高阶智能体能力。</description>
+      <guid isPermaLink="true">https://sherconan.github.io/ai-frontiers-cn/kimi/04_Kimi_Researcher_端到端智能体RL</guid>
+      <pubDate>Fri, 27 Mar 2026 10:28:56 +0800</pubDate>
+    </item>
+    <item>
+      <title>Google DeepMind &amp; DOE Partner on Genesis: AI for Science</title>
+      <link>https://sherconan.github.io/ai-frontiers-cn/deepmind/18-DeepMind-DOE-Genesis-AI科学加速</link>
+      <description>Google DeepMind 宣布全面支持美国白宫发起的 Genesis 计划，向能源部旗下 17 所国家实验室开放 Gemini、AlphaEvolve、AlphaGenome 和 WeatherNext 等前沿 AI 工具，并部署 AI 共同科学家（AI co-scientist）系统来加速从药物发现到能源研究的科学突破。</description>
+      <guid isPermaLink="true">https://sherconan.github.io/ai-frontiers-cn/deepmind/18-DeepMind-DOE-Genesis-AI科学加速</guid>
+      <pubDate>Fri, 27 Mar 2026 10:28:56 +0800</pubDate>
+    </item>
+    <item>
+      <title>强化前沿安全框架：Google DeepMind 的AI安全治理体系</title>
+      <link>https://sherconan.github.io/ai-frontiers-cn/deepmind/04-前沿安全框架升级</link>
+      <description>Google DeepMind 发布前沿安全框架（FSF）第三版，新增有害操纵风险域和模型失准风险协议，建立了目前业界最全面的AI风险识别和缓解体系，为通向AGI的安全路径提供了系统性治理方案。</description>
+      <guid isPermaLink="true">https://sherconan.github.io/ai-frontiers-cn/deepmind/04-前沿安全框架升级</guid>
+      <pubDate>Fri, 27 Mar 2026 10:28:56 +0800</pubDate>
+    </item>
+    <item>
+      <title>Genie 3: A New Frontier for World Models</title>
+      <link>https://sherconan.github.io/ai-frontiers-cn/deepmind/18-Genie-3-交互式世界模型</link>
+      <description>Google DeepMind 发布 Genie 3，这是首个能从纯文本描述生成可实时交互的逼真 3D 环境的通用世界模型，支持 720p 分辨率、24fps 实时渲染，并保持数分钟的物理一致性——被视为通向 AGI 的关键基石。</description>
+      <guid isPermaLink="true">https://sherconan.github.io/ai-frontiers-cn/deepmind/18-Genie-3-交互式世界模型</guid>
+      <pubDate>Fri, 27 Mar 2026 10:28:56 +0800</pubDate>
+    </item>
+  </channel>
+</rss>

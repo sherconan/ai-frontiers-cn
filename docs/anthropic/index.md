@@ -1,3 +1,18 @@
+---
+title: "Anthropic 博客深度解读"
+description: "Anthropic 博客深度解读 - AI 前沿精读深度解读"
+head:
+  - - meta
+    - property: og:title
+      content: "Anthropic 博客深度解读"
+  - - meta
+    - property: og:description
+      content: "Anthropic 博客深度解读 - AI 前沿精读深度解读"
+  - - meta
+    - property: og:type
+      content: article
+---
+
 # Anthropic 博客深度解读
 
 Anthropic 是 Claude 背后的 AI 安全公司，专注于构建可靠、可解释、可控的 AI 系统。以下是我们对 Anthropic 重要博客文章的中文翻译与深度解读。

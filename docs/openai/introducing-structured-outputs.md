@@ -1,3 +1,18 @@
+---
+title: "Introducing Structured Outputs in the API"
+description: "OpenAI推出结构化输出功能，通过将JSON Schema预处理为上下文无关文法，保证模型输出100%符合开发者指定的JSON Schema格式——从\"尽力匹配\"升级为\"保证匹配\"。"
+head:
+  - - meta
+    - property: og:title
+      content: "Introducing Structured Outputs in the API"
+  - - meta
+    - property: og:description
+      content: "OpenAI推出结构化输出功能，通过将JSON Schema预处理为上下文无关文法，保证模型输出100%符合开发者指定的JSON Schema格式——从\"尽力匹配\"升级为\"保证匹配\"。"
+  - - meta
+    - property: og:type
+      content: article
+---
+
 > 📊 难度：⭐⭐⭐⭐ | ⏱️ 阅读：14分钟 | 📅 2024年8月6日 | 🏷️ API更新, JSON Schema, 结构化输出
 
 # Introducing Structured Outputs in the API

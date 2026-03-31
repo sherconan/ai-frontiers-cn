@@ -1,3 +1,18 @@
+---
+title: "GPT-5 Lowers the Cost of Cell-Free Protein Synthesis"
+description: "OpenAI 与 Ginkgo Bioworks 合作，将 GPT-5 连接到自动化云实验室形成闭环自主系统，经过六轮实验和 36,000 多次反应，在三轮内实现了蛋白质生产成本 40% 的降低和试剂成本 57% 的改善。"
+head:
+  - - meta
+    - property: og:title
+      content: "GPT-5 Lowers the Cost of Cell-Free Protein Synthesis"
+  - - meta
+    - property: og:description
+      content: "OpenAI 与 Ginkgo Bioworks 合作，将 GPT-5 连接到自动化云实验室形成闭环自主系统，经过六轮实验和 36,000 多次反应，在三轮内实现了蛋白质生产成本 40% 的降低和试剂成本 57% 的改善。"
+  - - meta
+    - property: og:type
+      content: article
+---
+
 # GPT-5 Lowers the Cost of Cell-Free Protein Synthesis
 
 **原标题：** GPT-5 lowers the cost of cell-free protein synthesis

@@ -1,3 +1,18 @@
+---
+title: "Claude Opus 4.6：Anthropic 最强推理模型的重大升级"
+description: "Anthropic 发布 Claude Opus 4.6，在编程、智能体任务和长上下文推理方面实现重大提升，首次为 Opus 系列引入百万 token 上下文窗口，并在多项前沿基准测试中领先 GPT-5.2。"
+head:
+  - - meta
+    - property: og:title
+      content: "Claude Opus 4.6：Anthropic 最强推理模型的重大升级"
+  - - meta
+    - property: og:description
+      content: "Anthropic 发布 Claude Opus 4.6，在编程、智能体任务和长上下文推理方面实现重大提升，首次为 Opus 系列引入百万 token 上下文窗口，并在多项前沿基准测试中领先 GPT-5.2。"
+  - - meta
+    - property: og:type
+      content: article
+---
+
 # Claude Opus 4.6：Anthropic 最强推理模型的重大升级
 
 > **原标题：** Introducing Claude Opus 4.6

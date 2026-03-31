@@ -1,3 +1,18 @@
+---
+title: "The Llama 4 Herd — Llama 4模型家族"
+description: "Meta发布Llama 4模型家族，推出Scout(16专家/109B总参数)和Maverick(128专家/400B总参数)两款开放权重的原生多模态混合专家模型，以及仍在训练中的Behemoth(2万亿参数)教师模型，标志着开源AI正式进入原生多模态MoE时代。"
+head:
+  - - meta
+    - property: og:title
+      content: "The Llama 4 Herd — Llama 4模型家族"
+  - - meta
+    - property: og:description
+      content: "Meta发布Llama 4模型家族，推出Scout(16专家/109B总参数)和Maverick(128专家/400B总参数)两款开放权重的原生多模态混合专家模型，以及仍在训练中的Behemoth(2万亿参数)教师模型，标志着开源AI正式进入原生多模态MoE时代。"
+  - - meta
+    - property: og:type
+      content: article
+---
+
 # The Llama 4 Herd — Llama 4模型家族
 
 > **原标题**: The Llama 4 Herd: The Beginning of a New Era of Natively Multimodal AI Innovation

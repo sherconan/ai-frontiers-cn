@@ -1,3 +1,18 @@
+---
+title: "Google \"Agents\" Whitepaper"
+description: "Google发布76页白皮书，系统性地定义了AI智能体的架构、认知模式（ReAct、思维链、思维树）、工具使用、编排层设计、评估框架，以及基于AgentSpace的企业级实战部署方案。"
+head:
+  - - meta
+    - property: og:title
+      content: "Google \"Agents\" Whitepaper"
+  - - meta
+    - property: og:description
+      content: "Google发布76页白皮书，系统性地定义了AI智能体的架构、认知模式（ReAct、思维链、思维树）、工具使用、编排层设计、评估框架，以及基于AgentSpace的企业级实战部署方案。"
+  - - meta
+    - property: og:type
+      content: article
+---
+
 > 📊 难度：⭐⭐⭐⭐ | ⏱️ 阅读：18分钟 | 📅 2024年9月（2025年1月广泛传播） | 🏷️ AI智能体, 认知架构, 多智能体系统
 
 # Google "Agents" Whitepaper

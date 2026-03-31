@@ -1,3 +1,18 @@
+---
+title: "降低浏览器使用场景中的提示注入风险"
+description: "Anthropic详细阐述了Claude Opus 4.5在浏览器代理场景下对抗提示注入攻击的防御体系——通过强化学习训练、分类器检测和红队测试三道防线显著降低了攻击成功率，但坦承这一问题\"远未解决\"。"
+head:
+  - - meta
+    - property: og:title
+      content: "降低浏览器使用场景中的提示注入风险"
+  - - meta
+    - property: og:description
+      content: "Anthropic详细阐述了Claude Opus 4.5在浏览器代理场景下对抗提示注入攻击的防御体系——通过强化学习训练、分类器检测和红队测试三道防线显著降低了攻击成功率，但坦承这一问题\"远未解决\"。"
+  - - meta
+    - property: og:type
+      content: article
+---
+
 # 降低浏览器使用场景中的提示注入风险
 
 > **原标题：** Mitigating the Risk of Prompt Injections in Browser Use

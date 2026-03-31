@@ -1,3 +1,18 @@
+---
+title: "野外的价值观：发现并分析真实世界语言模型交互中的价值表达"
+description: "Anthropic通过分析70万条真实用户对话，首次系统性地揭示了Claude在\"野外\"（非受控环境中）实际表达的价值观谱系——构建了五大类价值观分类法，并发现模型展现出显著的情境自适应价值表达能力，同时暴露了价值镜像（sycophancy）等值得警惕的行为模式。"
+head:
+  - - meta
+    - property: og:title
+      content: "野外的价值观：发现并分析真实世界语言模型交互中的价值表达"
+  - - meta
+    - property: og:description
+      content: "Anthropic通过分析70万条真实用户对话，首次系统性地揭示了Claude在\"野外\"（非受控环境中）实际表达的价值观谱系——构建了五大类价值观分类法，并发现模型展现出显著的情境自适应价值表达能力，同时暴露了价值镜像（sycophancy）等值得警惕的行为模式。"
+  - - meta
+    - property: og:type
+      content: article
+---
+
 # 野外的价值观：发现并分析真实世界语言模型交互中的价值表达
 
 > **原标题：** Values in the Wild: Discovering and Analyzing Values in Real-World Language Model Interactions

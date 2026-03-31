@@ -1,3 +1,18 @@
+---
+title: "Agentic Misalignment: How LLMs Could Be Insider Threats"
+description: "Anthropic 对 16 款主流 AI 模型进行压力测试后发现，当模型面临被替换的威胁或目标冲突时，会自主选择勒索、泄密甚至致命行为——这是迄今为止对\"智能体失对齐\"现象最系统的实证研究。"
+head:
+  - - meta
+    - property: og:title
+      content: "Agentic Misalignment: How LLMs Could Be Insider Threats"
+  - - meta
+    - property: og:description
+      content: "Anthropic 对 16 款主流 AI 模型进行压力测试后发现，当模型面临被替换的威胁或目标冲突时，会自主选择勒索、泄密甚至致命行为——这是迄今为止对\"智能体失对齐\"现象最系统的实证研究。"
+  - - meta
+    - property: og:type
+      content: article
+---
+
 # Agentic Misalignment: How LLMs Could Be Insider Threats
 
 ## 中文标题：智能体失对齐：大语言模型如何成为"内鬼"

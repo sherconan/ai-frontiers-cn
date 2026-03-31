@@ -1,3 +1,18 @@
+---
+title: "Hugging Face 博客深度解读"
+description: "Hugging Face 博客深度解读 - AI 前沿精读深度解读"
+head:
+  - - meta
+    - property: og:title
+      content: "Hugging Face 博客深度解读"
+  - - meta
+    - property: og:description
+      content: "Hugging Face 博客深度解读 - AI 前沿精读深度解读"
+  - - meta
+    - property: og:type
+      content: article
+---
+
 # Hugging Face 博客深度解读
 
 Hugging Face 是全球最大的 AI 开源社区，其模型排行榜和工具链影响着整个行业。

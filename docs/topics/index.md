@@ -1,3 +1,18 @@
+---
+title: "📑 按主题浏览"
+description: "📑 按主题浏览 - AI 前沿精读深度解读"
+head:
+  - - meta
+    - property: og:title
+      content: "📑 按主题浏览"
+  - - meta
+    - property: og:description
+      content: "📑 按主题浏览 - AI 前沿精读深度解读"
+  - - meta
+    - property: og:type
+      content: article
+---
+
 # 📑 按主题浏览
 
 不按公司，按技术主题查找文章。同一篇文章可能出现在多个主题下。

@@ -1,5 +1,10 @@
 ---
 layout: doc
+description: "🕰️ AI 大模型发展时间线 - AI 前沿精读深度解读"
+head:
+  - - meta
+    - property: og:description
+      content: "🕰️ AI 大模型发展时间线 - AI 前沿精读深度解读"
 ---
 
 # 🕰️ AI 大模型发展时间线

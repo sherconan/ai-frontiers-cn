@@ -1,3 +1,18 @@
+---
+title: "Building A Generative AI Platform / 构建生成式AI平台：从概念到生产的完整架构指南"
+description: "一份从零到一构建生产级生成式AI平台的完整架构指南，涵盖RAG检索增强、安全护栏、模型路由与网关、缓存策略、复杂逻辑编排以及可观测性六大核心层，强调渐进式架构演进和\"在每个阶段都进行评估\"的工程哲学。"
+head:
+  - - meta
+    - property: og:title
+      content: "Building A Generative AI Platform / 构建生成式AI平台：从概念到生产的完整架构指南"
+  - - meta
+    - property: og:description
+      content: "一份从零到一构建生产级生成式AI平台的完整架构指南，涵盖RAG检索增强、安全护栏、模型路由与网关、缓存策略、复杂逻辑编排以及可观测性六大核心层，强调渐进式架构演进和\"在每个阶段都进行评估\"的工程哲学。"
+  - - meta
+    - property: og:type
+      content: article
+---
+
 # Building A Generative AI Platform / 构建生成式AI平台：从概念到生产的完整架构指南
 
 > **原标题**: Building A Generative AI Platform

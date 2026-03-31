@@ -1,3 +1,18 @@
+---
+title: "Why SWE-bench Verified No Longer Measures Frontier Coding Capabilities"
+description: "OpenAI 通过系统审计发现 SWE-bench Verified 存在两大致命缺陷——59.4% 的审计任务包含有缺陷的测试用例，且所有主流前沿模型均存在训练数据污染——因此建议业界停止使用该基准，转向 SWE-bench Pro。"
+head:
+  - - meta
+    - property: og:title
+      content: "Why SWE-bench Verified No Longer Measures Frontier Coding Capabilities"
+  - - meta
+    - property: og:description
+      content: "OpenAI 通过系统审计发现 SWE-bench Verified 存在两大致命缺陷——59.4% 的审计任务包含有缺陷的测试用例，且所有主流前沿模型均存在训练数据污染——因此建议业界停止使用该基准，转向 SWE-bench Pro。"
+  - - meta
+    - property: og:type
+      content: article
+---
+
 # Why SWE-bench Verified No Longer Measures Frontier Coding Capabilities
 
 **原标题：** Why SWE-bench Verified no longer measures frontier coding capabilities

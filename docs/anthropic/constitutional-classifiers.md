@@ -1,3 +1,18 @@
+---
+title: "Constitutional Classifiers: Defending Against Universal Jailbreaks"
+description: "Anthropic 提出了一种名为\"宪法分类器\"（Constitutional Classifiers）的防御机制，通过基于宪法原则生成合成训练数据来训练输入/输出分类器，在将越狱成功率从 86% 降至 4.4% 的同时，几乎不增加误拒率（仅 0.38%），并在超过 3,000 小时的人类红队测试中展现出极强的鲁棒性。"
+head:
+  - - meta
+    - property: og:title
+      content: "Constitutional Classifiers: Defending Against Universal Jailbreaks"
+  - - meta
+    - property: og:description
+      content: "Anthropic 提出了一种名为\"宪法分类器\"（Constitutional Classifiers）的防御机制，通过基于宪法原则生成合成训练数据来训练输入/输出分类器，在将越狱成功率从 86% 降至 4.4% 的同时，几乎不增加误拒率（仅 0.38%），并在超过 3,000 小时的人类红队测试中展现出极强的鲁棒性。"
+  - - meta
+    - property: og:type
+      content: article
+---
+
 # Constitutional Classifiers: Defending Against Universal Jailbreaks
 
 ## 宪法分类器：抵御通用越狱攻击

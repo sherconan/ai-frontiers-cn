@@ -1,3 +1,18 @@
+---
+title: "Mixture of Experts — 混合专家架构"
+description: "> 混合专家（MoE）架构通过将密集的前馈层替换为多个\"专家\"子网络并用门控机制按需路由，实现了在大幅增加模型参数量的同时保持计算量基本不变 —— Mixtral 8x7B 拥有 470 亿参数但推理速度仅相当于 120 亿参数的密集模型，开创了\"稀疏即高效\"的新范式。"
+head:
+  - - meta
+    - property: og:title
+      content: "Mixture of Experts — 混合专家架构"
+  - - meta
+    - property: og:description
+      content: "> 混合专家（MoE）架构通过将密集的前馈层替换为多个\"专家\"子网络并用门控机制按需路由，实现了在大幅增加模型参数量的同时保持计算量基本不变 —— Mixtral 8x7B 拥有 470 亿参数但推理速度仅相当于 120 亿参数的密集模型，开创了\"稀疏即高效\"的新范式。"
+  - - meta
+    - property: og:type
+      content: article
+---
+
 # Mixture of Experts — 混合专家架构
 
 **原标题**: Mixture of Experts Explained

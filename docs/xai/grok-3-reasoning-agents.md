@@ -1,3 +1,18 @@
+---
+title: "Grok 3 Beta — The Age of Reasoning Agents"
+description: "xAI发布Grok 3，这是在Colossus超算集群上以10倍于前代的算力训练的推理模型，凭借大规模强化学习实现了在数学、编程和科学推理方面的领先表现，开启了\"推理智能体\"的新时代。"
+head:
+  - - meta
+    - property: og:title
+      content: "Grok 3 Beta — The Age of Reasoning Agents"
+  - - meta
+    - property: og:description
+      content: "xAI发布Grok 3，这是在Colossus超算集群上以10倍于前代的算力训练的推理模型，凭借大规模强化学习实现了在数学、编程和科学推理方面的领先表现，开启了\"推理智能体\"的新时代。"
+  - - meta
+    - property: og:type
+      content: article
+---
+
 # Grok 3 Beta — The Age of Reasoning Agents
 # Grok 3测试版——推理智能体时代的到来
 

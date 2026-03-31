@@ -1,3 +1,18 @@
+---
+title: "Introducing the Model Spec"
+description: "OpenAI发布Model Spec（模型规范），这是一份定义AI模型应如何行为的系统性文档，通过\"目标-规则-默认值\"三层架构和严格的权限层级来指导模型在各种场景下的决策。"
+head:
+  - - meta
+    - property: og:title
+      content: "Introducing the Model Spec"
+  - - meta
+    - property: og:description
+      content: "OpenAI发布Model Spec（模型规范），这是一份定义AI模型应如何行为的系统性文档，通过\"目标-规则-默认值\"三层架构和严格的权限层级来指导模型在各种场景下的决策。"
+  - - meta
+    - property: og:type
+      content: article
+---
+
 > 📊 难度：⭐⭐⭐⭐ | ⏱️ 阅读：18分钟 | 📅 2025年4月（持续更新） | 🏷️ 模型规范, AI对齐, 行为设计
 
 # Introducing the Model Spec

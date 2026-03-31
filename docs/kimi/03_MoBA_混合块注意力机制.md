@@ -1,3 +1,18 @@
+---
+title: "MoBA: Mixture of Block Attention for Long-Context LLMs"
+description: "月之暗面将混合专家（MoE）的路由思想创造性地应用于注意力机制，提出了 MoBA——一种无需额外可训练参数的块级稀疏注意力方法，在保持与全注意力几乎相同性能的同时，实现了高达 16 倍的计算节省，并已部署于 Kimi 的长上下文服务中。"
+head:
+  - - meta
+    - property: og:title
+      content: "MoBA: Mixture of Block Attention for Long-Context LLMs"
+  - - meta
+    - property: og:description
+      content: "月之暗面将混合专家（MoE）的路由思想创造性地应用于注意力机制，提出了 MoBA——一种无需额外可训练参数的块级稀疏注意力方法，在保持与全注意力几乎相同性能的同时，实现了高达 16 倍的计算节省，并已部署于 Kimi 的长上下文服务中。"
+  - - meta
+    - property: og:type
+      content: article
+---
+
 # MoBA: Mixture of Block Attention for Long-Context LLMs
 
 **原标题:** MoBA: Mixture of Block Attention for Long-Context LLMs

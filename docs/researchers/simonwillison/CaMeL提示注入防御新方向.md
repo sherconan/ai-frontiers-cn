@@ -1,3 +1,18 @@
+---
+title: "CaMeL Offers a Promising New Direction for Mitigating Prompt Injection Attacks / CaMeL：提示注入防御的新希望"
+description: "Google DeepMind 提出的 CaMeL 系统通过将用户意图转化为受限代码序列、追踪数据信任层级，为解决提示注入这一困扰AI安全领域两年半的核心难题提供了首个具有说服力的系统级方案。"
+head:
+  - - meta
+    - property: og:title
+      content: "CaMeL Offers a Promising New Direction for Mitigating Prompt Injection Attacks / CaMeL：提示注入防御的新希望"
+  - - meta
+    - property: og:description
+      content: "Google DeepMind 提出的 CaMeL 系统通过将用户意图转化为受限代码序列、追踪数据信任层级，为解决提示注入这一困扰AI安全领域两年半的核心难题提供了首个具有说服力的系统级方案。"
+  - - meta
+    - property: og:type
+      content: article
+---
+
 # CaMeL Offers a Promising New Direction for Mitigating Prompt Injection Attacks / CaMeL：提示注入防御的新希望
 
 > **原标题**: CaMeL Offers a Promising New Direction for Mitigating Prompt Injection Attacks

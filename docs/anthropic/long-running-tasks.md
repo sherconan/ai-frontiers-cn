@@ -1,3 +1,18 @@
+---
+title: "Long-Running Claude for Scientific Research"
+description: "Anthropic 介绍了如何在高性能计算集群上部署 Claude Code 进行长时间自主运行的科学计算任务，通过进度文件、测试预言机和 Git 协作机制，将原本需要数月的研究工作压缩至数天。"
+head:
+  - - meta
+    - property: og:title
+      content: "Long-Running Claude for Scientific Research"
+  - - meta
+    - property: og:description
+      content: "Anthropic 介绍了如何在高性能计算集群上部署 Claude Code 进行长时间自主运行的科学计算任务，通过进度文件、测试预言机和 Git 协作机制，将原本需要数月的研究工作压缩至数天。"
+  - - meta
+    - property: og:type
+      content: article
+---
+
 # Long-Running Claude for Scientific Research
 
 > 原标题：Long-Running Claude for Scientific Research

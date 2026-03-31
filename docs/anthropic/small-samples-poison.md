@@ -1,3 +1,18 @@
+---
+title: "少量样本即可毒化任意规模的大语言模型"
+description: "研究证明仅需250个恶意文档即可在任意规模的大语言模型中植入后门——无论模型参数量从6亿到130亿，所需的毒化样本数量几乎恒定，颠覆了\"毒化攻击需要与训练数据成比例\"的传统认知。"
+head:
+  - - meta
+    - property: og:title
+      content: "少量样本即可毒化任意规模的大语言模型"
+  - - meta
+    - property: og:description
+      content: "研究证明仅需250个恶意文档即可在任意规模的大语言模型中植入后门——无论模型参数量从6亿到130亿，所需的毒化样本数量几乎恒定，颠覆了\"毒化攻击需要与训练数据成比例\"的传统认知。"
+  - - meta
+    - property: og:type
+      content: article
+---
+
 # 少量样本即可毒化任意规模的大语言模型
 
 > **原标题:** A Small Number of Samples Can Poison LLMs of Any Size

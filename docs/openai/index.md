@@ -1,3 +1,18 @@
+---
+title: "OpenAI 博客深度解读"
+description: "OpenAI 博客深度解读 - AI 前沿精读深度解读"
+head:
+  - - meta
+    - property: og:title
+      content: "OpenAI 博客深度解读"
+  - - meta
+    - property: og:description
+      content: "OpenAI 博客深度解读 - AI 前沿精读深度解读"
+  - - meta
+    - property: og:type
+      content: article
+---
+
 # OpenAI 博客深度解读
 
 OpenAI 是 GPT 系列和 ChatGPT 的开发者，推动了大语言模型的商业化浪潮。以下是我们对 OpenAI 重要研究和技术文章的中文翻译与深度解读。

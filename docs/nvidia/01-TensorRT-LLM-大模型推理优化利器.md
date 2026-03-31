@@ -1,3 +1,18 @@
+---
+title: "Optimizing Inference on LLMs with TensorRT-LLM"
+description: "NVIDIA开源TensorRT-LLM推理加速库，通过内核融合、量化、PagedAttention、KV缓存、连续批处理和FlashAttention等技术组合，在NVIDIA GPU上实现大语言模型推理性能的数倍提升。"
+head:
+  - - meta
+    - property: og:title
+      content: "Optimizing Inference on LLMs with TensorRT-LLM"
+  - - meta
+    - property: og:description
+      content: "NVIDIA开源TensorRT-LLM推理加速库，通过内核融合、量化、PagedAttention、KV缓存、连续批处理和FlashAttention等技术组合，在NVIDIA GPU上实现大语言模型推理性能的数倍提升。"
+  - - meta
+    - property: og:type
+      content: article
+---
+
 > 📊 难度：⭐⭐⭐⭐⭐ | ⏱️ 阅读：16分钟 | 📅 2023年10月19日（持续更新至2024年） | 🏷️ 推理优化, GPU加速, 模型部署
 
 # Optimizing Inference on LLMs with TensorRT-LLM

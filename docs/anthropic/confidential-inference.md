@@ -1,3 +1,18 @@
+---
+title: "基于可信虚拟机的机密推理"
+description: "Anthropic提出\"机密推理\"安全框架，通过加密处理同时保护AI模型权重和用户数据，确保敏感数据仅在高度受限的可验证环境中被短暂解密处理，从硬件层面构建AI安全的信任根基。"
+head:
+  - - meta
+    - property: og:title
+      content: "基于可信虚拟机的机密推理"
+  - - meta
+    - property: og:description
+      content: "Anthropic提出\"机密推理\"安全框架，通过加密处理同时保护AI模型权重和用户数据，确保敏感数据仅在高度受限的可验证环境中被短暂解密处理，从硬件层面构建AI安全的信任根基。"
+  - - meta
+    - property: og:type
+      content: article
+---
+
 # 基于可信虚拟机的机密推理
 
 > **原标题:** Confidential Inference via Trusted Virtual Machines

@@ -1,3 +1,18 @@
+---
+title: "人们如何使用Claude获取支持、建议与陪伴"
+description: "Anthropic分析了450万条Claude.ai对话中约13.1万条情感类互动，发现仅2.9%的对话涉及情感内容，大多数对话结束时情绪略有改善，Claude在不到10%的咨询类对话中会拒绝用户请求。"
+head:
+  - - meta
+    - property: og:title
+      content: "人们如何使用Claude获取支持、建议与陪伴"
+  - - meta
+    - property: og:description
+      content: "Anthropic分析了450万条Claude.ai对话中约13.1万条情感类互动，发现仅2.9%的对话涉及情感内容，大多数对话结束时情绪略有改善，Claude在不到10%的咨询类对话中会拒绝用户请求。"
+  - - meta
+    - property: og:type
+      content: article
+---
+
 # 人们如何使用Claude获取支持、建议与陪伴
 
 > **原标题:** How People Use Claude for Support, Advice, and Companionship

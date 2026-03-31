@@ -1,3 +1,18 @@
+---
+title: "Kimi-Researcher: End-to-End RL Training for Emerging Agentic Capabilities"
+description: "月之暗面通过纯端到端强化学习训练打造了自主研究型智能体 Kimi-Researcher，该系统每次任务平均执行 23 个推理步骤、探索超过 200 个网页，在 Humanity's Last Exam 上从 8.6% 的基线提升至 26.9%，展现了 RL 训练中涌现的冲突解决和验证严谨性等高阶智能体能力。"
+head:
+  - - meta
+    - property: og:title
+      content: "Kimi-Researcher: End-to-End RL Training for Emerging Agentic Capabilities"
+  - - meta
+    - property: og:description
+      content: "月之暗面通过纯端到端强化学习训练打造了自主研究型智能体 Kimi-Researcher，该系统每次任务平均执行 23 个推理步骤、探索超过 200 个网页，在 Humanity's Last Exam 上从 8.6% 的基线提升至 26.9%，展现了 RL 训练中涌现的冲突解决和验证严谨性等高阶智能体能力。"
+  - - meta
+    - property: og:type
+      content: article
+---
+
 # Kimi-Researcher: End-to-End RL Training for Emerging Agentic Capabilities
 
 **原标题:** Kimi-Researcher: End-to-End RL Training for Emerging Agentic Capabilities

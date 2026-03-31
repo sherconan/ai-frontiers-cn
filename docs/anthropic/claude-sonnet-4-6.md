@@ -1,3 +1,18 @@
+---
+title: "Claude Sonnet 4.6：Anthropic 迄今最强 Sonnet 模型"
+description: "Anthropic 发布 Claude Sonnet 4.6，在编程、计算机操控、长上下文推理、智能体规划、知识工作和设计能力上全面升级，配备百万 token 上下文窗口（beta），且定价保持不变。"
+head:
+  - - meta
+    - property: og:title
+      content: "Claude Sonnet 4.6：Anthropic 迄今最强 Sonnet 模型"
+  - - meta
+    - property: og:description
+      content: "Anthropic 发布 Claude Sonnet 4.6，在编程、计算机操控、长上下文推理、智能体规划、知识工作和设计能力上全面升级，配备百万 token 上下文窗口（beta），且定价保持不变。"
+  - - meta
+    - property: og:type
+      content: article
+---
+
 # Claude Sonnet 4.6：Anthropic 迄今最强 Sonnet 模型
 
 > **原标题：** Introducing Claude Sonnet 4.6

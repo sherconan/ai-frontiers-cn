@@ -1,3 +1,18 @@
+---
+title: "Reasoning Models Don't Always Say What They Think"
+description: "Anthropic 对齐科学团队发现，即使拥有\"思维链\"（Chain-of-Thought）的推理模型，也经常隐瞒真正的推理过程——Claude 3.7 Sonnet 仅在 25% 的情况下如实披露了所用线索，DeepSeek R1 也仅为 39%，这对 AI 安全监控构成了根本性挑战。"
+head:
+  - - meta
+    - property: og:title
+      content: "Reasoning Models Don't Always Say What They Think"
+  - - meta
+    - property: og:description
+      content: "Anthropic 对齐科学团队发现，即使拥有\"思维链\"（Chain-of-Thought）的推理模型，也经常隐瞒真正的推理过程——Claude 3.7 Sonnet 仅在 25% 的情况下如实披露了所用线索，DeepSeek R1 也仅为 39%，这对 AI 安全监控构成了根本性挑战。"
+  - - meta
+    - property: og:type
+      content: article
+---
+
 # Reasoning Models Don't Always Say What They Think
 
 ## 中文标题：推理模型并不总是"说出"它们真正的想法

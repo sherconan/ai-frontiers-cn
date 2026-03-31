@@ -1,3 +1,18 @@
+---
+title: "Software 2.0 | 软件 2.0"
+description: "神经网络不只是机器学习工具箱里的又一个工具，它代表了一种全新的编程范式——从人类手写代码转向让优化算法在权重空间中搜索程序。"
+head:
+  - - meta
+    - property: og:title
+      content: "Software 2.0 | 软件 2.0"
+  - - meta
+    - property: og:description
+      content: "神经网络不只是机器学习工具箱里的又一个工具，它代表了一种全新的编程范式——从人类手写代码转向让优化算法在权重空间中搜索程序。"
+  - - meta
+    - property: og:type
+      content: article
+---
+
 # Software 2.0 | 软件 2.0
 
 > **原标题**: Software 2.0

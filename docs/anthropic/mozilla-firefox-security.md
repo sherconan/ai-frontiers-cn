@@ -1,3 +1,18 @@
+---
+title: "Partnering with Mozilla to Improve Firefox's Security | 与 Mozilla 合作提升 Firefox 安全性"
+description: "Anthropic 与 Mozilla 合作，使用 Claude Opus 4.6 在两周内扫描近 6,000 个 C++ 文件，发现 22 个 Firefox 漏洞（其中 14 个为高严重性），约占 2025 年 Firefox 所有已修复高严重性漏洞的五分之一，开创了 AI 系统性参与大型开源项目安全审计的先例。"
+head:
+  - - meta
+    - property: og:title
+      content: "Partnering with Mozilla to Improve Firefox's Security | 与 Mozilla 合作提升 Firefox 安全性"
+  - - meta
+    - property: og:description
+      content: "Anthropic 与 Mozilla 合作，使用 Claude Opus 4.6 在两周内扫描近 6,000 个 C++ 文件，发现 22 个 Firefox 漏洞（其中 14 个为高严重性），约占 2025 年 Firefox 所有已修复高严重性漏洞的五分之一，开创了 AI 系统性参与大型开源项目安全审计的先例。"
+  - - meta
+    - property: og:type
+      content: article
+---
+
 # Partnering with Mozilla to Improve Firefox's Security | 与 Mozilla 合作提升 Firefox 安全性
 
 > **原标题：** Partnering with Mozilla to Improve Firefox's Security

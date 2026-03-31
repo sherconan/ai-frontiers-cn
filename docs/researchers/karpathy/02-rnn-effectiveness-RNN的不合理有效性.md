@@ -1,3 +1,18 @@
+---
+title: "The Unreasonable Effectiveness of Recurrent Neural Networks | RNN 的不合理有效性"
+description: "RNN（循环神经网络）能够在字符级别学习到令人惊叹的文本结构——从莎士比亚戏剧到 LaTeX 数学论文再到 Linux 内核源码——揭示了序列模型\"不合理\"的强大生成能力。"
+head:
+  - - meta
+    - property: og:title
+      content: "The Unreasonable Effectiveness of Recurrent Neural Networks | RNN 的不合理有效性"
+  - - meta
+    - property: og:description
+      content: "RNN（循环神经网络）能够在字符级别学习到令人惊叹的文本结构——从莎士比亚戏剧到 LaTeX 数学论文再到 Linux 内核源码——揭示了序列模型\"不合理\"的强大生成能力。"
+  - - meta
+    - property: og:type
+      content: article
+---
+
 # The Unreasonable Effectiveness of Recurrent Neural Networks | RNN 的不合理有效性
 
 > **原标题**: The Unreasonable Effectiveness of Recurrent Neural Networks

@@ -1,3 +1,18 @@
+---
+title: "MiniMax M2.5: Built for Real-World Productivity"
+description: "MiniMax M2.5 是一个 230B 参数的开源 MoE 模型，每次推理仅激活 10B 参数，通过自研 Forge 强化学习框架训练，在 SWE-Bench Verified 上达到 80.2%（匹敌 Claude Opus 4.6），而 API 调用成本仅为后者的二十分之一。"
+head:
+  - - meta
+    - property: og:title
+      content: "MiniMax M2.5: Built for Real-World Productivity"
+  - - meta
+    - property: og:description
+      content: "MiniMax M2.5 是一个 230B 参数的开源 MoE 模型，每次推理仅激活 10B 参数，通过自研 Forge 强化学习框架训练，在 SWE-Bench Verified 上达到 80.2%（匹敌 Claude Opus 4.6），而 API 调用成本仅为后者的二十分之一。"
+  - - meta
+    - property: og:type
+      content: article
+---
+
 # MiniMax M2.5: Built for Real-World Productivity
 
 ## 原标题 + 中文标题

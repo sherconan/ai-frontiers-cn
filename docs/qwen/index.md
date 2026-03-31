@@ -1,3 +1,18 @@
+---
+title: "Qwen（通义千问）博客深度解读"
+description: "Qwen（通义千问）博客深度解读 - AI 前沿精读深度解读"
+head:
+  - - meta
+    - property: og:title
+      content: "Qwen（通义千问）博客深度解读"
+  - - meta
+    - property: og:description
+      content: "Qwen（通义千问）博客深度解读 - AI 前沿精读深度解读"
+  - - meta
+    - property: og:type
+      content: article
+---
+
 # Qwen（通义千问）博客深度解读
 
 阿里通义千问系列是中国最具影响力的开源大模型家族，覆盖通用、编程、数学、多模态等方向。

@@ -1,3 +1,18 @@
+---
+title: "Introducing Codex"
+description: "2025年5月，OpenAI发布Codex——一个基于codex-1模型的云端软件工程智能体，能够在独立沙箱中并行处理多项编码任务，从代码编写、Bug修复到Pull Request生成，标志着AI编程从\"代码补全\"进入\"自主工程\"时代。"
+head:
+  - - meta
+    - property: og:title
+      content: "Introducing Codex"
+  - - meta
+    - property: og:description
+      content: "2025年5月，OpenAI发布Codex——一个基于codex-1模型的云端软件工程智能体，能够在独立沙箱中并行处理多项编码任务，从代码编写、Bug修复到Pull Request生成，标志着AI编程从\"代码补全\"进入\"自主工程\"时代。"
+  - - meta
+    - property: og:type
+      content: article
+---
+
 # Introducing Codex
 
 ## 原标题

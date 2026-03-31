@@ -1,3 +1,18 @@
+---
+title: "Writing Effective Tools for Agents — With Agents"
+description: "本文提出了一套以评估驱动、智能体协同迭代为核心的工具设计方法论，阐释如何基于模型上下文协议（MCP）为AI智能体打造真正高效的工具。"
+head:
+  - - meta
+    - property: og:title
+      content: "Writing Effective Tools for Agents — With Agents"
+  - - meta
+    - property: og:description
+      content: "本文提出了一套以评估驱动、智能体协同迭代为核心的工具设计方法论，阐释如何基于模型上下文协议（MCP）为AI智能体打造真正高效的工具。"
+  - - meta
+    - property: og:type
+      content: article
+---
+
 # Writing Effective Tools for Agents — With Agents
 
 **原标题:** Writing Effective Tools for Agents — With Agents

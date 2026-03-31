@@ -1,3 +1,18 @@
+---
+title: "Next-Generation Constitutional Classifiers"
+description: "Anthropic 推出升级版宪法分类器（Constitutional Classifiers++），通过两级级联系统和内部探针分类器的创新架构，在将误拒率降低 87%、计算开销降至约 1% 的同时，在 198,000 次攻击尝试中实现了零通用越狱发现的防护效果。"
+head:
+  - - meta
+    - property: og:title
+      content: "Next-Generation Constitutional Classifiers"
+  - - meta
+    - property: og:description
+      content: "Anthropic 推出升级版宪法分类器（Constitutional Classifiers++），通过两级级联系统和内部探针分类器的创新架构，在将误拒率降低 87%、计算开销降至约 1% 的同时，在 198,000 次攻击尝试中实现了零通用越狱发现的防护效果。"
+  - - meta
+    - property: og:type
+      content: article
+---
+
 # Next-Generation Constitutional Classifiers
 
 > 原标题：Next-Generation Constitutional Classifiers: More Efficient Protection Against Universal Jailbreaks

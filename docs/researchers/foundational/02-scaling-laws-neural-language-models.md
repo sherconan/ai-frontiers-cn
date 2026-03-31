@@ -1,3 +1,18 @@
+---
+title: "Scaling Laws for Neural Language Models — 神经语言模型的缩放定律"
+description: "> OpenAI 研究团队发现神经语言模型的性能与模型规模、数据量和计算量之间存在简洁的幂律关系，这一发现将大模型开发从\"凭直觉试错\"转变为\"用数学预测\"，直接影响了 GPT-3 等超大模型的设计决策。"
+head:
+  - - meta
+    - property: og:title
+      content: "Scaling Laws for Neural Language Models — 神经语言模型的缩放定律"
+  - - meta
+    - property: og:description
+      content: "> OpenAI 研究团队发现神经语言模型的性能与模型规模、数据量和计算量之间存在简洁的幂律关系，这一发现将大模型开发从\"凭直觉试错\"转变为\"用数学预测\"，直接影响了 GPT-3 等超大模型的设计决策。"
+  - - meta
+    - property: og:type
+      content: article
+---
+
 # Scaling Laws for Neural Language Models — 神经语言模型的缩放定律
 
 **原标题**: Scaling Laws for Neural Language Models

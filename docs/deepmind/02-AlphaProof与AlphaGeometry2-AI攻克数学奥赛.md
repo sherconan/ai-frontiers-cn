@@ -1,3 +1,18 @@
+---
+title: "AlphaProof 与 AlphaGeometry 2：AI首次达到国际数学奥赛银牌水平"
+description: "Google DeepMind的AlphaProof和AlphaGeometry 2联手解决了2024年国际数学奥赛（IMO）6道题中的4道，以28/42分达到银牌水平，标志着AI在高级数学推理领域的里程碑突破。"
+head:
+  - - meta
+    - property: og:title
+      content: "AlphaProof 与 AlphaGeometry 2：AI首次达到国际数学奥赛银牌水平"
+  - - meta
+    - property: og:description
+      content: "Google DeepMind的AlphaProof和AlphaGeometry 2联手解决了2024年国际数学奥赛（IMO）6道题中的4道，以28/42分达到银牌水平，标志着AI在高级数学推理领域的里程碑突破。"
+  - - meta
+    - property: og:type
+      content: article
+---
+
 # AlphaProof 与 AlphaGeometry 2：AI首次达到国际数学奥赛银牌水平
 
 **原标题:** AI achieves silver-medal standard solving International Mathematical Olympiad problems

@@ -1,3 +1,18 @@
+---
+title: "The Transformer Family Version 2.0 | Transformer 家族 2.0 版"
+description: "The Transformer Family Version 2.0 | Transformer 家族 2.0 版 - AI 前沿精读深度解读"
+head:
+  - - meta
+    - property: og:title
+      content: "The Transformer Family Version 2.0 | Transformer 家族 2.0 版"
+  - - meta
+    - property: og:description
+      content: "The Transformer Family Version 2.0 | Transformer 家族 2.0 版 - AI 前沿精读深度解读"
+  - - meta
+    - property: og:type
+      content: article
+---
+
 # The Transformer Family Version 2.0 | Transformer 家族 2.0 版
 
 > **作者**: Lilian Weng（翁荔）| **发布日期**: 2023年1月27日

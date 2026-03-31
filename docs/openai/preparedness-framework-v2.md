@@ -1,3 +1,18 @@
+---
+title: "Our Updated Preparedness Framework — 更新版前沿AI准备框架"
+description: "OpenAI发布准备框架2.0版本，将AI能力风险等级精简为\"高能力\"和\"关键能力\"两个阈值，新增AI自我改进作为第三大追踪类别，同时引入安全咨询小组(SAG)治理架构，但也因包含\"竞争对手条款\"而引发争议。"
+head:
+  - - meta
+    - property: og:title
+      content: "Our Updated Preparedness Framework — 更新版前沿AI准备框架"
+  - - meta
+    - property: og:description
+      content: "OpenAI发布准备框架2.0版本，将AI能力风险等级精简为\"高能力\"和\"关键能力\"两个阈值，新增AI自我改进作为第三大追踪类别，同时引入安全咨询小组(SAG)治理架构，但也因包含\"竞争对手条款\"而引发争议。"
+  - - meta
+    - property: og:type
+      content: article
+---
+
 # Our Updated Preparedness Framework — 更新版前沿AI准备框架
 
 > **原标题**: Our Updated Preparedness Framework

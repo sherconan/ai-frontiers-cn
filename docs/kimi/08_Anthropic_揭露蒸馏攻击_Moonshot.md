@@ -1,3 +1,18 @@
+---
+title: "Detecting and Preventing Distillation Attacks on Claude"
+description: "Anthropic 于 2025 年末公开披露，DeepSeek、Moonshot AI 和 MiniMax 三家中国 AI 实验室通过约 24,000 个虚假账户、超过 1,600 万次对话，对 Claude 实施了工业级别的蒸馏攻击（即利用大模型输出来训练自己的小模型），构成严重的知识产权侵害。"
+head:
+  - - meta
+    - property: og:title
+      content: "Detecting and Preventing Distillation Attacks on Claude"
+  - - meta
+    - property: og:description
+      content: "Anthropic 于 2025 年末公开披露，DeepSeek、Moonshot AI 和 MiniMax 三家中国 AI 实验室通过约 24,000 个虚假账户、超过 1,600 万次对话，对 Claude 实施了工业级别的蒸馏攻击（即利用大模型输出来训练自己的小模型），构成严重的知识产权侵害。"
+  - - meta
+    - property: og:type
+      content: article
+---
+
 # Detecting and Preventing Distillation Attacks on Claude
 
 **原标题:** Detecting and Preventing Distillation Attacks

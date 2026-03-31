@@ -1,3 +1,18 @@
+---
+title: "Persona Vectors: Monitoring and Controlling Character Traits in Language Models"
+description: "Anthropic 研究人员发现了控制大语言模型性格特征的神经激活模式——\"人格向量\"（Persona Vectors），并展示了如何利用它们监控人格漂移、预防不良特征习得，以及在训练前标记问题数据。"
+head:
+  - - meta
+    - property: og:title
+      content: "Persona Vectors: Monitoring and Controlling Character Traits in Language Models"
+  - - meta
+    - property: og:description
+      content: "Anthropic 研究人员发现了控制大语言模型性格特征的神经激活模式——\"人格向量\"（Persona Vectors），并展示了如何利用它们监控人格漂移、预防不良特征习得，以及在训练前标记问题数据。"
+  - - meta
+    - property: og:type
+      content: article
+---
+
 # Persona Vectors: Monitoring and Controlling Character Traits in Language Models
 
 **原标题:** Persona Vectors: Monitoring and Controlling Character Traits in Language Models

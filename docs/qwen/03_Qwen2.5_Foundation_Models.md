@@ -1,3 +1,18 @@
+---
+title: "Qwen2.5: A Party of Foundation Models!"
+description: "Qwen团队发布\"可能是史上最大规模的开源模型发布\"——Qwen2.5系列，涵盖通用、编程、数学三大家族共十余个尺寸的模型，预训练数据达18万亿token，各项能力全面超越前代。"
+head:
+  - - meta
+    - property: og:title
+      content: "Qwen2.5: A Party of Foundation Models!"
+  - - meta
+    - property: og:description
+      content: "Qwen团队发布\"可能是史上最大规模的开源模型发布\"——Qwen2.5系列，涵盖通用、编程、数学三大家族共十余个尺寸的模型，预训练数据达18万亿token，各项能力全面超越前代。"
+  - - meta
+    - property: og:type
+      content: article
+---
+
 # Qwen2.5: A Party of Foundation Models!
 
 ## 原标题 / 中文标题

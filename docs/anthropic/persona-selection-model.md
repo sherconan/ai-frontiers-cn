@@ -1,3 +1,18 @@
+---
+title: "The Persona Selection Model"
+description: "Anthropic 提出\"角色选择模型\"理论，解释了为什么 AI 助手会表现出类人行为——这并非刻意训练的结果，而是预训练过程中模拟人类文本角色的自然涌现，后训练阶段则在已有角色空间中精炼出特定的\"助手角色\"。"
+head:
+  - - meta
+    - property: og:title
+      content: "The Persona Selection Model"
+  - - meta
+    - property: og:description
+      content: "Anthropic 提出\"角色选择模型\"理论，解释了为什么 AI 助手会表现出类人行为——这并非刻意训练的结果，而是预训练过程中模拟人类文本角色的自然涌现，后训练阶段则在已有角色空间中精炼出特定的\"助手角色\"。"
+  - - meta
+    - property: og:type
+      content: article
+---
+
 # The Persona Selection Model
 
 > 原标题：The Persona Selection Model

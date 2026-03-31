@@ -1,3 +1,18 @@
+---
+title: "Qwen Function Calling: Tool Use & Agent Framework"
+description: "Qwen 团队构建了以 Hermes 风格工具调用协议为核心、Qwen-Agent 框架为实现的完整 Agent 生态，支持并行、多步骤和多轮工具调用，通过 MCP 协议扩展外部工具接入，并为 Qwen3 系列模型提供了\"思考\"与\"非思考\"双模式的工具使用能力。"
+head:
+  - - meta
+    - property: og:title
+      content: "Qwen Function Calling: Tool Use & Agent Framework"
+  - - meta
+    - property: og:description
+      content: "Qwen 团队构建了以 Hermes 风格工具调用协议为核心、Qwen-Agent 框架为实现的完整 Agent 生态，支持并行、多步骤和多轮工具调用，通过 MCP 协议扩展外部工具接入，并为 Qwen3 系列模型提供了\"思考\"与\"非思考\"双模式的工具使用能力。"
+  - - meta
+    - property: og:type
+      content: article
+---
+
 # Qwen Function Calling: Tool Use & Agent Framework
 
 **原标题:** Function Calling - Qwen Documentation / Qwen-Agent Framework

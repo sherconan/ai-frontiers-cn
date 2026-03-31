@@ -1,3 +1,18 @@
+---
+title: "🤖 Agent 构建"
+description: "🤖 Agent 构建 - AI 前沿精读深度解读"
+head:
+  - - meta
+    - property: og:title
+      content: "🤖 Agent 构建"
+  - - meta
+    - property: og:description
+      content: "🤖 Agent 构建 - AI 前沿精读深度解读"
+  - - meta
+    - property: og:type
+      content: article
+---
+
 # 🤖 Agent 构建
 
 跨公司的所有 AI Agent 相关文章，从架构设计到工程实践。

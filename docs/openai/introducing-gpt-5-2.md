@@ -1,3 +1,18 @@
+---
+title: "Introducing GPT-5.2"
+description: "2025年12月11日，OpenAI发布GPT-5.2系列——包含Instant、Thinking和Pro三个版本，在专业知识工作、长上下文理解、智能体工具调用等方面全面超越前代，在GDPval基准上首次超过44个行业的人类专业人员。"
+head:
+  - - meta
+    - property: og:title
+      content: "Introducing GPT-5.2"
+  - - meta
+    - property: og:description
+      content: "2025年12月11日，OpenAI发布GPT-5.2系列——包含Instant、Thinking和Pro三个版本，在专业知识工作、长上下文理解、智能体工具调用等方面全面超越前代，在GDPval基准上首次超过44个行业的人类专业人员。"
+  - - meta
+    - property: og:type
+      content: article
+---
+
 # Introducing GPT-5.2
 
 ## 原标题

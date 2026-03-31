@@ -1,3 +1,18 @@
+---
+title: "Vibe Physics: The AI Grad Student"
+description: "哈佛大学物理学教授 Matthew Schwartz 详细记录了他如何指导 Claude 完成一篇真正的量子场论研究论文，揭示了 AI 在理论物理研究中的真实能力与局限——将原本需要 1-2 年的研究生项目压缩至 2 周，但代价是需要持续的专家监督和纠错。"
+head:
+  - - meta
+    - property: og:title
+      content: "Vibe Physics: The AI Grad Student"
+  - - meta
+    - property: og:description
+      content: "哈佛大学物理学教授 Matthew Schwartz 详细记录了他如何指导 Claude 完成一篇真正的量子场论研究论文，揭示了 AI 在理论物理研究中的真实能力与局限——将原本需要 1-2 年的研究生项目压缩至 2 周，但代价是需要持续的专家监督和纠错。"
+  - - meta
+    - property: og:type
+      content: article
+---
+
 # Vibe Physics: The AI Grad Student
 
 > 原标题：Vibe Physics: The AI Grad Student

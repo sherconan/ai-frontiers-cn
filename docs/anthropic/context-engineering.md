@@ -1,3 +1,18 @@
+---
+title: "Effective Context Engineering for AI Agents"
+description: "上下文工程（Context Engineering）是提示工程的进化形态——它不再局限于\"写好一条提示词\"，而是系统性地管理 LLM 每一轮推理时可见的全部信息，将有限的注意力预算花在信号密度最高的 token 上，从而让智能体在长时程、多轮次的复杂任务中保持高效与可靠。"
+head:
+  - - meta
+    - property: og:title
+      content: "Effective Context Engineering for AI Agents"
+  - - meta
+    - property: og:description
+      content: "上下文工程（Context Engineering）是提示工程的进化形态——它不再局限于\"写好一条提示词\"，而是系统性地管理 LLM 每一轮推理时可见的全部信息，将有限的注意力预算花在信号密度最高的 token 上，从而让智能体在长时程、多轮次的复杂任务中保持高效与可靠。"
+  - - meta
+    - property: og:type
+      content: article
+---
+
 # Effective Context Engineering for AI Agents
 
 # 面向 AI 智能体的高效上下文工程

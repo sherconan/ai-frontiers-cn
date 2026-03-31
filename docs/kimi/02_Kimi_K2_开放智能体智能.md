@@ -1,3 +1,18 @@
+---
+title: "Kimi K2: Open Agentic Intelligence"
+description: "月之暗面发布了万亿参数级别的开源 MoE 大模型 Kimi K2，通过创新的 MuonClip 优化器实现了零损失尖峰的稳定训练，并凭借大规模智能体数据合成管线和联合强化学习，在代码生成、工具调用和多步推理等智能体任务上取得了开源模型的最佳表现。"
+head:
+  - - meta
+    - property: og:title
+      content: "Kimi K2: Open Agentic Intelligence"
+  - - meta
+    - property: og:description
+      content: "月之暗面发布了万亿参数级别的开源 MoE 大模型 Kimi K2，通过创新的 MuonClip 优化器实现了零损失尖峰的稳定训练，并凭借大规模智能体数据合成管线和联合强化学习，在代码生成、工具调用和多步推理等智能体任务上取得了开源模型的最佳表现。"
+  - - meta
+    - property: og:type
+      content: article
+---
+
 # Kimi K2: Open Agentic Intelligence
 
 **原标题:** Kimi K2: Open Agentic Intelligence

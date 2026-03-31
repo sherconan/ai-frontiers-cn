@@ -1,3 +1,18 @@
+---
+title: "Deep Neural Nets: 33 years ago and 33 years from now | 深度神经网络：33年前与33年后"
+description: "通过用现代 PyTorch 复现 1989 年 LeCun 的手写数字识别论文，Karpathy 展示了 33 年间深度学习的核心算法几乎未变，而变化的是规模——并由此推演 2055 年的 AI 景象。"
+head:
+  - - meta
+    - property: og:title
+      content: "Deep Neural Nets: 33 years ago and 33 years from now | 深度神经网络：33年前与33年后"
+  - - meta
+    - property: og:description
+      content: "通过用现代 PyTorch 复现 1989 年 LeCun 的手写数字识别论文，Karpathy 展示了 33 年间深度学习的核心算法几乎未变，而变化的是规模——并由此推演 2055 年的 AI 景象。"
+  - - meta
+    - property: og:type
+      content: article
+---
+
 # Deep Neural Nets: 33 years ago and 33 years from now | 深度神经网络：33年前与33年后
 
 > **原标题**: Deep Neural Nets: 33 years ago and 33 years from now

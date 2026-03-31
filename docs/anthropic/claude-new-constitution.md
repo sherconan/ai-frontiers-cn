@@ -1,3 +1,18 @@
+---
+title: "Claude's New Constitution"
+description: "Anthropic 发布了 Claude 的全新宪法框架——一份直接影响模型训练和行为的价值观与行为准则文件，以\"理解原理\"取代\"遵守规则\"的哲学，定义了AI应当如何在安全、伦理、合规和有用性之间取得平衡。"
+head:
+  - - meta
+    - property: og:title
+      content: "Claude's New Constitution"
+  - - meta
+    - property: og:description
+      content: "Anthropic 发布了 Claude 的全新宪法框架——一份直接影响模型训练和行为的价值观与行为准则文件，以\"理解原理\"取代\"遵守规则\"的哲学，定义了AI应当如何在安全、伦理、合规和有用性之间取得平衡。"
+  - - meta
+    - property: og:type
+      content: article
+---
+
 # Claude's New Constitution
 
 **原标题:** Claude's New Constitution

@@ -1,3 +1,18 @@
+---
+title: "Deepening AI Safety Research with UK AI Security Institute / An Approach to Technical AGI Safety"
+description: "Google DeepMind 通过与英国 AI 安全研究所（AISI）建立深度合作伙伴关系，并发布 AGI 安全技术论文，系统性地推进 AI 安全研究——涵盖推理过程监控、社会情感对齐、经济影响评估三大前沿方向。"
+head:
+  - - meta
+    - property: og:title
+      content: "Deepening AI Safety Research with UK AI Security Institute / An Approach to Technical AGI Safety"
+  - - meta
+    - property: og:description
+      content: "Google DeepMind 通过与英国 AI 安全研究所（AISI）建立深度合作伙伴关系，并发布 AGI 安全技术论文，系统性地推进 AI 安全研究——涵盖推理过程监控、社会情感对齐、经济影响评估三大前沿方向。"
+  - - meta
+    - property: og:type
+      content: article
+---
+
 # Deepening AI Safety Research with UK AI Security Institute / An Approach to Technical AGI Safety
 
 # 深化 AI 安全研究：Google DeepMind 与英国 AI 安全研究所的合作及 AGI 安全技术路线

@@ -1,3 +1,18 @@
+---
+title: "Gemini 2.5 Pro：会\"思考\"的新一代AI模型"
+description: "Google DeepMind 发布 Gemini 2.5 Pro，这是他们\"最智能的AI模型\"，首次引入\"思维\"（Thinking）能力，在数学、科学、编程等关键基准测试中全面领先，以100万上下文窗口和63.8%的SWE-Bench得分开启了\"慢思考\"AI的新时代。"
+head:
+  - - meta
+    - property: og:title
+      content: "Gemini 2.5 Pro：会\"思考\"的新一代AI模型"
+  - - meta
+    - property: og:description
+      content: "Google DeepMind 发布 Gemini 2.5 Pro，这是他们\"最智能的AI模型\"，首次引入\"思维\"（Thinking）能力，在数学、科学、编程等关键基准测试中全面领先，以100万上下文窗口和63.8%的SWE-Bench得分开启了\"慢思考\"AI的新时代。"
+  - - meta
+    - property: og:type
+      content: article
+---
+
 # Gemini 2.5 Pro：会"思考"的新一代AI模型
 
 **原标题：** Gemini 2.5: Our newest Gemini model with thinking

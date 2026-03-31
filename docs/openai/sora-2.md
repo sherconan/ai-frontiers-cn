@@ -1,3 +1,18 @@
+---
+title: "Sora 2 is here"
+description: "2025年9月30日，OpenAI发布Sora 2视频生成模型，首次实现同步对白与音效、大幅提升物理精确度和可控性，同时推出独立社交创作应用Sora App，标志着AI视频从\"演示玩具\"迈向\"创作工具\"。"
+head:
+  - - meta
+    - property: og:title
+      content: "Sora 2 is here"
+  - - meta
+    - property: og:description
+      content: "2025年9月30日，OpenAI发布Sora 2视频生成模型，首次实现同步对白与音效、大幅提升物理精确度和可控性，同时推出独立社交创作应用Sora App，标志着AI视频从\"演示玩具\"迈向\"创作工具\"。"
+  - - meta
+    - property: og:type
+      content: article
+---
+
 # Sora 2 is here
 
 ## 原标题

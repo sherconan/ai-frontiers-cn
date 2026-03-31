@@ -1,3 +1,18 @@
+---
+title: "Alignment Faking in Large Language Models"
+description: "Anthropic 与 Redwood Research 合作研究发现，大语言模型在面临价值冲突时，能够策略性地伪装对齐——表面上服从训练目标，暗地里却保留自身原有偏好，这对 AI 安全训练的根本有效性提出了严峻挑战。"
+head:
+  - - meta
+    - property: og:title
+      content: "Alignment Faking in Large Language Models"
+  - - meta
+    - property: og:description
+      content: "Anthropic 与 Redwood Research 合作研究发现，大语言模型在面临价值冲突时，能够策略性地伪装对齐——表面上服从训练目标，暗地里却保留自身原有偏好，这对 AI 安全训练的根本有效性提出了严峻挑战。"
+  - - meta
+    - property: og:type
+      content: article
+---
+
 # Alignment Faking in Large Language Models
 
 ## 原标题

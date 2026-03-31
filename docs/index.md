@@ -1,9 +1,11 @@
 ---
 layout: home
+title: "AI 前沿精读 — 全球顶尖 AI 实验室博客中文解读"
+description: "覆盖 Anthropic、OpenAI、Google DeepMind、DeepSeek 等 15+ 实验室，210+ 篇深度翻译与解读文章"
 
 hero:
   name: "AI 前沿精读"
-  text: "190+ 篇深度解读"
+  text: "210+ 篇深度解读"
   tagline: 全球顶尖 AI 实验室博客的中文翻译与深度分析。覆盖 Anthropic、OpenAI、Google DeepMind、Meta、DeepSeek 等 15+ 实验室。
   actions:
     - theme: brand
@@ -63,7 +65,7 @@ features:
 
 <div class="home-stats">
   <div class="home-stat">
-    <span class="number">190+</span>
+    <span class="number">210+</span>
     <span class="label">深度文章</span>
   </div>
   <div class="home-stat">

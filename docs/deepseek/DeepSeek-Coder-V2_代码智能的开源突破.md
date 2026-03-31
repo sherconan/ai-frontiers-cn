@@ -1,3 +1,18 @@
+---
+title: "DeepSeek-Coder-V2: Breaking the Barrier of Closed-Source Models in Code Intelligence"
+description: "DeepSeek-Coder-V2 是基于混合专家架构（MoE）的开源代码大模型，以仅 21B 的激活参数量达到了 GPT-4 Turbo 级别的代码生成能力，同时将编程语言支持从 86 种扩展到 338 种，上下文窗口拓展至 128K。"
+head:
+  - - meta
+    - property: og:title
+      content: "DeepSeek-Coder-V2: Breaking the Barrier of Closed-Source Models in Code Intelligence"
+  - - meta
+    - property: og:description
+      content: "DeepSeek-Coder-V2 是基于混合专家架构（MoE）的开源代码大模型，以仅 21B 的激活参数量达到了 GPT-4 Turbo 级别的代码生成能力，同时将编程语言支持从 86 种扩展到 338 种，上下文窗口拓展至 128K。"
+  - - meta
+    - property: og:type
+      content: article
+---
+
 # DeepSeek-Coder-V2: Breaking the Barrier of Closed-Source Models in Code Intelligence
 
 ## 原标题 + 中文标题

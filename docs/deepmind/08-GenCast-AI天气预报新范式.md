@@ -1,3 +1,18 @@
+---
+title: "GenCast: Predicts Weather and the Risks of Extreme Conditions with State-of-the-Art Accuracy"
+description: "Google DeepMind 推出基于扩散模型的 AI 天气预报系统 GenCast，在 97.2% 的测试指标上超越欧洲中期天气预报中心（ECMWF）的业务系统，仅需一块 TPU 芯片 8 分钟即可生成 15 天全球集合预报。"
+head:
+  - - meta
+    - property: og:title
+      content: "GenCast: Predicts Weather and the Risks of Extreme Conditions with State-of-the-Art Accuracy"
+  - - meta
+    - property: og:description
+      content: "Google DeepMind 推出基于扩散模型的 AI 天气预报系统 GenCast，在 97.2% 的测试指标上超越欧洲中期天气预报中心（ECMWF）的业务系统，仅需一块 TPU 芯片 8 分钟即可生成 15 天全球集合预报。"
+  - - meta
+    - property: og:type
+      content: article
+---
+
 # GenCast: Predicts Weather and the Risks of Extreme Conditions with State-of-the-Art Accuracy
 
 # GenCast：以最先进精度预测天气与极端气候风险

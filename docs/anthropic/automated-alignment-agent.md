@@ -1,3 +1,18 @@
+---
+title: "A3: An Automated Alignment Agent for Safety Finetuning | 自动对齐智能体：安全微调的新范式"
+description: "Anthropic 发布并开源 A3（Automated Alignment Agent），一个能自动发现、诊断并修复大语言模型安全缺陷的智能体框架——经其微调的 7B 小模型在特定安全指标上超越 Claude Sonnet 4.5 和 GPT-5，安全失败率降至 0.2%，假阳性率为零。"
+head:
+  - - meta
+    - property: og:title
+      content: "A3: An Automated Alignment Agent for Safety Finetuning | 自动对齐智能体：安全微调的新范式"
+  - - meta
+    - property: og:description
+      content: "Anthropic 发布并开源 A3（Automated Alignment Agent），一个能自动发现、诊断并修复大语言模型安全缺陷的智能体框架——经其微调的 7B 小模型在特定安全指标上超越 Claude Sonnet 4.5 和 GPT-5，安全失败率降至 0.2%，假阳性率为零。"
+  - - meta
+    - property: og:type
+      content: article
+---
+
 # A3: An Automated Alignment Agent for Safety Finetuning | 自动对齐智能体：安全微调的新范式
 
 > **原标题：** A3: An Automated Alignment Agent for Safety Finetuning

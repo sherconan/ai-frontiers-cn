@@ -1,3 +1,18 @@
+---
+title: "Best Practices for Claude Code"
+description: "本文系统性地梳理了使用 Claude Code 的最佳实践，核心围绕一个关键约束展开：上下文窗口是最宝贵的资源，有效管理上下文是获得最佳输出的根本。"
+head:
+  - - meta
+    - property: og:title
+      content: "Best Practices for Claude Code"
+  - - meta
+    - property: og:description
+      content: "本文系统性地梳理了使用 Claude Code 的最佳实践，核心围绕一个关键约束展开：上下文窗口是最宝贵的资源，有效管理上下文是获得最佳输出的根本。"
+  - - meta
+    - property: og:type
+      content: article
+---
+
 # Best Practices for Claude Code
 
 **原标题:** Best Practices for Claude Code

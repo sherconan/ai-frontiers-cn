@@ -13,6 +13,15 @@ function estimateReadingTime(text: string): number {
   return Math.max(1, minutes)
 }
 
+// Lazy load all images for performance
+function lazyLoadImages() {
+  const images = document.querySelectorAll('.vp-doc img:not([loading])')
+  images.forEach((img) => {
+    img.setAttribute('loading', 'lazy')
+    img.setAttribute('decoding', 'async')
+  })
+}
+
 function insertReadingTime() {
   // Only on article pages, not home or index
   const content = document.querySelector('.vp-doc')
@@ -43,12 +52,18 @@ export default {
     const route = useRoute()
 
     onMounted(() => {
-      nextTick(insertReadingTime)
+      nextTick(() => {
+        insertReadingTime()
+        lazyLoadImages()
+      })
     })
 
     watch(() => route.path, () => {
       nextTick(() => {
-        setTimeout(insertReadingTime, 100)
+        setTimeout(() => {
+          insertReadingTime()
+          lazyLoadImages()
+        }, 100)
       })
     })
   },

@@ -1,3 +1,18 @@
+---
+title: "Yes you should understand backprop | 你应该理解反向传播"
+description: "反向传播不是一个可以安全抽象掉的\"实现细节\"——它是一个会泄漏的抽象，不理解它的人将无法有效构建和调试神经网络。"
+head:
+  - - meta
+    - property: og:title
+      content: "Yes you should understand backprop | 你应该理解反向传播"
+  - - meta
+    - property: og:description
+      content: "反向传播不是一个可以安全抽象掉的\"实现细节\"——它是一个会泄漏的抽象，不理解它的人将无法有效构建和调试神经网络。"
+  - - meta
+    - property: og:type
+      content: article
+---
+
 # Yes you should understand backprop | 你应该理解反向传播
 
 > **原标题**: Yes you should understand backprop
