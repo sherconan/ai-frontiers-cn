@@ -1,3 +1,18 @@
+---
+title: "Gemini 3 Flash: Frontier Intelligence Built for Speed | Gemini 3 Flash：为速度而生的前沿智能"
+description: "Google DeepMind 发布 Gemini 3 Flash，一款专为速度优化的前沿智能模型，在保持高水平推理和多模态能力的同时实现极低延迟和成本效益，已部署于 Gemini 应用和 Google 搜索的 AI 模式。"
+head:
+  - - meta
+    - property: og:title
+      content: "Gemini 3 Flash: Frontier Intelligence Built for Speed | Gemini 3 Flash：为速度而生的前沿智能"
+  - - meta
+    - property: og:description
+      content: "Google DeepMind 发布 Gemini 3 Flash，一款专为速度优化的前沿智能模型，在保持高水平推理和多模态能力的同时实现极低延迟和成本效益，已部署于 Gemini 应用和 Google 搜索的 AI 模式。"
+  - - meta
+    - property: og:type
+      content: article
+---
+
 # Gemini 3 Flash: Frontier Intelligence Built for Speed | Gemini 3 Flash：为速度而生的前沿智能
 
 > **原标题：** Gemini 3 Flash: Frontier Intelligence Built for Speed

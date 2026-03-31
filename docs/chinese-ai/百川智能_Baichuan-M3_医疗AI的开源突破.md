@@ -1,3 +1,18 @@
+---
+title: "Baichuan-M3: Modeling Clinical Inquiry for Reliable Medical Decision-Making"
+description: "百川智能发布 235B 参数的开源医疗大模型 Baichuan-M3，基于 Qwen3 架构并采用独创的 SPAR 分段流水线强化学习算法，将临床问诊分解为四个认知阶段分别训练，在 HealthBench Hard 上以 44.4 分排名全球第一，超越 GPT-5.2-High，幻觉率低至 3.5%（M3 Plus 进一步降至 2.6%）。"
+head:
+  - - meta
+    - property: og:title
+      content: "Baichuan-M3: Modeling Clinical Inquiry for Reliable Medical Decision-Making"
+  - - meta
+    - property: og:description
+      content: "百川智能发布 235B 参数的开源医疗大模型 Baichuan-M3，基于 Qwen3 架构并采用独创的 SPAR 分段流水线强化学习算法，将临床问诊分解为四个认知阶段分别训练，在 HealthBench Hard 上以 44.4 分排名全球第一，超越 GPT-5.2-High，幻觉率低至 3.5%（M3 Plus 进一步降至 2.6%）。"
+  - - meta
+    - property: og:type
+      content: article
+---
+
 # Baichuan-M3: Modeling Clinical Inquiry for Reliable Medical Decision-Making
 
 ## 原标题 + 中文标题

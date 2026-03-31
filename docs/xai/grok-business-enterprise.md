@@ -1,3 +1,18 @@
+---
+title: "Introducing Grok Business and Grok Enterprise"
+description: "xAI于2025年12月30日推出Grok Business（$30/用户/月）和Grok Enterprise两档企业订阅计划，标志着Grok从消费者社交AI助手正式迈向企业级AI平台。"
+head:
+  - - meta
+    - property: og:title
+      content: "Introducing Grok Business and Grok Enterprise"
+  - - meta
+    - property: og:description
+      content: "xAI于2025年12月30日推出Grok Business（$30/用户/月）和Grok Enterprise两档企业订阅计划，标志着Grok从消费者社交AI助手正式迈向企业级AI平台。"
+  - - meta
+    - property: og:type
+      content: article
+---
+
 # Introducing Grok Business and Grok Enterprise
 # 推出Grok商业版和企业版——xAI进军企业级AI市场
 

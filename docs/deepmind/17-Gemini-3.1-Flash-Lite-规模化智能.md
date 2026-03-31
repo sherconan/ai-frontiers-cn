@@ -1,3 +1,18 @@
+---
+title: "Gemini 3.1 Flash-Lite: Built for Intelligence at Scale | Gemini 3.1 Flash-Lite：为规模化智能而生"
+description: "Google DeepMind 发布 Gemini 3.1 Flash-Lite，Gemini 3 系列中最具成本效益的模型——指令遵循成功率比前代提升 20%，推理速度快 60%，首个 token 响应速度达 Gemini 2.5 Flash 的 2.5 倍，输出速度超 360 tokens/秒，专为高吞吐量、低延迟的翻译、分类和实时任务场景优化。"
+head:
+  - - meta
+    - property: og:title
+      content: "Gemini 3.1 Flash-Lite: Built for Intelligence at Scale | Gemini 3.1 Flash-Lite：为规模化智能而生"
+  - - meta
+    - property: og:description
+      content: "Google DeepMind 发布 Gemini 3.1 Flash-Lite，Gemini 3 系列中最具成本效益的模型——指令遵循成功率比前代提升 20%，推理速度快 60%，首个 token 响应速度达 Gemini 2.5 Flash 的 2.5 倍，输出速度超 360 tokens/秒，专为高吞吐量、低延迟的翻译、分类和实时任务场景优化。"
+  - - meta
+    - property: og:type
+      content: article
+---
+
 # Gemini 3.1 Flash-Lite: Built for Intelligence at Scale | Gemini 3.1 Flash-Lite：为规模化智能而生
 
 > **原标题：** Gemini 3.1 Flash Lite: Our most cost-effective AI model yet

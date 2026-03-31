@@ -1,3 +1,18 @@
+---
+title: "AI如何改变Anthropic的工作方式"
+description: "Anthropic对内部132名工程师和研究人员的深度调研揭示：AI正在根本性地重塑软件开发工作——效率提升约50%、27%的任务属于AI催生的\"新增工作\"，但同时引发了技能退化、同事协作减少和职业前景不确定性等深层隐忧。"
+head:
+  - - meta
+    - property: og:title
+      content: "AI如何改变Anthropic的工作方式"
+  - - meta
+    - property: og:description
+      content: "Anthropic对内部132名工程师和研究人员的深度调研揭示：AI正在根本性地重塑软件开发工作——效率提升约50%、27%的任务属于AI催生的\"新增工作\"，但同时引发了技能退化、同事协作减少和职业前景不确定性等深层隐忧。"
+  - - meta
+    - property: og:type
+      content: article
+---
+
 # AI如何改变Anthropic的工作方式
 
 > **原标题：** How AI is Transforming Work at Anthropic

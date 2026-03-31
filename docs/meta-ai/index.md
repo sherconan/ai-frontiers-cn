@@ -1,3 +1,18 @@
+---
+title: "Meta AI (FAIR) 博客深度解读"
+description: "Meta AI (FAIR) 博客深度解读 - AI 前沿精读深度解读"
+head:
+  - - meta
+    - property: og:title
+      content: "Meta AI (FAIR) 博客深度解读"
+  - - meta
+    - property: og:description
+      content: "Meta AI (FAIR) 博客深度解读 - AI 前沿精读深度解读"
+  - - meta
+    - property: og:type
+      content: article
+---
+
 # Meta AI (FAIR) 博客深度解读
 
 Meta AI 是 Llama 开源模型家族的缔造者，也是全球最大的 AI 基础研究实验室之一。

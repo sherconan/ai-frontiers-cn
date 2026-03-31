@@ -1,3 +1,18 @@
+---
+title: "A Recipe for Training Neural Networks | 训练神经网络的秘诀"
+description: "神经网络训练是一门需要耐心、细致和方法论的\"手艺\"——本文提供了一套六阶段的系统性方法，帮助从业者从数据理解到模型优化逐步推进，避免\"快而猛\"的陷阱。"
+head:
+  - - meta
+    - property: og:title
+      content: "A Recipe for Training Neural Networks | 训练神经网络的秘诀"
+  - - meta
+    - property: og:description
+      content: "神经网络训练是一门需要耐心、细致和方法论的\"手艺\"——本文提供了一套六阶段的系统性方法，帮助从业者从数据理解到模型优化逐步推进，避免\"快而猛\"的陷阱。"
+  - - meta
+    - property: og:type
+      content: article
+---
+
 # A Recipe for Training Neural Networks | 训练神经网络的秘诀
 
 > **原标题**: A Recipe for Training Neural Networks

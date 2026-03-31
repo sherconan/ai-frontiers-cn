@@ -1,3 +1,18 @@
+---
+title: "🔒 安全与对齐"
+description: "🔒 安全与对齐 - AI 前沿精读深度解读"
+head:
+  - - meta
+    - property: og:title
+      content: "🔒 安全与对齐"
+  - - meta
+    - property: og:description
+      content: "🔒 安全与对齐 - AI 前沿精读深度解读"
+  - - meta
+    - property: og:type
+      content: article
+---
+
 # 🔒 安全与对齐
 
 跨公司的所有 AI 安全、对齐、治理相关文章。

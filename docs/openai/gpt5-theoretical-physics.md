@@ -1,3 +1,18 @@
+---
+title: "GPT-5.2 Derives a New Result in Theoretical Physics"
+description: "GPT-5.2 在胶子散射振幅研究中首次猜想出一个通用公式，随后被内部模型证明并经人类物理学家验证，证明了一类此前被认为恒为零的树级振幅在特定动量空间切面上非零。"
+head:
+  - - meta
+    - property: og:title
+      content: "GPT-5.2 Derives a New Result in Theoretical Physics"
+  - - meta
+    - property: og:description
+      content: "GPT-5.2 在胶子散射振幅研究中首次猜想出一个通用公式，随后被内部模型证明并经人类物理学家验证，证明了一类此前被认为恒为零的树级振幅在特定动量空间切面上非零。"
+  - - meta
+    - property: og:type
+      content: article
+---
+
 # GPT-5.2 Derives a New Result in Theoretical Physics
 
 **原标题：** GPT-5.2 derives a new result in theoretical physics

@@ -1,3 +1,18 @@
+---
+title: "3 Challenges and 2 Hopes for Safety of Unsupervised Elicitation | 无监督引出安全性的三个挑战与两个希望"
+description: "Anthropic 研究团队对无监督引出（unsupervised elicitation）和从易到难泛化（easy-to-hard generalization）技术进行系统性压力测试，识别出三个根本性挑战和两个潜在解决方向，发现目前没有任何技术能够可靠地应对所有三个挑战，对齐研究仍需大量工作。"
+head:
+  - - meta
+    - property: og:title
+      content: "3 Challenges and 2 Hopes for Safety of Unsupervised Elicitation | 无监督引出安全性的三个挑战与两个希望"
+  - - meta
+    - property: og:description
+      content: "Anthropic 研究团队对无监督引出（unsupervised elicitation）和从易到难泛化（easy-to-hard generalization）技术进行系统性压力测试，识别出三个根本性挑战和两个潜在解决方向，发现目前没有任何技术能够可靠地应对所有三个挑战，对齐研究仍需大量工作。"
+  - - meta
+    - property: og:type
+      content: article
+---
+
 # 3 Challenges and 2 Hopes for Safety of Unsupervised Elicitation | 无监督引出安全性的三个挑战与两个希望
 
 > **原标题：** 3 Challenges and 2 Hopes for Safety of Unsupervised Elicitation

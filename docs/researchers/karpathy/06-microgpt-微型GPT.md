@@ -1,3 +1,18 @@
+---
+title: "microgpt | 微型 GPT"
+description: "仅用 200 行无任何依赖的纯 Python 代码，Karpathy 实现了 GPT 的完整训练和推理流程——证明现代大语言模型的核心算法惊人地简洁，所有超越此核心的部分都是工程优化而非算法创新。"
+head:
+  - - meta
+    - property: og:title
+      content: "microgpt | 微型 GPT"
+  - - meta
+    - property: og:description
+      content: "仅用 200 行无任何依赖的纯 Python 代码，Karpathy 实现了 GPT 的完整训练和推理流程——证明现代大语言模型的核心算法惊人地简洁，所有超越此核心的部分都是工程优化而非算法创新。"
+  - - meta
+    - property: og:type
+      content: article
+---
+
 # microgpt | 微型 GPT
 
 > **原标题**: microgpt

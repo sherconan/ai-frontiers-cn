@@ -1,3 +1,18 @@
+---
+title: "Google DeepMind 博客深度解读"
+description: "Google DeepMind 博客深度解读 - AI 前沿精读深度解读"
+head:
+  - - meta
+    - property: og:title
+      content: "Google DeepMind 博客深度解读"
+  - - meta
+    - property: og:description
+      content: "Google DeepMind 博客深度解读 - AI 前沿精读深度解读"
+  - - meta
+    - property: og:type
+      content: article
+---
+
 # Google DeepMind 博客深度解读
 
 Google DeepMind 是 AlphaGo、AlphaFold 和 Gemini 的研发团队，在科学发现、数学推理和多模态 AI 领域持续突破。

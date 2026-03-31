@@ -1,3 +1,18 @@
+---
+title: "DeepSeek-V3.1 Release / DeepSeek-V3.1：融合通用与推理的混合模型"
+description: "DeepSeek-V3.1 于 2025 年 8 月发布，是首个将通用对话能力（V3）和深度推理能力（R1）融合到单一模型中的混合架构，支持\"思考模式\"和\"非思考模式\"的自由切换，同时大幅增强了工具使用和智能体（Agent）任务能力。"
+head:
+  - - meta
+    - property: og:title
+      content: "DeepSeek-V3.1 Release / DeepSeek-V3.1：融合通用与推理的混合模型"
+  - - meta
+    - property: og:description
+      content: "DeepSeek-V3.1 于 2025 年 8 月发布，是首个将通用对话能力（V3）和深度推理能力（R1）融合到单一模型中的混合架构，支持\"思考模式\"和\"非思考模式\"的自由切换，同时大幅增强了工具使用和智能体（Agent）任务能力。"
+  - - meta
+    - property: og:type
+      content: article
+---
+
 # DeepSeek-V3.1 Release / DeepSeek-V3.1：融合通用与推理的混合模型
 
 ## 一句话摘要

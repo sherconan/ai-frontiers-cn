@@ -1,3 +1,18 @@
+---
+title: "NVIDIA AI 博客深度解读"
+description: "NVIDIA AI 博客深度解读 - AI 前沿精读深度解读"
+head:
+  - - meta
+    - property: og:title
+      content: "NVIDIA AI 博客深度解读"
+  - - meta
+    - property: og:description
+      content: "NVIDIA AI 博客深度解读 - AI 前沿精读深度解读"
+  - - meta
+    - property: og:type
+      content: article
+---
+
 # NVIDIA AI 博客深度解读
 
 NVIDIA 不仅是 AI 算力基础设施的核心，也在推理优化、模型训练框架等方面持续创新。

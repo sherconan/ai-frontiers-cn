@@ -1,3 +1,18 @@
+---
+title: "Beyond Permission Prompts: Making Claude Code More Secure and Autonomous"
+description: "Anthropic 为 Claude Code 引入操作系统级沙盒机制，通过文件系统隔离和网络隔离双重防线，在将权限提示减少84%的同时大幅增强安全性，从根本上解决了\"审批疲劳\"与安全性之间的矛盾。"
+head:
+  - - meta
+    - property: og:title
+      content: "Beyond Permission Prompts: Making Claude Code More Secure and Autonomous"
+  - - meta
+    - property: og:description
+      content: "Anthropic 为 Claude Code 引入操作系统级沙盒机制，通过文件系统隔离和网络隔离双重防线，在将权限提示减少84%的同时大幅增强安全性，从根本上解决了\"审批疲劳\"与安全性之间的矛盾。"
+  - - meta
+    - property: og:type
+      content: article
+---
+
 # Beyond Permission Prompts: Making Claude Code More Secure and Autonomous
 
 **原标题:** Beyond Permission Prompts: Making Claude Code More Secure and Autonomous

@@ -1,3 +1,18 @@
+---
+title: "GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models"
+description: "智谱 AI 发布 GLM-4.5——首个在单一模型中实现推理、编码和智能体能力原生融合的开源 MoE 基座模型，总参数 355B / 激活参数 32B，在 23T token 上进行多阶段训练，12 项全球核心基准中综合排名全球第三、中国第一。"
+head:
+  - - meta
+    - property: og:title
+      content: "GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models"
+  - - meta
+    - property: og:description
+      content: "智谱 AI 发布 GLM-4.5——首个在单一模型中实现推理、编码和智能体能力原生融合的开源 MoE 基座模型，总参数 355B / 激活参数 32B，在 23T token 上进行多阶段训练，12 项全球核心基准中综合排名全球第三、中国第一。"
+  - - meta
+    - property: og:type
+      content: article
+---
+
 # GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models
 
 ## 原标题 + 中文标题

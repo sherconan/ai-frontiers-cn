@@ -1,3 +1,18 @@
+---
+title: "AlphaGo at 10: How AI Innovation Is Paving the Path to AGI | AlphaGo 十年：AI 创新如何铺就 AGI 之路"
+description: "DeepMind CEO Demis Hassabis 在 AlphaGo 击败李世石十周年之际，回顾了这一里程碑如何催生了现代 AI 时代，并系统梳理了从 AlphaGo 到 AlphaFold、AlphaProof、AlphaEvolve 的技术谱系，指出 AGI 将通过 Gemini 的世界模型与 AlphaGo 的搜索技术融合来实现。"
+head:
+  - - meta
+    - property: og:title
+      content: "AlphaGo at 10: How AI Innovation Is Paving the Path to AGI | AlphaGo 十年：AI 创新如何铺就 AGI 之路"
+  - - meta
+    - property: og:description
+      content: "DeepMind CEO Demis Hassabis 在 AlphaGo 击败李世石十周年之际，回顾了这一里程碑如何催生了现代 AI 时代，并系统梳理了从 AlphaGo 到 AlphaFold、AlphaProof、AlphaEvolve 的技术谱系，指出 AGI 将通过 Gemini 的世界模型与 AlphaGo 的搜索技术融合来实现。"
+  - - meta
+    - property: og:type
+      content: article
+---
+
 # AlphaGo at 10: How AI Innovation Is Paving the Path to AGI | AlphaGo 十年：AI 创新如何铺就 AGI 之路
 
 > **原标题：** AlphaGo at 10: How AI Innovation Is Paving the Path to AGI

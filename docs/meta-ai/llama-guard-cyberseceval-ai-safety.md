@@ -1,3 +1,18 @@
+---
+title: "Expanding our open source large language models responsibly"
+description: "Meta发布了一整套开源AI安全工具（Llama Guard 3、Prompt Guard、CyberSecEval 3），并详细阐述了其对Llama 3.1进行的系统性风险评估方法论，展示了开源AI如何在透明中构建安全性。"
+head:
+  - - meta
+    - property: og:title
+      content: "Expanding our open source large language models responsibly"
+  - - meta
+    - property: og:description
+      content: "Meta发布了一整套开源AI安全工具（Llama Guard 3、Prompt Guard、CyberSecEval 3），并详细阐述了其对Llama 3.1进行的系统性风险评估方法论，展示了开源AI如何在透明中构建安全性。"
+  - - meta
+    - property: og:type
+      content: article
+---
+
 # Expanding our open source large language models responsibly
 # 负责任地扩展开源大语言模型——Meta AI安全研究全景
 

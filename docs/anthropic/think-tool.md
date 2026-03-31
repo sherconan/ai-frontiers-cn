@@ -1,3 +1,18 @@
+---
+title: "The \"Think\" Tool: Enabling Claude to Stop and Think in Complex Tool Use Situations"
+description: "Anthropic 推出了一个名为 \"think\" 的轻量级工具，通过在多步工具调用过程中为 Claude 提供结构化的\"思考空间\"，在客服基准测试中实现了高达 54% 的性能提升——这与扩展思维（extended thinking）功能互补而非替代。"
+head:
+  - - meta
+    - property: og:title
+      content: "The \"Think\" Tool: Enabling Claude to Stop and Think in Complex Tool Use Situations"
+  - - meta
+    - property: og:description
+      content: "Anthropic 推出了一个名为 \"think\" 的轻量级工具，通过在多步工具调用过程中为 Claude 提供结构化的\"思考空间\"，在客服基准测试中实现了高达 54% 的性能提升——这与扩展思维（extended thinking）功能互补而非替代。"
+  - - meta
+    - property: og:type
+      content: article
+---
+
 # The "Think" Tool: Enabling Claude to Stop and Think in Complex Tool Use Situations
 
 ## "Think" 工具：让 Claude 在复杂工具调用场景中停下来思考

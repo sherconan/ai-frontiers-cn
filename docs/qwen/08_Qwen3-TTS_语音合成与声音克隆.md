@@ -1,3 +1,18 @@
+---
+title: "Qwen3-TTS Family: Voice Design, Clone, and Generation"
+description: "Qwen 团队于 2026 年 1 月开源 Qwen3-TTS 系列语音合成模型（0.6B/1.7B），基于自研 Qwen3-TTS-Tokenizer-12Hz 离散多码本架构，支持 3 秒快速声音克隆、自然语言声音设计和 10 种语言的流式语音生成，端到端合成延迟低至 97 毫秒。"
+head:
+  - - meta
+    - property: og:title
+      content: "Qwen3-TTS Family: Voice Design, Clone, and Generation"
+  - - meta
+    - property: og:description
+      content: "Qwen 团队于 2026 年 1 月开源 Qwen3-TTS 系列语音合成模型（0.6B/1.7B），基于自研 Qwen3-TTS-Tokenizer-12Hz 离散多码本架构，支持 3 秒快速声音克隆、自然语言声音设计和 10 种语言的流式语音生成，端到端合成延迟低至 97 毫秒。"
+  - - meta
+    - property: og:type
+      content: article
+---
+
 # Qwen3-TTS Family: Voice Design, Clone, and Generation
 
 **原标题:** Qwen3-TTS Family is Now Open Sourced: Voice Design, Clone, and Generation

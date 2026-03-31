@@ -1,3 +1,18 @@
+---
+title: "检测与防御蒸馏攻击：Anthropic 揭露中国 AI 实验室大规模窃取行动"
+description: "Anthropic 披露深度求索（DeepSeek）、月之暗面（Moonshot）和 MiniMax 三家中国 AI 实验室通过约24,000个欺诈账户、超过1600万次交互对 Claude 进行大规模非法蒸馏攻击的详细情况，揭示了 AI 能力窃取的系统性威胁。"
+head:
+  - - meta
+    - property: og:title
+      content: "检测与防御蒸馏攻击：Anthropic 揭露中国 AI 实验室大规模窃取行动"
+  - - meta
+    - property: og:description
+      content: "Anthropic 披露深度求索（DeepSeek）、月之暗面（Moonshot）和 MiniMax 三家中国 AI 实验室通过约24,000个欺诈账户、超过1600万次交互对 Claude 进行大规模非法蒸馏攻击的详细情况，揭示了 AI 能力窃取的系统性威胁。"
+  - - meta
+    - property: og:type
+      content: article
+---
+
 # 检测与防御蒸馏攻击：Anthropic 揭露中国 AI 实验室大规模窃取行动
 
 > **原标题：** Detecting and Preventing Distillation Attacks

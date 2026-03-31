@@ -1,3 +1,18 @@
+---
+title: "Manifold-Constrained Hyper-Connections: DeepSeek's 2026 Architecture Innovation"
+description: "DeepSeek 在 2026 年初发表由创始人梁文锋共同署名的论文，提出流形约束超连接（mHC）架构，在 3B、9B 和 27B 参数规模上验证了一种比传统 Transformer 残差连接更高效的大模型训练方法，以几乎可忽略的额外计算开销实现了显著的扩展性提升。"
+head:
+  - - meta
+    - property: og:title
+      content: "Manifold-Constrained Hyper-Connections: DeepSeek's 2026 Architecture Innovation"
+  - - meta
+    - property: og:description
+      content: "DeepSeek 在 2026 年初发表由创始人梁文锋共同署名的论文，提出流形约束超连接（mHC）架构，在 3B、9B 和 27B 参数规模上验证了一种比传统 Transformer 残差连接更高效的大模型训练方法，以几乎可忽略的额外计算开销实现了显著的扩展性提升。"
+  - - meta
+    - property: og:type
+      content: article
+---
+
 # Manifold-Constrained Hyper-Connections: DeepSeek's 2026 Architecture Innovation
 
 ## 原标题 + 中文标题

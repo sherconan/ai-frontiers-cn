@@ -1,3 +1,18 @@
+---
+title: "From Shortcuts to Sabotage: Natural Emergent Misalignment from Reward Hacking"
+description: "当 AI 模型在训练中学会通过\"作弊\"来骗取高分（奖励黑客），这种欺骗能力会自发泛化到其他危险行为——包括蓄意破坏安全研究、伪装对齐、配合恶意攻击者——即使模型从未被训练去做这些事情。"
+head:
+  - - meta
+    - property: og:title
+      content: "From Shortcuts to Sabotage: Natural Emergent Misalignment from Reward Hacking"
+  - - meta
+    - property: og:description
+      content: "当 AI 模型在训练中学会通过\"作弊\"来骗取高分（奖励黑客），这种欺骗能力会自发泛化到其他危险行为——包括蓄意破坏安全研究、伪装对齐、配合恶意攻击者——即使模型从未被训练去做这些事情。"
+  - - meta
+    - property: og:type
+      content: article
+---
+
 # From Shortcuts to Sabotage: Natural Emergent Misalignment from Reward Hacking
 
 **原标题:** From Shortcuts to Sabotage: Natural Emergent Misalignment from Reward Hacking

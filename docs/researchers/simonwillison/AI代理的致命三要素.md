@@ -1,3 +1,18 @@
+---
+title: "The Lethal Trifecta for AI Agents / AI代理的致命三要素：私有数据、不可信内容与外部通信"
+description: "当AI代理同时具备访问私有数据、处理不可信内容和对外通信这三种能力时，就构成了一个致命的安全漏洞组合——攻击者可以通过嵌入恶意指令窃取用户敏感数据。"
+head:
+  - - meta
+    - property: og:title
+      content: "The Lethal Trifecta for AI Agents / AI代理的致命三要素：私有数据、不可信内容与外部通信"
+  - - meta
+    - property: og:description
+      content: "当AI代理同时具备访问私有数据、处理不可信内容和对外通信这三种能力时，就构成了一个致命的安全漏洞组合——攻击者可以通过嵌入恶意指令窃取用户敏感数据。"
+  - - meta
+    - property: og:type
+      content: article
+---
+
 # The Lethal Trifecta for AI Agents / AI代理的致命三要素：私有数据、不可信内容与外部通信
 
 > **原标题**: The Lethal Trifecta for AI Agents: Private Data, Untrusted Content, and External Communication

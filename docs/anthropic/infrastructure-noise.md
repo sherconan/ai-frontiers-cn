@@ -1,3 +1,18 @@
+---
+title: "量化智能体编码评估中的基础设施噪声"
+description: "Anthropic通过严谨的实验证明，基础设施配置（如内存限制、CPU配额）对智能体编码基准测试分数的影响可达6个百分点——有时甚至超过排行榜上顶级模型之间的差距，呼吁行业将资源配置作为一等实验变量对待。"
+head:
+  - - meta
+    - property: og:title
+      content: "量化智能体编码评估中的基础设施噪声"
+  - - meta
+    - property: og:description
+      content: "Anthropic通过严谨的实验证明，基础设施配置（如内存限制、CPU配额）对智能体编码基准测试分数的影响可达6个百分点——有时甚至超过排行榜上顶级模型之间的差距，呼吁行业将资源配置作为一等实验变量对待。"
+  - - meta
+    - property: og:type
+      content: article
+---
+
 # 量化智能体编码评估中的基础设施噪声
 
 > **原标题：** Quantifying Infrastructure Noise in Agentic Coding Evals

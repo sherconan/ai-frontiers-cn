@@ -1,3 +1,18 @@
+---
+title: "🧪 推理能力"
+description: "🧪 推理能力 - AI 前沿精读深度解读"
+head:
+  - - meta
+    - property: og:title
+      content: "🧪 推理能力"
+  - - meta
+    - property: og:description
+      content: "🧪 推理能力 - AI 前沿精读深度解读"
+  - - meta
+    - property: og:type
+      content: article
+---
+
 # 🧪 推理能力
 
 跨公司的推理模型、思维链、数学/科学能力相关文章。

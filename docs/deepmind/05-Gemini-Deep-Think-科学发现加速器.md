@@ -1,3 +1,18 @@
+---
+title: "Gemini Deep Think：重新定义科学研究的未来"
+description: "Gemini Deep Think 已从竞赛数学走向专业科学研究，其数学研究智能体 Aletheia 自主解决了四个此前未解决的开放数学问题，在计算机科学和物理学领域解决了18个研究问题，包括终结了一个持续十年的猜想，标志着AI从\"解题工具\"向\"高级科学合作者\"的质变。"
+head:
+  - - meta
+    - property: og:title
+      content: "Gemini Deep Think：重新定义科学研究的未来"
+  - - meta
+    - property: og:description
+      content: "Gemini Deep Think 已从竞赛数学走向专业科学研究，其数学研究智能体 Aletheia 自主解决了四个此前未解决的开放数学问题，在计算机科学和物理学领域解决了18个研究问题，包括终结了一个持续十年的猜想，标志着AI从\"解题工具\"向\"高级科学合作者\"的质变。"
+  - - meta
+    - property: og:type
+      content: article
+---
+
 # Gemini Deep Think：重新定义科学研究的未来
 
 **原标题：** Gemini Deep Think: Redefining the Future of Scientific Research / Accelerating mathematical and scientific discovery with Gemini Deep Think

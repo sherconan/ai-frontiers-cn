@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sherconan.github.io/ai-frontiers-cn/sitemap.xml
+
+# AI 前沿精读 - 全球顶尖 AI 实验室博客中文解读
+# https://sherconan.github.io/ai-frontiers-cn/

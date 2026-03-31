@@ -1,3 +1,18 @@
+---
+title: "通过MCP实现代码执行：构建更高效的AI智能体"
+description: "本文提出通过让AI智能体以编写代码的方式与MCP服务器交互，替代传统的直接工具调用模式，从而将token消耗降低高达98.7%，同时增强数据隐私保护和工作流灵活性。"
+head:
+  - - meta
+    - property: og:title
+      content: "通过MCP实现代码执行：构建更高效的AI智能体"
+  - - meta
+    - property: og:description
+      content: "本文提出通过让AI智能体以编写代码的方式与MCP服务器交互，替代传统的直接工具调用模式，从而将token消耗降低高达98.7%，同时增强数据隐私保护和工作流灵活性。"
+  - - meta
+    - property: og:type
+      content: article
+---
+
 # 通过MCP实现代码执行：构建更高效的AI智能体
 
 > **原标题：** Code Execution with MCP: Building More Efficient Agents

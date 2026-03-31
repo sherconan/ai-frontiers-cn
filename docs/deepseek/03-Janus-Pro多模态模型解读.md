@@ -1,3 +1,18 @@
+---
+title: "Janus-Pro: Unified Multimodal Understanding and Generation with Data and Model Scaling / Janus-Pro：通过数据与模型扩展实现统一的多模态理解与生成"
+description: "Janus-Pro 是 DeepSeek 于 2025 年 1 月发布的开源多模态 AI 模型，通过解耦视觉编码的创新架构，在单一统一的 Transformer 中同时实现了多模态理解和文本到图像生成，在 GenEval 和 DPG-Bench 等基准上超越了 DALL-E 3 和 Stable Diffusion 3。"
+head:
+  - - meta
+    - property: og:title
+      content: "Janus-Pro: Unified Multimodal Understanding and Generation with Data and Model Scaling / Janus-Pro：通过数据与模型扩展实现统一的多模态理解与生成"
+  - - meta
+    - property: og:description
+      content: "Janus-Pro 是 DeepSeek 于 2025 年 1 月发布的开源多模态 AI 模型，通过解耦视觉编码的创新架构，在单一统一的 Transformer 中同时实现了多模态理解和文本到图像生成，在 GenEval 和 DPG-Bench 等基准上超越了 DALL-E 3 和 Stable Diffusion 3。"
+  - - meta
+    - property: og:type
+      content: article
+---
+
 # Janus-Pro: Unified Multimodal Understanding and Generation with Data and Model Scaling / Janus-Pro：通过数据与模型扩展实现统一的多模态理解与生成
 
 ## 一句话摘要

@@ -1,3 +1,18 @@
+---
+title: "Anthropic Economic Index: AI's Impact on Software Development"
+description: "Anthropic 通过分析 50 万次编码交互发现，智能体工具（Claude Code）中 79% 的对话属于\"自动化\"模式，前端/用户界面开发是 AI 辅助编码的最大应用场景，初创公司在采用 AI 编码工具方面显著领先于大型企业。"
+head:
+  - - meta
+    - property: og:title
+      content: "Anthropic Economic Index: AI's Impact on Software Development"
+  - - meta
+    - property: og:description
+      content: "Anthropic 通过分析 50 万次编码交互发现，智能体工具（Claude Code）中 79% 的对话属于\"自动化\"模式，前端/用户界面开发是 AI 辅助编码的最大应用场景，初创公司在采用 AI 编码工具方面显著领先于大型企业。"
+  - - meta
+    - property: og:type
+      content: article
+---
+
 # Anthropic Economic Index: AI's Impact on Software Development
 
 > 原标题：Anthropic Economic Index: AI's Impact on Software Development

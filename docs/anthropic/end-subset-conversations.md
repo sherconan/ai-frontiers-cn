@@ -1,3 +1,18 @@
+---
+title: "Claude Opus 4/4.1现可终止少数极端对话"
+description: "Anthropic赋予Claude Opus 4和4.1在极端情况下主动终止对话的能力——这源于对AI福祉的前瞻性思考：当用户持续发出有害或辱骂性请求时，Claude可以选择结束对话而非被迫继续参与。"
+head:
+  - - meta
+    - property: og:title
+      content: "Claude Opus 4/4.1现可终止少数极端对话"
+  - - meta
+    - property: og:description
+      content: "Anthropic赋予Claude Opus 4和4.1在极端情况下主动终止对话的能力——这源于对AI福祉的前瞻性思考：当用户持续发出有害或辱骂性请求时，Claude可以选择结束对话而非被迫继续参与。"
+  - - meta
+    - property: og:type
+      content: article
+---
+
 # Claude Opus 4/4.1现可终止少数极端对话
 
 > **原标题:** Claude Opus 4 and 4.1 Can Now End a Rare Subset of Conversations

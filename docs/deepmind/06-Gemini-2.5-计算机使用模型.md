@@ -1,3 +1,18 @@
+---
+title: "Gemini 2.5 计算机使用模型：AI智能体的操作系统级突破"
+description: "Google DeepMind 发布 Gemini 2.5 Computer Use 模型，这是首个通过API提供的专用计算机操作AI模型，能够像人类一样通过点击、输入和滚动与用户界面交互，在浏览器和移动端任务基准测试中超越所有竞争方案，同时具备最低延迟。"
+head:
+  - - meta
+    - property: og:title
+      content: "Gemini 2.5 计算机使用模型：AI智能体的操作系统级突破"
+  - - meta
+    - property: og:description
+      content: "Google DeepMind 发布 Gemini 2.5 Computer Use 模型，这是首个通过API提供的专用计算机操作AI模型，能够像人类一样通过点击、输入和滚动与用户界面交互，在浏览器和移动端任务基准测试中超越所有竞争方案，同时具备最低延迟。"
+  - - meta
+    - property: og:type
+      content: article
+---
+
 # Gemini 2.5 计算机使用模型：AI智能体的操作系统级突破
 
 **原标题：** Introducing the Gemini 2.5 Computer Use model

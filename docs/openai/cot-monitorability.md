@@ -1,3 +1,18 @@
+---
+title: "Evaluating Chain-of-Thought Monitorability"
+description: "OpenAI 提出了一套系统化的思维链可监控性评估框架（含 13 个评估、24 个环境），发现前沿推理模型总体上具有良好的可监控性，且监控 CoT 远优于仅监控行为和输出，同时揭示了模型规模、推理时间和强化学习对可监控性的影响规律。"
+head:
+  - - meta
+    - property: og:title
+      content: "Evaluating Chain-of-Thought Monitorability"
+  - - meta
+    - property: og:description
+      content: "OpenAI 提出了一套系统化的思维链可监控性评估框架（含 13 个评估、24 个环境），发现前沿推理模型总体上具有良好的可监控性，且监控 CoT 远优于仅监控行为和输出，同时揭示了模型规模、推理时间和强化学习对可监控性的影响规律。"
+  - - meta
+    - property: og:type
+      content: article
+---
+
 # Evaluating Chain-of-Thought Monitorability
 
 **原标题：** Evaluating chain-of-thought monitorability

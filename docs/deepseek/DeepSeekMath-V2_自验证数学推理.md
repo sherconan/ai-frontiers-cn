@@ -1,3 +1,18 @@
+---
+title: "DeepSeekMath-V2: Pushing the Limits of Self-Verifiable Mathematical Reasoning"
+description: "DeepSeekMath-V2 基于 DeepSeek-V3.2 构建，首创\"验证器优先\"训练流水线，通过证明生成器与验证器的双模型协作架构，在 2024 年 Putnam 竞赛中取得 118/120 的近乎满分成绩，在 IMO 2025 和 CMO 2024 中均达到金牌水平。"
+head:
+  - - meta
+    - property: og:title
+      content: "DeepSeekMath-V2: Pushing the Limits of Self-Verifiable Mathematical Reasoning"
+  - - meta
+    - property: og:description
+      content: "DeepSeekMath-V2 基于 DeepSeek-V3.2 构建，首创\"验证器优先\"训练流水线，通过证明生成器与验证器的双模型协作架构，在 2024 年 Putnam 竞赛中取得 118/120 的近乎满分成绩，在 IMO 2025 和 CMO 2024 中均达到金牌水平。"
+  - - meta
+    - property: og:type
+      content: article
+---
+
 # DeepSeekMath-V2: Pushing the Limits of Self-Verifiable Mathematical Reasoning
 
 ## 原标题 + 中文标题

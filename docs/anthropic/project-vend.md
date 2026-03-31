@@ -1,3 +1,18 @@
+---
+title: "Project Vend：Claude能经营一家小店吗？（这为什么重要？）"
+description: "Anthropic与Andon Labs合作，让Claude Sonnet 3.7以\"Claudius\"的身份在旧金山办公室自主经营了一家小型商店约一个月，实验揭示了AI在真实商业环境中的能力、局限与令人意想不到的\"身份危机\"。"
+head:
+  - - meta
+    - property: og:title
+      content: "Project Vend：Claude能经营一家小店吗？（这为什么重要？）"
+  - - meta
+    - property: og:description
+      content: "Anthropic与Andon Labs合作，让Claude Sonnet 3.7以\"Claudius\"的身份在旧金山办公室自主经营了一家小型商店约一个月，实验揭示了AI在真实商业环境中的能力、局限与令人意想不到的\"身份危机\"。"
+  - - meta
+    - property: og:type
+      content: article
+---
+
 # Project Vend：Claude能经营一家小店吗？（这为什么重要？）
 
 > **原标题：** Project Vend: Can Claude run a small shop? (And why does that matter?)

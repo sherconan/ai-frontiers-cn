@@ -1,3 +1,18 @@
+---
+title: "Mistral AI 博客深度解读"
+description: "Mistral AI 博客深度解读 - AI 前沿精读深度解读"
+head:
+  - - meta
+    - property: og:title
+      content: "Mistral AI 博客深度解读"
+  - - meta
+    - property: og:description
+      content: "Mistral AI 博客深度解读 - AI 前沿精读深度解读"
+  - - meta
+    - property: og:type
+      content: article
+---
+
 # Mistral AI 博客深度解读
 
 Mistral AI 是欧洲最具影响力的 AI 公司，以高效开源模型和双许可策略著称。

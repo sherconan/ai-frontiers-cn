@@ -1,3 +1,18 @@
+---
+title: "LLM Powered Autonomous Agents | LLM 驱动的自主智能体"
+description: "LLM Powered Autonomous Agents | LLM 驱动的自主智能体 - AI 前沿精读深度解读"
+head:
+  - - meta
+    - property: og:title
+      content: "LLM Powered Autonomous Agents | LLM 驱动的自主智能体"
+  - - meta
+    - property: og:description
+      content: "LLM Powered Autonomous Agents | LLM 驱动的自主智能体 - AI 前沿精读深度解读"
+  - - meta
+    - property: og:type
+      content: article
+---
+
 # LLM Powered Autonomous Agents | LLM 驱动的自主智能体
 
 > **作者**: Lilian Weng（翁荔）| **发布日期**: 2023年6月23日

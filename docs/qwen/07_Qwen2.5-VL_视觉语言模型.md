@@ -1,3 +1,18 @@
+---
+title: "Qwen2.5-VL: To See the World More Clearly"
+description: "Qwen 团队于 2025 年 1 月发布 Qwen2.5-VL 视觉语言模型系列（3B/7B/72B），首次引入从零训练的原生动态分辨率视觉 Transformer（ViT）和窗口注意力机制，在文档理解、视觉 Agent、长视频理解等多项任务上达到或超越 GPT-4o 和 Claude 3.5 Sonnet。"
+head:
+  - - meta
+    - property: og:title
+      content: "Qwen2.5-VL: To See the World More Clearly"
+  - - meta
+    - property: og:description
+      content: "Qwen 团队于 2025 年 1 月发布 Qwen2.5-VL 视觉语言模型系列（3B/7B/72B），首次引入从零训练的原生动态分辨率视觉 Transformer（ViT）和窗口注意力机制，在文档理解、视觉 Agent、长视频理解等多项任务上达到或超越 GPT-4o 和 Claude 3.5 Sonnet。"
+  - - meta
+    - property: og:type
+      content: article
+---
+
 # Qwen2.5-VL: To See the World More Clearly
 
 **原标题:** Qwen2.5 VL! Qwen2.5 VL! Qwen2.5 VL!

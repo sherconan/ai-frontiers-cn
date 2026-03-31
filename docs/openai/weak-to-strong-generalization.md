@@ -1,3 +1,18 @@
+---
+title: "Weak-to-Strong Generalization — 弱到强泛化"
+description: "OpenAI超对齐团队发布首项核心研究成果，证明弱模型(GPT-2级别)可以有效监督强模型(GPT-4)并激发其接近GPT-3.5级别的能力表现，为未来人类监督超智能AI提供了理论和实验基础。"
+head:
+  - - meta
+    - property: og:title
+      content: "Weak-to-Strong Generalization — 弱到强泛化"
+  - - meta
+    - property: og:description
+      content: "OpenAI超对齐团队发布首项核心研究成果，证明弱模型(GPT-2级别)可以有效监督强模型(GPT-4)并激发其接近GPT-3.5级别的能力表现，为未来人类监督超智能AI提供了理论和实验基础。"
+  - - meta
+    - property: og:type
+      content: article
+---
+
 # Weak-to-Strong Generalization — 弱到强泛化
 
 > **原标题**: Weak-to-Strong Generalization

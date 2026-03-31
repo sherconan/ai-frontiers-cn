@@ -1,3 +1,18 @@
+---
+title: "Qwen3: Think Deeper, Act Faster"
+description: "阿里Qwen团队发布Qwen3系列大模型，首创\"混合思考\"模式，旗舰MoE模型Qwen3-235B-A22B以仅22B激活参数比肩DeepSeek-R1、o1等顶级模型，并支持119种语言。"
+head:
+  - - meta
+    - property: og:title
+      content: "Qwen3: Think Deeper, Act Faster"
+  - - meta
+    - property: og:description
+      content: "阿里Qwen团队发布Qwen3系列大模型，首创\"混合思考\"模式，旗舰MoE模型Qwen3-235B-A22B以仅22B激活参数比肩DeepSeek-R1、o1等顶级模型，并支持119种语言。"
+  - - meta
+    - property: og:type
+      content: article
+---
+
 # Qwen3: Think Deeper, Act Faster
 
 ## 原标题 / 中文标题

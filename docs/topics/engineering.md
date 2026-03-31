@@ -1,3 +1,18 @@
+---
+title: "🏗️ 工程实践"
+description: "🏗️ 工程实践 - AI 前沿精读深度解读"
+head:
+  - - meta
+    - property: og:title
+      content: "🏗️ 工程实践"
+  - - meta
+    - property: og:description
+      content: "🏗️ 工程实践 - AI 前沿精读深度解读"
+  - - meta
+    - property: og:type
+      content: article
+---
+
 # 🏗️ 工程实践
 
 跨公司的 AI 工程、部署、工具链、开发者实践相关文章。

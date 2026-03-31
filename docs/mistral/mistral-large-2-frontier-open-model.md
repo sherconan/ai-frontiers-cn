@@ -1,3 +1,18 @@
+---
+title: "Large Enough — Mistral Large 2"
+description: "Mistral AI发布1230亿参数的旗舰模型Mistral Large 2，在代码生成、数学推理和多语言能力上大幅提升，以开放权重的方式与GPT-4o和Claude 3 Opus在前沿模型领域展开正面竞争。"
+head:
+  - - meta
+    - property: og:title
+      content: "Large Enough — Mistral Large 2"
+  - - meta
+    - property: og:description
+      content: "Mistral AI发布1230亿参数的旗舰模型Mistral Large 2，在代码生成、数学推理和多语言能力上大幅提升，以开放权重的方式与GPT-4o和Claude 3 Opus在前沿模型领域展开正面竞争。"
+  - - meta
+    - property: og:type
+      content: article
+---
+
 # Large Enough — Mistral Large 2
 # 足够大——Mistral Large 2：欧洲AI的前沿之作
 

@@ -1,3 +1,18 @@
+---
+title: "Gemini 2.0: 智能体时代的全新AI模型"
+description: "谷歌发布迄今最强大的AI模型Gemini 2.0，具备原生多模态输出和智能体能力，标志着AI从被动工具向主动智能体的范式转变。"
+head:
+  - - meta
+    - property: og:title
+      content: "Gemini 2.0: 智能体时代的全新AI模型"
+  - - meta
+    - property: og:description
+      content: "谷歌发布迄今最强大的AI模型Gemini 2.0，具备原生多模态输出和智能体能力，标志着AI从被动工具向主动智能体的范式转变。"
+  - - meta
+    - property: og:type
+      content: article
+---
+
 # Gemini 2.0: 智能体时代的全新AI模型
 
 **原标题:** Google introduces Gemini 2.0: A new AI model for the agentic era

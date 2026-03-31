@@ -1,3 +1,18 @@
+---
+title: "Project Fetch：Claude能训练机器狗吗？"
+description: "Anthropic通过一场别开生面的实验——让两组研究人员分别在有/无Claude辅助的条件下编程控制四足机器人捡球——探索了AI在机器人领域的实际辅助能力与潜力边界。"
+head:
+  - - meta
+    - property: og:title
+      content: "Project Fetch：Claude能训练机器狗吗？"
+  - - meta
+    - property: og:description
+      content: "Anthropic通过一场别开生面的实验——让两组研究人员分别在有/无Claude辅助的条件下编程控制四足机器人捡球——探索了AI在机器人领域的实际辅助能力与潜力边界。"
+  - - meta
+    - property: og:type
+      content: article
+---
+
 # Project Fetch：Claude能训练机器狗吗？
 
 > **原标题：** Project Fetch: Can Claude Train a Robot Dog?

@@ -1,3 +1,18 @@
+---
+title: "DeepSeek（深度求索）博客深度解读"
+description: "DeepSeek（深度求索）博客深度解读 - AI 前沿精读深度解读"
+head:
+  - - meta
+    - property: og:title
+      content: "DeepSeek（深度求索）博客深度解读"
+  - - meta
+    - property: og:description
+      content: "DeepSeek（深度求索）博客深度解读 - AI 前沿精读深度解读"
+  - - meta
+    - property: og:type
+      content: article
+---
+
 # DeepSeek（深度求索）博客深度解读
 
 DeepSeek 是中国最具技术突破性的 AI 公司之一，以极低成本训练前沿模型、开源推理模型闻名全球。
@@ -24,3 +39,4 @@ DeepSeek 是中国最具技术突破性的 AI 公司之一，以极低成本训�
 |------|------|
 | [mHC 流形约束超连接](./05-mHC流形约束超连接解读) | 2026 新架构研究，6.7% 开销实现显著性能提升 |
 | [mHC 架构详解](./DeepSeek_mHC_流形约束超连接架构) | 3B/9B/27B 规模验证，创始人梁文锋参与 |
+| [DeepSeek V4 Lite](./deepseek-v4-lite) | 万亿参数先行版，原生多模态，华为昇腾优化 |

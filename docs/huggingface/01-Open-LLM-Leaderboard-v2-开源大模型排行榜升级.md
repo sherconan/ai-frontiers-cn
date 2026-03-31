@@ -1,3 +1,18 @@
+---
+title: "Open LLM Leaderboard v2"
+description: "Hugging Face推出Open LLM Leaderboard v2，引入MMLU-Pro、GPQA、MuSR等六项更具挑战性的评测基准，采用归一化评分体系解决旧排行榜的分数饱和、数据污染和区分度不足问题。"
+head:
+  - - meta
+    - property: og:title
+      content: "Open LLM Leaderboard v2"
+  - - meta
+    - property: og:description
+      content: "Hugging Face推出Open LLM Leaderboard v2，引入MMLU-Pro、GPQA、MuSR等六项更具挑战性的评测基准，采用归一化评分体系解决旧排行榜的分数饱和、数据污染和区分度不足问题。"
+  - - meta
+    - property: og:type
+      content: article
+---
+
 > 📊 难度：⭐⭐⭐ | ⏱️ 阅读：14分钟 | 📅 2024年6月（正式发布2024年10月） | 🏷️ 模型评估, 基准测试, 开源生态
 
 # Open LLM Leaderboard v2

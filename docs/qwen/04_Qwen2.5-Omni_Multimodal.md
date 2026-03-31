@@ -1,3 +1,18 @@
+---
+title: "Qwen2.5-Omni: See, Hear, Talk, Write, Do It All!"
+description: "Qwen团队推出端到端多模态旗舰模型Qwen2.5-Omni，采用创新的\"思考者-表达者(Thinker-Talker)\"架构和TMRoPE时间对齐技术，实现文本、图像、音频、视频的统一理解与实时语音生成。"
+head:
+  - - meta
+    - property: og:title
+      content: "Qwen2.5-Omni: See, Hear, Talk, Write, Do It All!"
+  - - meta
+    - property: og:description
+      content: "Qwen团队推出端到端多模态旗舰模型Qwen2.5-Omni，采用创新的\"思考者-表达者(Thinker-Talker)\"架构和TMRoPE时间对齐技术，实现文本、图像、音频、视频的统一理解与实时语音生成。"
+  - - meta
+    - property: og:type
+      content: article
+---
+
 # Qwen2.5-Omni: See, Hear, Talk, Write, Do It All!
 
 ## 原标题 / 中文标题

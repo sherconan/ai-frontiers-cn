@@ -1,3 +1,18 @@
+---
+title: "GSPO: Towards Scalable Reinforcement Learning for Language Models"
+description: "Qwen研究团队提出组序列策略优化(GSPO)算法，通过序列级别的裁剪、奖励和优化，解决了GRPO在MoE模型训练中的不稳定性问题，在Qwen3-30B上展现了显著优于GRPO的训练效率和可扩展性。"
+head:
+  - - meta
+    - property: og:title
+      content: "GSPO: Towards Scalable Reinforcement Learning for Language Models"
+  - - meta
+    - property: og:description
+      content: "Qwen研究团队提出组序列策略优化(GSPO)算法，通过序列级别的裁剪、奖励和优化，解决了GRPO在MoE模型训练中的不稳定性问题，在Qwen3-30B上展现了显著优于GRPO的训练效率和可扩展性。"
+  - - meta
+    - property: og:type
+      content: article
+---
+
 # GSPO: Towards Scalable Reinforcement Learning for Language Models
 
 ## 原标题 / 中文标题

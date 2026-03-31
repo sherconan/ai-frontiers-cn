@@ -1,3 +1,18 @@
+---
+title: "AlphaEvolve: A Gemini-Powered Coding Agent for Designing Advanced Algorithms"
+description: "Google DeepMind 推出 AlphaEvolve，一个结合 Gemini 大模型创造力与进化算法框架的编程智能体，已在数据中心优化、芯片设计、AI 训练加速和纯数学发现等领域取得突破性成果。"
+head:
+  - - meta
+    - property: og:title
+      content: "AlphaEvolve: A Gemini-Powered Coding Agent for Designing Advanced Algorithms"
+  - - meta
+    - property: og:description
+      content: "Google DeepMind 推出 AlphaEvolve，一个结合 Gemini 大模型创造力与进化算法框架的编程智能体，已在数据中心优化、芯片设计、AI 训练加速和纯数学发现等领域取得突破性成果。"
+  - - meta
+    - property: og:type
+      content: article
+---
+
 # AlphaEvolve: A Gemini-Powered Coding Agent for Designing Advanced Algorithms
 
 # AlphaEvolve：Gemini 驱动的算法设计进化智能体

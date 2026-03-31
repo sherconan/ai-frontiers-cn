@@ -1,3 +1,18 @@
+---
+title: "How We Built Our Multi-Agent Research System"
+description: "How We Built Our Multi-Agent Research System - AI 前沿精读深度解读"
+head:
+  - - meta
+    - property: og:title
+      content: "How We Built Our Multi-Agent Research System"
+  - - meta
+    - property: og:description
+      content: "How We Built Our Multi-Agent Research System - AI 前沿精读深度解读"
+  - - meta
+    - property: og:type
+      content: article
+---
+
 # How We Built Our Multi-Agent Research System
 
 ## 中文标题：我们如何构建多智能体研究系统

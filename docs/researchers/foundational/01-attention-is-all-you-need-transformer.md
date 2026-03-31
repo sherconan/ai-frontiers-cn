@@ -1,3 +1,18 @@
+---
+title: "Attention Is All You Need — Transformer 架构全面解读"
+description: "> Transformer 架构完全摒弃了循环神经网络（RNN）和卷积神经网络（CNN），仅凭注意力机制就在机器翻译任务上取得了当时最优成绩，同时大幅提升了训练并行化能力，奠定了 GPT、BERT 等所有现代大语言模型的技术基石。"
+head:
+  - - meta
+    - property: og:title
+      content: "Attention Is All You Need — Transformer 架构全面解读"
+  - - meta
+    - property: og:description
+      content: "> Transformer 架构完全摒弃了循环神经网络（RNN）和卷积神经网络（CNN），仅凭注意力机制就在机器翻译任务上取得了当时最优成绩，同时大幅提升了训练并行化能力，奠定了 GPT、BERT 等所有现代大语言模型的技术基石。"
+  - - meta
+    - property: og:type
+      content: article
+---
+
 # Attention Is All You Need — Transformer 架构全面解读
 
 **原标题**: Attention Is All You Need

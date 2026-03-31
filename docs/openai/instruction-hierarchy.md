@@ -1,3 +1,18 @@
+---
+title: "Improving Instruction Hierarchy in Frontier LLMs"
+description: "OpenAI 发布 IH-Challenge 训练数据集，通过强化学习训练模型按信任级别正确排序和执行指令，显著提升了安全可控性和提示注入防御能力，且不损害模型整体能力。"
+head:
+  - - meta
+    - property: og:title
+      content: "Improving Instruction Hierarchy in Frontier LLMs"
+  - - meta
+    - property: og:description
+      content: "OpenAI 发布 IH-Challenge 训练数据集，通过强化学习训练模型按信任级别正确排序和执行指令，显著提升了安全可控性和提示注入防御能力，且不损害模型整体能力。"
+  - - meta
+    - property: og:type
+      content: article
+---
+
 # Improving Instruction Hierarchy in Frontier LLMs
 
 **原标题：** Improving instruction hierarchy in frontier LLMs

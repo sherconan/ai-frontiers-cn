@@ -1,3 +1,18 @@
+---
+title: "🚀 模型发布与架构"
+description: "🚀 模型发布与架构 - AI 前沿精读深度解读"
+head:
+  - - meta
+    - property: og:title
+      content: "🚀 模型发布与架构"
+  - - meta
+    - property: og:description
+      content: "🚀 模型发布与架构 - AI 前沿精读深度解读"
+  - - meta
+    - property: og:type
+      content: article
+---
+
 # 🚀 模型发布与架构
 
 跨公司的模型发布公告、技术报告和架构创新。

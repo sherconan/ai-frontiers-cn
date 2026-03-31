@@ -1,3 +1,18 @@
+---
+title: "Kimi Code CLI: Next-Gen AI Code Agent"
+description: "月之暗面推出 Kimi Code CLI，一款基于 Kimi K2.5 模型的终端 AI 编程智能体，支持代码读写、Shell 执行、MCP 工具集成与多 IDE 联动，以 Apache 2.0 开源协议发布，已获 7,300+ GitHub Star。"
+head:
+  - - meta
+    - property: og:title
+      content: "Kimi Code CLI: Next-Gen AI Code Agent"
+  - - meta
+    - property: og:description
+      content: "月之暗面推出 Kimi Code CLI，一款基于 Kimi K2.5 模型的终端 AI 编程智能体，支持代码读写、Shell 执行、MCP 工具集成与多 IDE 联动，以 Apache 2.0 开源协议发布，已获 7,300+ GitHub Star。"
+  - - meta
+    - property: og:type
+      content: article
+---
+
 # Kimi Code CLI: Next-Gen AI Code Agent
 
 **原标题:** Kimi Code - Next-Gen AI Code Agent | Automated Programming & CLI

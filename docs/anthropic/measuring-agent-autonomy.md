@@ -1,3 +1,18 @@
+---
+title: "衡量AI智能体的实际自主性"
+description: "Anthropic通过分析Claude Code和公共API上数百万次人机交互数据，首次系统性地揭示了AI智能体在真实部署中的自主性水平、用户行为演变规律以及风险分布特征，为智能体监管提出了基于实证的政策建议。"
+head:
+  - - meta
+    - property: og:title
+      content: "衡量AI智能体的实际自主性"
+  - - meta
+    - property: og:description
+      content: "Anthropic通过分析Claude Code和公共API上数百万次人机交互数据，首次系统性地揭示了AI智能体在真实部署中的自主性水平、用户行为演变规律以及风险分布特征，为智能体监管提出了基于实证的政策建议。"
+  - - meta
+    - property: og:type
+      content: article
+---
+
 # 衡量AI智能体的实际自主性
 
 > **原标题：** Measuring AI Agent Autonomy in Practice

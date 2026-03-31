@@ -1,3 +1,18 @@
+---
+title: "Gemini Deep Think 在国际数学奥林匹克竞赛中达到金牌水平"
+description: "Gemini Deep Think 进阶版在2025年国际数学奥林匹克竞赛（IMO）中解出六道题目中的五道，获得35分（满分42分），以端到端自然语言推理方式正式达到金牌水平，标志着AI数学推理能力的里程碑式突破。"
+head:
+  - - meta
+    - property: og:title
+      content: "Gemini Deep Think 在国际数学奥林匹克竞赛中达到金牌水平"
+  - - meta
+    - property: og:description
+      content: "Gemini Deep Think 进阶版在2025年国际数学奥林匹克竞赛（IMO）中解出六道题目中的五道，获得35分（满分42分），以端到端自然语言推理方式正式达到金牌水平，标志着AI数学推理能力的里程碑式突破。"
+  - - meta
+    - property: og:type
+      content: article
+---
+
 # Gemini Deep Think 在国际数学奥林匹克竞赛中达到金牌水平
 
 **原标题：** Advanced version of Gemini with Deep Think officially achieves gold-medal standard at the International Mathematical Olympiad

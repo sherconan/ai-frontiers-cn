@@ -1,3 +1,18 @@
+---
+title: "2025 LLM Year in Review | 2025年LLM年度回顾"
+description: "2025 年是 LLM 领域\"强劲且事件频发\"的一年——六大范式转变（RLVR、幽灵智能、应用层崛起、AI 驻留本地、氛围编程、LLM GUI）共同重塑了整个 AI 产业的格局。"
+head:
+  - - meta
+    - property: og:title
+      content: "2025 LLM Year in Review | 2025年LLM年度回顾"
+  - - meta
+    - property: og:description
+      content: "2025 年是 LLM 领域\"强劲且事件频发\"的一年——六大范式转变（RLVR、幽灵智能、应用层崛起、AI 驻留本地、氛围编程、LLM GUI）共同重塑了整个 AI 产业的格局。"
+  - - meta
+    - property: og:type
+      content: article
+---
+
 # 2025 LLM Year in Review | 2025年LLM年度回顾
 
 > **原标题**: 2025 LLM Year in Review

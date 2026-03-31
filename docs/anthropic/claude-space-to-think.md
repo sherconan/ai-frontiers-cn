@@ -1,3 +1,18 @@
+---
+title: "Claude 是一个思考的空间：Anthropic 宣布永不投放广告"
+description: "Anthropic 正式宣布 Claude 将永远保持无广告，拒绝以用户注意力或数据换取广告收入，致力于将 Claude 打造为一个纯粹的、值得信赖的思考空间。"
+head:
+  - - meta
+    - property: og:title
+      content: "Claude 是一个思考的空间：Anthropic 宣布永不投放广告"
+  - - meta
+    - property: og:description
+      content: "Anthropic 正式宣布 Claude 将永远保持无广告，拒绝以用户注意力或数据换取广告收入，致力于将 Claude 打造为一个纯粹的、值得信赖的思考空间。"
+  - - meta
+    - property: og:type
+      content: article
+---
+
 # Claude 是一个思考的空间：Anthropic 宣布永不投放广告
 
 > **原标题：** Claude is a Space to Think

@@ -1,3 +1,18 @@
+---
+title: "Introducing Forge | Forge：企业级 AI 模型定制平台"
+description: "Mistral AI 推出 Forge——一个允许企业基于私有数据构建前沿级 AI 模型的系统，支持从预训练到强化学习的全流程定制，兼容稠密和 MoE 架构，以智能体优先设计确保定制模型能可靠地运行企业级自主工作流。"
+head:
+  - - meta
+    - property: og:title
+      content: "Introducing Forge | Forge：企业级 AI 模型定制平台"
+  - - meta
+    - property: og:description
+      content: "Mistral AI 推出 Forge——一个允许企业基于私有数据构建前沿级 AI 模型的系统，支持从预训练到强化学习的全流程定制，兼容稠密和 MoE 架构，以智能体优先设计确保定制模型能可靠地运行企业级自主工作流。"
+  - - meta
+    - property: og:type
+      content: article
+---
+
 # Introducing Forge | Forge：企业级 AI 模型定制平台
 
 > **原标题：** Introducing Forge

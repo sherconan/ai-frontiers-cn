@@ -1,3 +1,18 @@
+---
+title: "Claude开发者平台的高级工具使用"
+description: "Anthropic推出三项Beta功能——工具搜索（Tool Search Tool）、编程式工具调用（Programmatic Tool Calling）和工具使用示例（Tool Use Examples），让Claude能够动态发现、学习和执行工具，大幅降低token消耗并显著提升工具调用的准确率。"
+head:
+  - - meta
+    - property: og:title
+      content: "Claude开发者平台的高级工具使用"
+  - - meta
+    - property: og:description
+      content: "Anthropic推出三项Beta功能——工具搜索（Tool Search Tool）、编程式工具调用（Programmatic Tool Calling）和工具使用示例（Tool Use Examples），让Claude能够动态发现、学习和执行工具，大幅降低token消耗并显著提升工具调用的准确率。"
+  - - meta
+    - property: og:type
+      content: article
+---
+
 # Claude开发者平台的高级工具使用
 
 > **原标题：** Advanced Tool Use on the Claude Developer Platform

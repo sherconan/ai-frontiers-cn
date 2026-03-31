@@ -1,3 +1,18 @@
+---
+title: "📋 行业周报"
+description: "📋 行业周报 - AI 前沿精读深度解读"
+head:
+  - - meta
+    - property: og:title
+      content: "📋 行业周报"
+  - - meta
+    - property: og:description
+      content: "📋 行业周报 - AI 前沿精读深度解读"
+  - - meta
+    - property: og:type
+      content: article
+---
+
 # 📋 行业周报
 
 基于 autoresearch 模式自动生成和优化的行业周报。每份报告经过多轮迭代评估优化。

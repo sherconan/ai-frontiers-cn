@@ -1,3 +1,18 @@
+---
+title: "RLHF / InstructGPT — 基于人类反馈的强化学习"
+description: "> InstructGPT 通过三阶段训练流程（监督微调 → 奖励模型训练 → PPO 强化学习），使得仅 13 亿参数的小模型在人类评估中优于 1750 亿参数的 GPT-3，证明了人类反馈是让大语言模型从\"能力强\"变为\"有用且安全\"的关键桥梁。"
+head:
+  - - meta
+    - property: og:title
+      content: "RLHF / InstructGPT — 基于人类反馈的强化学习"
+  - - meta
+    - property: og:description
+      content: "> InstructGPT 通过三阶段训练流程（监督微调 → 奖励模型训练 → PPO 强化学习），使得仅 13 亿参数的小模型在人类评估中优于 1750 亿参数的 GPT-3，证明了人类反馈是让大语言模型从\"能力强\"变为\"有用且安全\"的关键桥梁。"
+  - - meta
+    - property: og:type
+      content: article
+---
+
 # RLHF / InstructGPT — 基于人类反馈的强化学习
 
 **原标题**: Training Language Models to Follow Instructions with Human Feedback

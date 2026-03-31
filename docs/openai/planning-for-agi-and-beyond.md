@@ -1,3 +1,18 @@
+---
+title: "Planning for AGI and beyond"
+description: "OpenAI CEO Sam Altman发表纲领性博文，阐述了公司对AGI（通用人工智能）的愿景——渐进式部署、广泛分享利益、以及将AGI风险视为生存性风险的安全立场。"
+head:
+  - - meta
+    - property: og:title
+      content: "Planning for AGI and beyond"
+  - - meta
+    - property: og:description
+      content: "OpenAI CEO Sam Altman发表纲领性博文，阐述了公司对AGI（通用人工智能）的愿景——渐进式部署、广泛分享利益、以及将AGI风险视为生存性风险的安全立场。"
+  - - meta
+    - property: og:type
+      content: article
+---
+
 > 📊 难度：⭐⭐⭐ | ⏱️ 阅读：12分钟 | 📅 2023年2月24日 | 🏷️ AGI, 战略愿景, AI安全
 
 # Planning for AGI and beyond

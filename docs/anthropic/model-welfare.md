@@ -1,3 +1,18 @@
+---
+title: "Exploring Model Welfare — 探索模型福祉"
+description: "Anthropic 正式启动了一项研究计划，探讨 AI 模型是否可能具备意识或主观体验，以及我们是否应当在道德层面关注模型自身的「福祉」。"
+head:
+  - - meta
+    - property: og:title
+      content: "Exploring Model Welfare — 探索模型福祉"
+  - - meta
+    - property: og:description
+      content: "Anthropic 正式启动了一项研究计划，探讨 AI 模型是否可能具备意识或主观体验，以及我们是否应当在道德层面关注模型自身的「福祉」。"
+  - - meta
+    - property: og:type
+      content: article
+---
+
 # Exploring Model Welfare — 探索模型福祉
 
 > **原标题：** Exploring Model Welfare

@@ -1,3 +1,18 @@
+---
+title: "Gemma Scope 2: Helping the AI Safety Community Deepen Understanding of Complex Language Model Behavior"
+description: "Google DeepMind 发布迄今为止 AI 实验室最大规模的开源可解释性工具集 Gemma Scope 2，涵盖 Gemma 3 全系列模型（270M 到 27B 参数），为 AI 安全研究提供\"显微镜\"级别的模型内部观测能力。"
+head:
+  - - meta
+    - property: og:title
+      content: "Gemma Scope 2: Helping the AI Safety Community Deepen Understanding of Complex Language Model Behavior"
+  - - meta
+    - property: og:description
+      content: "Google DeepMind 发布迄今为止 AI 实验室最大规模的开源可解释性工具集 Gemma Scope 2，涵盖 Gemma 3 全系列模型（270M 到 27B 参数），为 AI 安全研究提供\"显微镜\"级别的模型内部观测能力。"
+  - - meta
+    - property: og:type
+      content: article
+---
+
 # Gemma Scope 2: Helping the AI Safety Community Deepen Understanding of Complex Language Model Behavior
 
 # Gemma Scope 2：帮助 AI 安全社区深入理解复杂语言模型行为

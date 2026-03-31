@@ -1,3 +1,18 @@
+---
+title: "AlphaFold：改变世界的五年"
+description: "AlphaFold 自2020年攻克蛋白质结构预测这一困扰科学界50年的难题以来，已被全球190多个国家超过300万研究者使用，被引用超过35,000次，推动了从心脏病治疗到作物改良的广泛科学突破，并于2024年荣获诺贝尔化学奖。"
+head:
+  - - meta
+    - property: og:title
+      content: "AlphaFold：改变世界的五年"
+  - - meta
+    - property: og:description
+      content: "AlphaFold 自2020年攻克蛋白质结构预测这一困扰科学界50年的难题以来，已被全球190多个国家超过300万研究者使用，被引用超过35,000次，推动了从心脏病治疗到作物改良的广泛科学突破，并于2024年荣获诺贝尔化学奖。"
+  - - meta
+    - property: og:type
+      content: article
+---
+
 # AlphaFold：改变世界的五年
 
 **原标题：** AlphaFold: Five Years of Impact

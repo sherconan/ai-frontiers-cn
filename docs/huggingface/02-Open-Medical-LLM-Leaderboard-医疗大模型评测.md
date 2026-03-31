@@ -1,3 +1,18 @@
+---
+title: "The Open Medical-LLM Leaderboard"
+description: "Hugging Face联合开源社区推出医疗大模型排行榜，使用MedQA（USMLE）、MedMCQA、PubMedQA和MMLU医学子集等四类基准，系统评估LLM在医疗问答场景中的准确性——因为在这个领域，AI的错误可能危及生命。"
+head:
+  - - meta
+    - property: og:title
+      content: "The Open Medical-LLM Leaderboard"
+  - - meta
+    - property: og:description
+      content: "Hugging Face联合开源社区推出医疗大模型排行榜，使用MedQA（USMLE）、MedMCQA、PubMedQA和MMLU医学子集等四类基准，系统评估LLM在医疗问答场景中的准确性——因为在这个领域，AI的错误可能危及生命。"
+  - - meta
+    - property: og:type
+      content: article
+---
+
 > 📊 难度：⭐⭐⭐ | ⏱️ 阅读：13分钟 | 📅 2024年4月19日 | 🏷️ 医疗AI, 模型评估, 领域基准
 
 # The Open Medical-LLM Leaderboard

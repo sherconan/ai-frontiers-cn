@@ -1,3 +1,18 @@
+---
+title: "Kimi k1.5: Scaling Reinforcement Learning with LLMs"
+description: "月之暗面提出了一个简洁高效的强化学习框架，通过长上下文扩展和改进的策略优化方法，使 Kimi k1.5 在数学、代码和视觉推理任务上达到与 OpenAI o1 相当的性能，同时创新性地实现了\"长思维链到短思维链\"的知识蒸馏。"
+head:
+  - - meta
+    - property: og:title
+      content: "Kimi k1.5: Scaling Reinforcement Learning with LLMs"
+  - - meta
+    - property: og:description
+      content: "月之暗面提出了一个简洁高效的强化学习框架，通过长上下文扩展和改进的策略优化方法，使 Kimi k1.5 在数学、代码和视觉推理任务上达到与 OpenAI o1 相当的性能，同时创新性地实现了\"长思维链到短思维链\"的知识蒸馏。"
+  - - meta
+    - property: og:type
+      content: article
+---
+
 # Kimi k1.5: Scaling Reinforcement Learning with LLMs
 
 **原标题:** Kimi k1.5: Scaling Reinforcement Learning with LLMs

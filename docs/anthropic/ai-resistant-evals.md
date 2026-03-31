@@ -1,3 +1,18 @@
+---
+title: "设计抗AI的技术面试评估"
+description: "Anthropic性能工程团队分享了其技术面试题被Claude连续两代模型\"攻破\"的真实经历，以及三次重新设计抗AI评估方案的实践历程，揭示了AI时代技术人才评估面临的根本性挑战。"
+head:
+  - - meta
+    - property: og:title
+      content: "设计抗AI的技术面试评估"
+  - - meta
+    - property: og:description
+      content: "Anthropic性能工程团队分享了其技术面试题被Claude连续两代模型\"攻破\"的真实经历，以及三次重新设计抗AI评估方案的实践历程，揭示了AI时代技术人才评估面临的根本性挑战。"
+  - - meta
+    - property: og:type
+      content: article
+---
+
 # 设计抗AI的技术面试评估
 
 > **原标题：** Designing AI-Resistant Technical Evaluations

@@ -1,3 +1,18 @@
+---
+title: "QwQ-32B: Embracing the Power of Reinforcement Learning"
+description: "阿里Qwen团队发布QwQ-32B推理模型，仅用320亿参数通过规模化强化学习达到了与DeepSeek-R1（6710亿参数）相当的推理能力，证明了RL Scaling的巨大潜力。"
+head:
+  - - meta
+    - property: og:title
+      content: "QwQ-32B: Embracing the Power of Reinforcement Learning"
+  - - meta
+    - property: og:description
+      content: "阿里Qwen团队发布QwQ-32B推理模型，仅用320亿参数通过规模化强化学习达到了与DeepSeek-R1（6710亿参数）相当的推理能力，证明了RL Scaling的巨大潜力。"
+  - - meta
+    - property: og:type
+      content: article
+---
+
 # QwQ-32B: Embracing the Power of Reinforcement Learning
 
 ## 原标题 / 中文标题

@@ -1,3 +1,18 @@
+---
+title: "Advancing Embodied AI — 推进具身AI"
+description: "Meta FAIR发布一系列具身AI研究成果，包括通用触觉编码器Sparsh、具有18种以上传感特征的Digit 360触觉传感器、硬件集成平台Digit Plexus，以及包含10万条任务的人机协作基准PARTNR，将触觉感知和机器人研究推向新高度并全部开源。"
+head:
+  - - meta
+    - property: og:title
+      content: "Advancing Embodied AI — 推进具身AI"
+  - - meta
+    - property: og:description
+      content: "Meta FAIR发布一系列具身AI研究成果，包括通用触觉编码器Sparsh、具有18种以上传感特征的Digit 360触觉传感器、硬件集成平台Digit Plexus，以及包含10万条任务的人机协作基准PARTNR，将触觉感知和机器人研究推向新高度并全部开源。"
+  - - meta
+    - property: og:type
+      content: article
+---
+
 # Advancing Embodied AI — 推进具身AI
 
 > **原标题**: Advancing Embodied AI Through Progress in Touch Perception, Dexterity, and Human-Robot Interaction

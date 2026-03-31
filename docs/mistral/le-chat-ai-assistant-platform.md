@@ -1,3 +1,18 @@
+---
+title: "The All New Le Chat"
+description: "Mistral AI于2025年2月发布全面升级的Le Chat平台，以每秒约1000词的极速响应、多模态能力和灵活的定价体系（免费至企业级），正式向ChatGPT和Claude发起全面挑战。"
+head:
+  - - meta
+    - property: og:title
+      content: "The All New Le Chat"
+  - - meta
+    - property: og:description
+      content: "Mistral AI于2025年2月发布全面升级的Le Chat平台，以每秒约1000词的极速响应、多模态能力和灵活的定价体系（免费至企业级），正式向ChatGPT和Claude发起全面挑战。"
+  - - meta
+    - property: og:type
+      content: article
+---
+
 # The All New Le Chat
 # 全新Le Chat——Mistral打造的全能AI助手平台
 

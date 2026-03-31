@@ -1,3 +1,18 @@
+---
+title: "Building Effective Agents | 构建高效的 AI Agent"
+description: "成功的 Agent 系统不需要复杂的框架——用简单、可组合的模式，从最小可行方案出发，才是正道。"
+head:
+  - - meta
+    - property: og:title
+      content: "Building Effective Agents | 构建高效的 AI Agent"
+  - - meta
+    - property: og:description
+      content: "成功的 Agent 系统不需要复杂的框架——用简单、可组合的模式，从最小可行方案出发，才是正道。"
+  - - meta
+    - property: og:type
+      content: article
+---
+
 # Building Effective Agents | 构建高效的 AI Agent
 
 > **原标题：** Building Effective Agents

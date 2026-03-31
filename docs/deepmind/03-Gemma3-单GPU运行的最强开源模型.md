@@ -1,3 +1,18 @@
+---
+title: "Gemma 3：单GPU可运行的最强开源模型"
+description: "谷歌发布Gemma 3开源模型系列，提供1B至27B四种规格，首次引入多模态视觉能力、128K上下文窗口和140+语言支持，27B版本在单GPU上即可运行并跻身LM Arena全球前十。"
+head:
+  - - meta
+    - property: og:title
+      content: "Gemma 3：单GPU可运行的最强开源模型"
+  - - meta
+    - property: og:description
+      content: "谷歌发布Gemma 3开源模型系列，提供1B至27B四种规格，首次引入多模态视觉能力、128K上下文窗口和140+语言支持，27B版本在单GPU上即可运行并跻身LM Arena全球前十。"
+  - - meta
+    - property: og:type
+      content: article
+---
+
 # Gemma 3：单GPU可运行的最强开源模型
 
 **原标题:** Gemma 3: Google's new open model based on Gemini 2.0 / Gemma explained: What's new in Gemma 3

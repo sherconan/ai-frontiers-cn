@@ -1,3 +1,18 @@
+---
+title: "Kimi K2.5: Open Visual Agentic Model for Real Work"
+description: "月之暗面在 2026 年 1 月发布了 Kimi K2.5——一个万亿参数的原生多模态 MoE 模型，引入创新的 Agent Swarm（智能体集群）机制，可协调多达 100 个专业智能体并行工作，在多项基准上超越 GPT-5.2 和 Claude Opus 4.5，同时以开源形式发布并实现 76% 的成本优势。"
+head:
+  - - meta
+    - property: og:title
+      content: "Kimi K2.5: Open Visual Agentic Model for Real Work"
+  - - meta
+    - property: og:description
+      content: "月之暗面在 2026 年 1 月发布了 Kimi K2.5——一个万亿参数的原生多模态 MoE 模型，引入创新的 Agent Swarm（智能体集群）机制，可协调多达 100 个专业智能体并行工作，在多项基准上超越 GPT-5.2 和 Claude Opus 4.5，同时以开源形式发布并实现 76% 的成本优势。"
+  - - meta
+    - property: og:type
+      content: article
+---
+
 # Kimi K2.5: Open Visual Agentic Model for Real Work
 
 **原标题:** Kimi K2.5: Open Visual Agentic Model for Real Work

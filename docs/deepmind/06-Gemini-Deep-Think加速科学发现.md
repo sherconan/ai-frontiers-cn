@@ -1,3 +1,18 @@
+---
+title: "Gemini Deep Think：重新定义AI驱动的科学研究"
+description: "Google DeepMind展示Gemini Deep Think如何从竞赛推理走向真正的科学研究，其数学研究智能体Aletheia已自主解决开放数学猜想，并在物理学和计算机科学领域攻克了持续数十年的难题。"
+head:
+  - - meta
+    - property: og:title
+      content: "Gemini Deep Think：重新定义AI驱动的科学研究"
+  - - meta
+    - property: og:description
+      content: "Google DeepMind展示Gemini Deep Think如何从竞赛推理走向真正的科学研究，其数学研究智能体Aletheia已自主解决开放数学猜想，并在物理学和计算机科学领域攻克了持续数十年的难题。"
+  - - meta
+    - property: og:type
+      content: article
+---
+
 # Gemini Deep Think：重新定义AI驱动的科学研究
 
 **原标题:** Gemini Deep Think: Redefining the Future of Scientific Research

@@ -1,3 +1,18 @@
+---
+title: "SAM Audio: Segment Anything in Audio | SAM Audio：多模态音频分离的统一模型"
+description: "Meta 发布 SAM Audio，首个统一的多模态音频分离模型——通过文本、视觉和时间段三种提示方式，从复杂音频混合中分离任意声音。基于流匹配扩散 Transformer 架构，实时因子 RTF 约 0.7（快于实时），参数规模 500M-3B，并推出 SAM Audio Judge 和 SAM Audio-Bench 两项全新评估工具。"
+head:
+  - - meta
+    - property: og:title
+      content: "SAM Audio: Segment Anything in Audio | SAM Audio：多模态音频分离的统一模型"
+  - - meta
+    - property: og:description
+      content: "Meta 发布 SAM Audio，首个统一的多模态音频分离模型——通过文本、视觉和时间段三种提示方式，从复杂音频混合中分离任意声音。基于流匹配扩散 Transformer 架构，实时因子 RTF 约 0.7（快于实时），参数规模 500M-3B，并推出 SAM Audio Judge 和 SAM Audio-Bench 两项全新评估工具。"
+  - - meta
+    - property: og:type
+      content: article
+---
+
 # SAM Audio: Segment Anything in Audio | SAM Audio：多模态音频分离的统一模型
 
 > **原标题：** Introducing SAM Audio: The First Unified Multimodal Model for Audio Separation

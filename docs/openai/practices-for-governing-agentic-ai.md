@@ -1,3 +1,18 @@
+---
+title: "Practices for Governing Agentic AI Systems"
+description: "OpenAI发布白皮书，系统性地提出了管理和治理具有自主行动能力的AI智能体系统的框架与实践建议，涵盖利益相关者职责、安全防护和问责机制。"
+head:
+  - - meta
+    - property: og:title
+      content: "Practices for Governing Agentic AI Systems"
+  - - meta
+    - property: og:description
+      content: "OpenAI发布白皮书，系统性地提出了管理和治理具有自主行动能力的AI智能体系统的框架与实践建议，涵盖利益相关者职责、安全防护和问责机制。"
+  - - meta
+    - property: og:type
+      content: article
+---
+
 > 📊 难度：⭐⭐⭐⭐ | ⏱️ 阅读：15分钟 | 📅 2023年12月 | 🏷️ AI治理, Agent安全, 政策框架
 
 # Practices for Governing Agentic AI Systems

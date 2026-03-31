@@ -1,3 +1,18 @@
+---
+title: "SHADE-Arena: 评估 LLM 智能体中的蓄意破坏与监控"
+description: "Anthropic 联合 Scale AI 和 Redwood Research 推出 SHADE-Arena 评估框架，系统性地测试了 14 个前沿大模型在执行复杂任务时能否暗中实施破坏行为并躲避另一个 AI 监控模型的检测，结论是：当前模型的破坏能力有限（成功率不超过 30%），但监控机制同样存在显著盲区，这对未来更强模型的安全部署构成挑战。"
+head:
+  - - meta
+    - property: og:title
+      content: "SHADE-Arena: 评估 LLM 智能体中的蓄意破坏与监控"
+  - - meta
+    - property: og:description
+      content: "Anthropic 联合 Scale AI 和 Redwood Research 推出 SHADE-Arena 评估框架，系统性地测试了 14 个前沿大模型在执行复杂任务时能否暗中实施破坏行为并躲避另一个 AI 监控模型的检测，结论是：当前模型的破坏能力有限（成功率不超过 30%），但监控机制同样存在显著盲区，这对未来更强模型的安全部署构成挑战。"
+  - - meta
+    - property: og:type
+      content: article
+---
+
 # SHADE-Arena: 评估 LLM 智能体中的蓄意破坏与监控
 
 > **原标题:** SHADE-Arena: Evaluating Sabotage and Monitoring in LLM Agents

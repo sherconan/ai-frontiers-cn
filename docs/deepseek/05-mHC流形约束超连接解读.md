@@ -1,3 +1,18 @@
+---
+title: "mHC: Manifold-Constrained Hyper-Connections / mHC：流形约束超连接——重新定义深度网络中的残差连接"
+description: "DeepSeek 于 2026 年初发表的 mHC 论文提出了一种新型网络连接机制，通过将超连接（Hyper-Connections）的残差连接空间投影到特定流形上，恢复了恒等映射特性，解决了原始超连接在大规模训练中的不稳定性问题，仅增加 6.7% 的训练开销即可获得显著的性能提升和更优的可扩展性。"
+head:
+  - - meta
+    - property: og:title
+      content: "mHC: Manifold-Constrained Hyper-Connections / mHC：流形约束超连接——重新定义深度网络中的残差连接"
+  - - meta
+    - property: og:description
+      content: "DeepSeek 于 2026 年初发表的 mHC 论文提出了一种新型网络连接机制，通过将超连接（Hyper-Connections）的残差连接空间投影到特定流形上，恢复了恒等映射特性，解决了原始超连接在大规模训练中的不稳定性问题，仅增加 6.7% 的训练开销即可获得显著的性能提升和更优的可扩展性。"
+  - - meta
+    - property: og:type
+      content: article
+---
+
 # mHC: Manifold-Constrained Hyper-Connections / mHC：流形约束超连接——重新定义深度网络中的残差连接
 
 ## 一句话摘要

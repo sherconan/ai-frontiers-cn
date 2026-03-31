@@ -1,3 +1,18 @@
+---
+title: "New Tools for Building Agents"
+description: "2025年3月11日，OpenAI发布了面向AI智能体开发的全套工具，包括Responses API、内置的Web搜索/文件搜索/计算机操作工具，以及开源的Agents SDK，标志着AI应用从\"对话\"向\"行动\"的范式转变。"
+head:
+  - - meta
+    - property: og:title
+      content: "New Tools for Building Agents"
+  - - meta
+    - property: og:description
+      content: "2025年3月11日，OpenAI发布了面向AI智能体开发的全套工具，包括Responses API、内置的Web搜索/文件搜索/计算机操作工具，以及开源的Agents SDK，标志着AI应用从\"对话\"向\"行动\"的范式转变。"
+  - - meta
+    - property: og:type
+      content: article
+---
+
 # New Tools for Building Agents
 
 ## 原标题

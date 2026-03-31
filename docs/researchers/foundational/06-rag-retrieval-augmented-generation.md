@@ -1,3 +1,18 @@
+---
+title: "RAG — 检索增强生成"
+description: "> 检索增强生成（RAG）通过在生成回答之前先从外部知识库检索相关信息，让大语言模型从\"闭卷考试\"变为\"开卷考试\"，有效解决了知识截止、领域知识不足和幻觉等核心问题，成为当前企业级 AI 应用最广泛采用的架构模式。"
+head:
+  - - meta
+    - property: og:title
+      content: "RAG — 检索增强生成"
+  - - meta
+    - property: og:description
+      content: "> 检索增强生成（RAG）通过在生成回答之前先从外部知识库检索相关信息，让大语言模型从\"闭卷考试\"变为\"开卷考试\"，有效解决了知识截止、领域知识不足和幻觉等核心问题，成为当前企业级 AI 应用最广泛采用的架构模式。"
+  - - meta
+    - property: og:type
+      content: article
+---
+
 # RAG — 检索增强生成
 
 **原标题**: Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks

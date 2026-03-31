@@ -1,3 +1,18 @@
+---
+title: "Signs of Introspection in Large Language Models"
+description: "Anthropic 研究团队通过\"概念注入\"实验，首次提供了因果层面的证据，表明 Claude 等大语言模型具备初步但有限的自省能力——即模型能够在一定程度上感知并报告自身的内部状态，而非仅仅生成看似合理的回答。"
+head:
+  - - meta
+    - property: og:title
+      content: "Signs of Introspection in Large Language Models"
+  - - meta
+    - property: og:description
+      content: "Anthropic 研究团队通过\"概念注入\"实验，首次提供了因果层面的证据，表明 Claude 等大语言模型具备初步但有限的自省能力——即模型能够在一定程度上感知并报告自身的内部状态，而非仅仅生成看似合理的回答。"
+  - - meta
+    - property: og:type
+      content: article
+---
+
 # Signs of Introspection in Large Language Models
 
 ## 大语言模型中的自省迹象

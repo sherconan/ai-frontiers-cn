@@ -1,3 +1,18 @@
+---
+title: "Introducing Mistral 3 | Mistral 3：开源 MoE 前沿模型回归"
+description: "Mistral AI 发布 Mistral 3 模型家族——包含 Mistral Large 3（675B 总参数 / 41B 激活的 MoE 架构）和 Ministral 3 系列（3B/8B/14B 稠密模型），全部支持多模态图像理解，小模型采用 Apache 2.0 开源，Large 3 在 3000 块 H200 GPU 上从零训练，是 Mixtral 系列以来 Mistral 首次回归"
+head:
+  - - meta
+    - property: og:title
+      content: "Introducing Mistral 3 | Mistral 3：开源 MoE 前沿模型回归"
+  - - meta
+    - property: og:description
+      content: "Mistral AI 发布 Mistral 3 模型家族——包含 Mistral Large 3（675B 总参数 / 41B 激活的 MoE 架构）和 Ministral 3 系列（3B/8B/14B 稠密模型），全部支持多模态图像理解，小模型采用 Apache 2.0 开源，Large 3 在 3000 块 H200 GPU 上从零训练，是 Mixtral 系列以来 Mistral 首次回归"
+  - - meta
+    - property: og:type
+      content: article
+---
+
 # Introducing Mistral 3 | Mistral 3：开源 MoE 前沿模型回归
 
 > **原标题：** Introducing Mistral 3

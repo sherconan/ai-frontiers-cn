@@ -1,3 +1,18 @@
+---
+title: "New LLM Pre-training and Post-training Paradigms / LLM预训练与后训练新范式"
+description: "通过深入对比 Qwen 2、Apple AFM、Gemma 2 和 Llama 3.1 四大模型的训练技术报告，揭示了2024年LLM训练领域的核心趋势：多阶段预训练成为标准范式，数据质量压倒数据数量，而后训练阶段正从复杂的RLHF向更简洁的DPO方向演进。"
+head:
+  - - meta
+    - property: og:title
+      content: "New LLM Pre-training and Post-training Paradigms / LLM预训练与后训练新范式"
+  - - meta
+    - property: og:description
+      content: "通过深入对比 Qwen 2、Apple AFM、Gemma 2 和 Llama 3.1 四大模型的训练技术报告，揭示了2024年LLM训练领域的核心趋势：多阶段预训练成为标准范式，数据质量压倒数据数量，而后训练阶段正从复杂的RLHF向更简洁的DPO方向演进。"
+  - - meta
+    - property: og:type
+      content: article
+---
+
 # New LLM Pre-training and Post-training Paradigms / LLM预训练与后训练新范式
 
 > **原标题**: New LLM Pre-training and Post-training Paradigms

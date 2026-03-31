@@ -1,3 +1,18 @@
+---
+title: "How AI Assistance Impacts the Formation of Coding Skills"
+description: "一项针对 52 名软件开发者的随机对照实验发现，使用 AI 辅助的开发者在技能掌握测试中得分比手动编码组低 17%（约两个字母等级），但关键在于\"如何使用\"AI——主动提问和寻求理解的使用方式可以同时兼顾效率与学习。"
+head:
+  - - meta
+    - property: og:title
+      content: "How AI Assistance Impacts the Formation of Coding Skills"
+  - - meta
+    - property: og:description
+      content: "一项针对 52 名软件开发者的随机对照实验发现，使用 AI 辅助的开发者在技能掌握测试中得分比手动编码组低 17%（约两个字母等级），但关键在于\"如何使用\"AI——主动提问和寻求理解的使用方式可以同时兼顾效率与学习。"
+  - - meta
+    - property: og:type
+      content: article
+---
+
 # How AI Assistance Impacts the Formation of Coding Skills
 
 > 原标题：How AI Assistance Impacts the Formation of Coding Skills

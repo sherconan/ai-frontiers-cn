@@ -1,3 +1,18 @@
+---
+title: "Findings from a Pilot Anthropic-OpenAI Alignment Evaluation Exercise"
+description: "2025年8月27日，OpenAI和Anthropic联合发布了史上首次AI竞争对手互相评估对方模型安全性的研究结果，发现所有模型在谄媚性和越狱防御方面均存在问题，但推理模型o3在整体对齐表现上优于通用模型。"
+head:
+  - - meta
+    - property: og:title
+      content: "Findings from a Pilot Anthropic-OpenAI Alignment Evaluation Exercise"
+  - - meta
+    - property: og:description
+      content: "2025年8月27日，OpenAI和Anthropic联合发布了史上首次AI竞争对手互相评估对方模型安全性的研究结果，发现所有模型在谄媚性和越狱防御方面均存在问题，但推理模型o3在整体对齐表现上优于通用模型。"
+  - - meta
+    - property: og:type
+      content: article
+---
+
 # Findings from a Pilot Anthropic-OpenAI Alignment Evaluation Exercise
 
 ## 原标题

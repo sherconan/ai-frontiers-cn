@@ -1,3 +1,18 @@
+---
+title: "LlamaCon 2025 — 首届LlamaCon大会"
+description: "Meta举办首届LlamaCon大会，推出Llama API开发者平台、与Cerebras/Groq的推理加速合作、企业级Llama Stack分发、新一代安全工具(Llama Guard 4/LlamaFirewall)，以及超过150万美元的影响力资助计划，标志着Llama从开源模型向完整生态平台的战略转型。"
+head:
+  - - meta
+    - property: og:title
+      content: "LlamaCon 2025 — 首届LlamaCon大会"
+  - - meta
+    - property: og:description
+      content: "Meta举办首届LlamaCon大会，推出Llama API开发者平台、与Cerebras/Groq的推理加速合作、企业级Llama Stack分发、新一代安全工具(Llama Guard 4/LlamaFirewall)，以及超过150万美元的影响力资助计划，标志着Llama从开源模型向完整生态平台的战略转型。"
+  - - meta
+    - property: og:type
+      content: article
+---
+
 # LlamaCon 2025 — 首届LlamaCon大会
 
 > **原标题**: Everything We Announced at Our First-Ever LlamaCon

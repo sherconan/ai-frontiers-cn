@@ -1,3 +1,18 @@
+---
+title: "DeepSeek-V3 Technical Report / DeepSeek-V3 技术报告深度解读"
+description: "DeepSeek-V3 是一个拥有 6710 亿参数（每个 token 仅激活 370 亿）的混合专家（MoE）大语言模型，以仅 557 万美元的训练成本和 278.8 万 H800 GPU 小时的投入，在开源模型中达到了最强性能，甚至在部分基准上可与 GPT-4o 和 Claude-3.5-Sonnet 等闭源模型媲美。"
+head:
+  - - meta
+    - property: og:title
+      content: "DeepSeek-V3 Technical Report / DeepSeek-V3 技术报告深度解读"
+  - - meta
+    - property: og:description
+      content: "DeepSeek-V3 是一个拥有 6710 亿参数（每个 token 仅激活 370 亿）的混合专家（MoE）大语言模型，以仅 557 万美元的训练成本和 278.8 万 H800 GPU 小时的投入，在开源模型中达到了最强性能，甚至在部分基准上可与 GPT-4o 和 Claude-3.5-Sonnet 等闭源模型媲美。"
+  - - meta
+    - property: og:type
+      content: article
+---
+
 # DeepSeek-V3 Technical Report / DeepSeek-V3 技术报告深度解读
 
 ## 一句话摘要

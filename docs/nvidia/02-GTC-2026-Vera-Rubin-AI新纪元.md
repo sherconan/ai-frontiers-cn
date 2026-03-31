@@ -1,3 +1,18 @@
+---
+title: "NVIDIA GTC 2026: Vera Rubin and the Next Era of AI | GTC 2026：Vera Rubin 与 AI 新纪元"
+description: "NVIDIA GTC 2026 发布四大核心产品：Vera Rubin GPU 架构（GPU-HBM 直接堆叠，AI 算力密度 3-4 倍于 Blackwell）、NemoClaw 企业微调平台、DLSS 5 神经渲染、Neotron 3 Super 边缘推理芯片，同时收购 Groq 后首次推出 Groq 3 LPU 推理加速器。Jensen Huang 预计 Blackwell+Vera Rub"
+head:
+  - - meta
+    - property: og:title
+      content: "NVIDIA GTC 2026: Vera Rubin and the Next Era of AI | GTC 2026：Vera Rubin 与 AI 新纪元"
+  - - meta
+    - property: og:description
+      content: "NVIDIA GTC 2026 发布四大核心产品：Vera Rubin GPU 架构（GPU-HBM 直接堆叠，AI 算力密度 3-4 倍于 Blackwell）、NemoClaw 企业微调平台、DLSS 5 神经渲染、Neotron 3 Super 边缘推理芯片，同时收购 Groq 后首次推出 Groq 3 LPU 推理加速器。Jensen Huang 预计 Blackwell+Vera Rub"
+  - - meta
+    - property: og:type
+      content: article
+---
+
 # NVIDIA GTC 2026: Vera Rubin and the Next Era of AI | GTC 2026：Vera Rubin 与 AI 新纪元
 
 > **原标题：** NVIDIA GTC 2026: Live Updates on What's Next in AI

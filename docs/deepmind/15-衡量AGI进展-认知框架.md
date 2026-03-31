@@ -1,3 +1,18 @@
+---
+title: "Measuring Progress Toward AGI: A Cognitive Framework | 衡量 AGI 进展：认知框架"
+description: "Google DeepMind 提出一套基于认知科学的 AGI 进展衡量框架，通过定义多层次认知能力维度和评估标准，为 AI 系统向通用智能发展提供系统性、可量化的衡量方法，超越传统的单一基准测试范式。"
+head:
+  - - meta
+    - property: og:title
+      content: "Measuring Progress Toward AGI: A Cognitive Framework | 衡量 AGI 进展：认知框架"
+  - - meta
+    - property: og:description
+      content: "Google DeepMind 提出一套基于认知科学的 AGI 进展衡量框架，通过定义多层次认知能力维度和评估标准，为 AI 系统向通用智能发展提供系统性、可量化的衡量方法，超越传统的单一基准测试范式。"
+  - - meta
+    - property: og:type
+      content: article
+---
+
 # Measuring Progress Toward AGI: A Cognitive Framework | 衡量 AGI 进展：认知框架
 
 > **原标题：** Measuring Progress Toward AGI: A Cognitive Framework

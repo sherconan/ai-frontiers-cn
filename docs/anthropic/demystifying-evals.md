@@ -1,3 +1,18 @@
+---
+title: "揭秘AI智能体的评估方法论"
+description: "Anthropic发布了一份全面的AI智能体评估指南，涵盖核心术语体系、三类评分器设计、四类智能体的评估策略、非确定性处理以及从0到1的实施路线图，将评估从\"事后调试\"提升为\"主动质量保障\"。"
+head:
+  - - meta
+    - property: og:title
+      content: "揭秘AI智能体的评估方法论"
+  - - meta
+    - property: og:description
+      content: "Anthropic发布了一份全面的AI智能体评估指南，涵盖核心术语体系、三类评分器设计、四类智能体的评估策略、非确定性处理以及从0到1的实施路线图，将评估从\"事后调试\"提升为\"主动质量保障\"。"
+  - - meta
+    - property: og:type
+      content: article
+---
+
 # 揭秘AI智能体的评估方法论
 
 > **原标题：** Demystifying Evals for AI Agents
