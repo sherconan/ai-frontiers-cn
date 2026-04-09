@@ -1,0 +1,6 @@
+[2026-04-04 09:13:01] === AI 前沿精读 每日更新开始 ===
+[2026-04-04 09:13:05] 现有文章数: 203
+[2026-04-04 09:13:05] 启动 Claude Code 进行新文章检测与翻译...
+/Users/sherconan/ai-frontiers-cn/scripts/daily-update.sh: line 108: claude: command not found
+[2026-04-04 09:13:05] Claude Code 执行结束 (exit code: 127)
+[2026-04-04 09:13:05] === AI 前沿精读 每日更新完成 ===
