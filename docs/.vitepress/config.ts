@@ -113,6 +113,7 @@ export default defineConfig({
     logo: '🧠',
     nav: [
       { text: '首页', link: '/' },
+      { text: '✨ 每日精选', link: '/daily-picks/' },
       {
         text: '海外实验室',
         items: [
@@ -167,6 +168,20 @@ export default defineConfig({
     ],
 
     sidebar: {
+      '/daily-picks/': [
+        {
+          text: '✨ 每日精选',
+          collapsed: false,
+          items: [
+            { text: '📋 概览', link: '/daily-picks/' },
+            { text: '2026-04-16 · GPT-5 System Card', link: '/daily-picks/2026-04-16-gpt-5-system-card' },
+            { text: '2026-04-15 · 给 Agent 写工具', link: '/daily-picks/2026-04-15-writing-tools-for-agents' },
+            { text: '2026-04-14 · 上下文工程', link: '/daily-picks/2026-04-14-context-engineering' },
+            { text: '2026-04-13 · Claude Sonnet 4.6', link: '/daily-picks/2026-04-13-claude-sonnet-4-6' },
+            { text: '2026-04-12 · Claude Opus 4.6', link: '/daily-picks/2026-04-12-claude-opus-4-6' },
+          ],
+        },
+      ],
       '/anthropic/': [
         {
           text: 'Anthropic (64 篇)',
