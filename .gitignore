@@ -2,3 +2,8 @@ node_modules/
 docs/.vitepress/dist/
 docs/.vitepress/cache/
 .DS_Store
+
+# env files
+.env
+.env.*
+!.env.example
