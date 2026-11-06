@@ -28,11 +28,15 @@ export default defineConfig({
     ['meta', { property: 'og:title', content: 'AI 前沿精读 — 全球顶尖 AI 实验室博客中文解读' }],
     ['meta', { property: 'og:description', content: '覆盖 Anthropic、OpenAI、Google DeepMind、DeepSeek 等 15+ 实验室，200+ 篇深度翻译与解读文章' }],
     ['meta', { property: 'og:url', content: 'https://sherconan.github.io/ai-frontiers-cn/' }],
+    ['meta', { property: 'og:image', content: 'https://sherconan.github.io/ai-frontiers-cn/og-cover.png' }],
+    ['meta', { property: 'og:image:width', content: '1280' }],
+    ['meta', { property: 'og:image:height', content: '640' }],
 
     // Twitter Card
     ['meta', { name: 'twitter:card', content: 'summary_large_image' }],
     ['meta', { name: 'twitter:title', content: 'AI 前沿精读' }],
     ['meta', { name: 'twitter:description', content: '全球顶尖 AI 实验室博客的中文翻译与深度解读' }],
+    ['meta', { name: 'twitter:image', content: 'https://sherconan.github.io/ai-frontiers-cn/og-cover.png' }],
 
     // RSS Feed
     ['link', { rel: 'alternate', type: 'application/rss+xml', title: 'AI 前沿精读 RSS', href: '/ai-frontiers-cn/feed.xml' }],
